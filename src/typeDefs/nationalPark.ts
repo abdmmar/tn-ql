@@ -1,6 +1,7 @@
 const nationalPark = `
   extend type Query{
     nationalParks: [NationalPark!]!
+    nationalPark(id: ID!): NationalPark
   }
 
   type NationalPark {

@@ -1,3 +1,4 @@
+import { PathLike } from 'fs'
 import * as fsp from 'fs/promises'
 
 const FILENAME = 'national-parks.json'
@@ -49,12 +50,32 @@ type Regions =
   | 'Sumatra'
   | ''
 
+async function readData(filename: PathLike | fsp.FileHandle) {
+  const buffer = await fsp.readFile(filename, 'utf-8')
+  const data = JSON.parse(buffer.toString())
+  return data
+}
+
 const resolvers = {
   Query: {
     nationalParks: async (): Promise<NationalPark[]> => {
-      const data = await fsp.readFile(`./src/data/${FILENAME}`, 'utf-8')
-      const nationalParks = JSON.parse(data.toString())
+      const nationalParks: NationalPark[] = await readData(`./src/data/${FILENAME}`)
       return nationalParks
+    },
+    nationalPark: async (root: unknown, args: { id: string }): Promise<NationalPark | null> => {
+      const nationalParks: NationalPark[] = await readData(`./src/data/${FILENAME}`)
+      let nationalPark: NationalPark | null = null
+
+      for (let i = 0; i < nationalParks.length; i++) {
+        const park = nationalParks[i]
+
+        if (args.id === park.id) {
+          nationalPark = park
+          break
+        }
+      }
+
+      return nationalPark
     },
   },
 }
