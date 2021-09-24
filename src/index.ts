@@ -8,9 +8,8 @@ const PORT = process.env.PORT || 4000
 async function startServer() {
   const server = new ApolloServer({ typeDefs, resolvers })
 
-  server.listen(PORT).then(({ url }) => {
-    console.log(`🚀 Server is running on ${url}`)
-  })
+  const { url } = await server.listen(PORT)
+  console.log(`🚀 Server is running on ${url}`)
 }
 
 startServer()
