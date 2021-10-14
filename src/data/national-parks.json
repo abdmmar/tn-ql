@@ -8,10 +8,14 @@
       "original_source": "https://www.flickr.com/photos/ronrad/4083222845/",
       "author": "Ron from Nieuwegein / South Moreton Oxfordshire, Netherlands / UK",
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bali_Barat_NP_2009.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 4459,
       "height": 2893,
       "size": "3,47 MB",
@@ -45,10 +49,17 @@
       "author": "Thorsten Peters",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rinjani_Caldera.jpg",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC-BY-SA-3.0",
-          "link": "http://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
       ],
       "width": 5814,
@@ -83,10 +94,14 @@
       "original_source": "Karya sendiri",
       "author": "Jialiang Gao (peace-on-earth.org)",
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Caldera_Mt_Tambora_Sumbawa_Indonesia.jpg",
-      "license": {
-        "type": "CC BY-SA 3.0",
-        "link": "https://creativecommons.org/licenses/by-sa/3.0"
-      },
+      "license": [
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      ],
       "width": 900,
       "height": 600,
       "size": "151 KB",
@@ -111,10 +126,14 @@
       "original_source": "https://www.flickr.com/photos/21976354@N07/2816840142/",
       "author": "Neil, WWW.NEILSRTW.BLOGSPOT.COM Malaysia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kelimutu_2008-08-08.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 2689,
       "height": 1693,
       "size": "1,17 MB",
@@ -139,10 +158,17 @@
       "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Komodo-dragon-1.jpg",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC-BY-SA-3.0",
-          "link": "http://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
       ],
       "width": 2272,
@@ -155,7 +181,18 @@
     "year": "1980",
     "total_area": { "km": 1817, "miles": 701 },
     "waters_percentages": "66%",
-    "intl_status": "Situs Warisan Dunia;[5] World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 2,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/609"
+      },
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Bali dan Nusa Tenggara",
     "description": "Taman Nasional Komodo terletak di daerah administrasi Provinsi Nusa Tenggara Timur",
     "coordinate": {
@@ -177,10 +214,14 @@
       "original_source": "https://www.flickr.com/photos/seabreeze/79743738/",
       "author": "rochmad setyadi from Jakarta, DKI, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Alas_Purwo_2005.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 640,
       "height": 426,
       "size": "160 KB",
@@ -213,10 +254,14 @@
       "original_source": "https://www.flickr.com/photos/seabreeze/5078127973/",
       "author": "rochmad setyadi from Jakarta, DKI, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wild_Deers_near_Bama_Point%2C_Baluran.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 1024,
       "height": 681,
       "size": "545 KB",
@@ -251,10 +296,17 @@
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Semeru_Bromo_Temple.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \n",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" }
+        {
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        }
       ],
       "width": 800,
       "height": 532,
@@ -266,7 +318,13 @@
     "year": "1983",
     "total_area": { "km": 503, "miles": 194 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves bersama dengan Gunung Arjuno",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Jawa",
     "description": "Taman Nasional Bromo Tengger Semeru adalah taman nasional di Jawa Timur, Indonesia, yang terletak di wilayah administratif Kabupaten Pasuruan, Kabupaten Malang, Kabupaten Lumajang dan Kabupaten Probolinggo. Taman yang bentangan barat-timurnya sekitar 20-30 kilometer dan utara-selatannya sekitar 40 km ini ditetapkan sejak tahun 1982 dengan luas wilayahnya sekitar 50.276,3 ha. Di kawasan ini terdapat kaldera lautan pasir yang luasnya ±6290 ha. Batas kaldera lautan pasir itu berupa dinding terjal, yang ketinggiannya antara 200-700 meter.",
     "coordinate": { "latitude": -7.941666666666667, "longitude": 112.95 },
@@ -283,10 +341,14 @@
       "original_source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
       "author": "G.F.J. (Georg Friedrich Johannes) Bley (Fotograaf/photographer).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/COLLECTIE_TROPENMUSEUM_Gezicht_op_een_meer_en_de_vulkaan_Cereme_oftewel_Ciremai_TMnr_60005195.jpg",
-      "license": {
-        "type": "CC BY-SA 3.0",
-        "link": "https://creativecommons.org/licenses/by-sa/3.0"
-      },
+      "license": [
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      ],
       "width": 700,
       "height": 521,
       "size": "77 KB",
@@ -318,10 +380,14 @@
       "original_source": "https://www.flickr.com/photos/60169539@N00/2305850016/",
       "author": "Tanti Ruwani from Jakarta, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gunung_Gede_in_The_Clouds.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 3072,
       "height": 1440,
       "size": "2,08 MB",
@@ -332,7 +398,13 @@
     "year": "1980",
     "total_area": { "km": 150, "miles": 58 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Jawa",
     "description": "Taman Nasional Gunung Gede Pangrango (TNGGP) adalah salah satu taman nasional yang terletak di Provinsi Jawa Barat. Ditetapkan pada tahun 1980, taman nasional ini merupakan salah satu yang tertua di Indonesia. TN Gunung Gede Pangrango terutama didirikan untuk melindungi dan mengkonservasi ekosistem dan flora pegunungan yang cantik di Jawa Barat. Dengan luas 24.270,80 hektare, wilayahnya terutama mencakup dua puncak gunung Gede dan Pangrango beserta tutupan hutan pegunungan di sekelilingnya.",
     "coordinate": {
@@ -353,10 +425,14 @@
       "original_source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
       "author": "G.F.J. (Georg Friedrich Johannes) Bley (Fotograaf/photographer).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/COLLECTIE_TROPENMUSEUM_Gezicht_vanuit_een_droge_rotsachtige_rivierbedding_op_de_vulkaan_Salak_TMnr_60016669.jpg",
-      "license": {
-        "type": "CC BY-SA 3.0",
-        "link": "https://creativecommons.org/licenses/by-sa/3.0"
-      },
+      "license": [
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      ],
       "width": 700,
       "height": 511,
       "size": "77 KB",
@@ -388,10 +464,17 @@
       "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Blethrow_merapi1.jpg",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC-BY-SA-3.0",
-          "link": "http://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
       ],
       "width": 1024,
@@ -425,14 +508,23 @@
       "author": "Merbabu di Wikipedia bahasa Inggris.",
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pemandangan_Merbabu_dari_Kota_Salatiga_%281%29.jpg",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC-BY-SA-3.0",
-          "link": "http://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
-          "type": "CC BY 2.5 \n",
-          "link": "https://creativecommons.org/licenses/by/2.5\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 5,
+          "licenseId": "CC-BY-2.5",
+          "name": "Creative Commons Attribution 2.5 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.5"
         }
       ],
       "width": 1000,
@@ -463,10 +555,14 @@
       "original_source": "https://www.flickr.com/photos/duabelas/4149453248/",
       "author": "Azwari Nugraha",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tanjung_Gelam_-_Karimunjawa.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 1024,
       "height": 680,
       "size": "400 KB",
@@ -499,14 +595,23 @@
       "author": "No machine-readable author provided. Hullie assumed (based on copyright claims).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pulau_seribu.jpg",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC-BY-SA-3.0",
-          "link": "http://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
-          "type": "CC BY 2.5 \n",
-          "link": "https://creativecommons.org/licenses/by/2.5\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 5,
+          "licenseId": "CC-BY-2.5",
+          "name": "Creative Commons Attribution 2.5 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.5"
         }
       ],
       "width": 1334,
@@ -519,7 +624,13 @@
     "year": "1982",
     "total_area": { "km": 1080, "miles": 420 },
     "waters_percentages": "Sebagian besar",
-    "intl_status": "Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Jawa",
     "description": "Taman Nasional Kepulauan Seribu  adalah kawasan pelestarian alam bahari di Indonesia yang terletak kurang lebih 45 km sebelah utara Jakarta.",
     "coordinate": {
@@ -543,10 +654,17 @@
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Beach_Bande_Alit_A.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \n",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" }
+        {
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        }
       ],
       "width": 800,
       "height": 327,
@@ -573,10 +691,11 @@
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dead_Javan_Rhino.jpg",
       "license": [
         {
-          "type": "Public domain",
+          "id": 6,
+          "licenseId": "Public domain",
+          "name": "Public domain",
           "link": "https://creativecommons.org/publicdomain/mark/1.0/"
-        },
-        { "type": "PDM" }
+        }
       ],
       "width": 1283,
       "height": 902,
@@ -588,7 +707,13 @@
     "year": "1980",
     "total_area": { "km": 1206, "miles": 466 },
     "waters_percentages": "443 km²",
-    "intl_status": "Situs Warisan Dunia[6]",
+    "intl_status": [
+      {
+        "id": 8,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/608"
+      }
+    ],
     "region": "Jawa",
     "description": "Taman Nasional Ujung Kulon terletak di bagian paling barat Pulau Jawa, Indonesia. Kawasan taman nasional ini pada mulanya meliputi wilayah Krakatau dan beberapa pulau kecil di sekitarnya seperti Pulau Handeuleum dan Pulau Peucang dan Pulau Panaitan. Kawasan taman nasional ini mempunyai luas sekitar 122.956 Ha;, yang dimulai dari Semenanjung Ujung Kulon sampai dengan Samudera Hindia.",
     "coordinate": {
@@ -610,10 +735,14 @@
       "original_source": null,
       "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/id/d/dc/Pegunungan_schwaner.jpg",
-      "license": {
-        "type": "GFDL",
-        "link": "http://www.gnu.org/copyleft/fdl.html"
-      },
+      "license": [
+        {
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        }
+      ],
       "width": 604,
       "height": 453,
       "size": "22 KB",
@@ -637,10 +766,14 @@
       "original_source": "https://www.flickr.com/photos/42790152@N06/3947104713/",
       "author": "Natureandpoverty.net",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Danau_Sentarum_2006.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 1024,
       "height": 768,
       "size": "525 KB",
@@ -651,7 +784,13 @@
     "year": "1999",
     "total_area": { "km": 1320, "miles": 510 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Kalimantan",
     "description": "Taman Nasional Danau Sentarum adalah taman nasional yang terletak di Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat. Lahan yang dijadikan sebagai wilayahnya seluas ±132 000 ha. Bentang lahannnya terdiri atas beberapa danau musiman (23%), dan hutan rawa. Taman Nasional Danau Sentarum mempunyai keanekaragaman hayati yang beragam. Sebagian kecil wilayahnya yang berbentuk bukit menjadi habitat dari meranti dan kerangas. Taman Nasional Danau Sentarum ditetapkan sebagai situs ramsar sejak tahun 1994. Iklim di kawasannya selalu basah dan lembab dan mendukung perkembangan keanekaragaman hayati. Di dalam taman nasional ini hidup beberapa spesies tumbuhan endemik seperti Caesaria spp, Croton cf ensifolius, Dichilanthe borneensis, Eugenia ambigua, Helicia cf petiolaris, Korthlsella cf germinans, Microcos cf stylocarpus, Rhodoleia spp, Ternstroemia cf toguian, dan Vatica cf umbronata. Beberapa hewan yang terancam mengalami kepunahan juga hidup di dalamnya, seperti buaya sinyulong, buaya muara, dan buaya siam. Wilayah perairan di Taman Nasional Danau Sentarum merupakan habitat ikan arwana merah yang langka. Mamalia yang hidup di pinggir danau dan sungai dalam jumlah sedikit ialah orang utan dan bekantan. Selain itu, ada dua jenis burung langka yang dapat ditemui yaitu burung ruwai dan karau paruh merah. Di dalam Taman Nasional Danau Sentarum sering terjadi penebangan ramin khususnya di kawasan hutan rawa gambut. Peran utama dari penetapan Taman Nasional Danau Sentarum adalah untuk melindungi keanekaragaman hayati di sekitar Danau Sentarum.",
     "coordinate": {
@@ -672,10 +811,14 @@
       "original_source": "https://www.flickr.com/photos/24577950@N03/4083438869/",
       "author": "Tom from the Netherlands",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gunung_Palung_Jungle.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 1600,
       "height": 1067,
       "size": "425 KB",
@@ -701,10 +844,17 @@
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gas_Station_A.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \n",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" }
+        {
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        }
       ],
       "width": 704,
       "height": 528,
@@ -730,10 +880,14 @@
       "original_source": "https://www.flickr.com/photos/21976354@N07/2931279428/",
       "author": "Neil WWW.NEILSRTW.BLOGSPOT.COM",
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kutai_Orangutan_2008.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 1574,
       "height": 1922,
       "size": "966 KB",
@@ -757,7 +911,14 @@
       "original_source": "Karya sendiri",
       "author": "Aymatth2",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sabangau_River.jpg",
-      "license": [{ "type": "Public domain" }],
+      "license": [
+        {
+          "id": 6,
+          "licenseId": "Public domain",
+          "name": "Public domain",
+          "link": "https://creativecommons.org/publicdomain/mark/1.0/"
+        }
+      ],
       "width": 527,
       "height": 665,
       "size": "48 KB",
@@ -783,10 +944,17 @@
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Win_the_Orangutang_in_Tanjung_Puting_National_Park_2005.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \n",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\n"
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" }
+        {
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        }
       ],
       "width": 375,
       "height": 500,
@@ -798,7 +966,13 @@
     "year": "1982",
     "total_area": { "km": 4150, "miles": 1370 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Kalimantan",
     "description": "Taman Nasional Tanjung Puting adalah sebuah taman nasional yang terletak di semenanjung barat daya provinsi Kalimantan Tengah.",
     "coordinate": {
@@ -820,10 +994,14 @@
       "original_source": "https://www.flickr.com/photos/exploreplants/4771728091/",
       "author": "exploreplants",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edge_of_Aketajawe-Lolobata_National_Park.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 3648,
       "height": 2736,
       "size": "4,65 MB",
@@ -855,10 +1033,14 @@
       "original_source": null,
       "author": "Alfindra Primaldhi",
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Puncakjaya.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 640,
       "height": 480,
       "size": "124 KB",
@@ -869,7 +1051,18 @@
     "year": "1997",
     "total_area": { "km": 25050, "miles": 9670 },
     "waters_percentages": "none",
-    "intl_status": "Situs Warisan Dunia[8]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 9,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/955"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Maluku dan Papua",
     "description": "Taman Nasional Lorentz adalah sebuah taman nasional yang terletak di provinsi Papua, Indonesia. Lahan yang ditempatinya seluas wilayah sebesar 2.505.600 Hektare. Dalam pembagian administraif, Taman Nasional Lorent berada dalam wilayah Kabupaten Jayawijaya, Kabupaten Mimika, Kabupaten Asmat, Kabupaten Yahukimo, dan Kabupaten Puncak Jaya. Taman Nasional Lorentz juga terbagi menjadi 16 distrik. Pemerintah Indonesia menetapkan kawasannya sebagai taman nasional pada tahun 1997. UNESCO juga menetapkan Taman Nasional Lorentz sebagai warisan dunia pada tahun 1999.",
     "coordinate": { "latitude": -4.75, "longitude": 137.83333333333334 }
@@ -883,10 +1076,14 @@
       "original_source": "https://www.flickr.com/photos/57798979@N00/4514915781/",
       "author": "Standel",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wasur_Rainbow_1994.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 915,
       "height": 600,
       "size": "104 KB",
@@ -897,7 +1094,13 @@
     "year": "1990",
     "total_area": { "km": 4138, "miles": 1598 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Maluku dan Papua",
     "description": "Taman Nasional Wasur adalah salah satu taman nasional yang ada di Indonesia. Letaknya berada di bagian tenggara Provinsi Papua. Namanya merupakan nama salah satu desa di dalamnya. Nama tersebut berasal dari kata bahasa Marori yaitu Waisol yang berarti kebun. Taman Nasional Wasur merupakan lahan basah yang tergenang air selama 4 - 6 bulan dalam setahun. Di dalamnya terdapat habitat burung migran. Keseimbangan ekosistem di dalam Taman Nasional Wasur dipengaruhi oleh siklus air. Pada musim kemarau, rawa-rawa terbentuk karena air surut melalui parit-parit alami yang terhubung ke laut. Dalam sistem koordinat geografi, kawasan Taman Nasional Wasur terletak antara 140o 29' – 141o 00' Bujur Timur dan 08o 04' – 09o 07' Lintang Selatan. Dalam pembagian administratif Indonesia, Taman Nasional Wasur masuk dalam wilayah Kabupaten Merauke di 4 kecamatan. Kecamatan-kecamatan ini ialah Kecamatan Merauke, Kecamatan Jagebob, Kecamatan Sota dan Kecamatan Naukenjarai. Wilayah di dalam Taman Nasional Wasur telah dihuni oleh empat suku yaitu Suku Kanume, Suku Yeinan, Suku Marori Mengey dan Suku Marind. Keempat suku ini tinggal di kawasan hutan adat.",
     "coordinate": {
@@ -919,10 +1122,17 @@
       "author": "Btv70",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bunaken01.JPG",
       "license": [
-        { "type": "GFDL", "link": "http://www.gnu.org/copyleft/fdl.html" },
         {
-          "type": "CC BY-SA 3.0 \n",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\n"
+          "id": 2,
+          "licenseId": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
       ],
       "width": 3888,
@@ -935,7 +1145,13 @@
     "year": "1991",
     "total_area": { "km": 890, "miles": 305 },
     "waters_percentages": "97%",
-    "intl_status": "Calon Situs Warisan Dunia[9]",
+    "intl_status": [
+      {
+        "id": 5,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2002/"
+      }
+    ],
     "region": "Sulawesi",
     "description": "Taman Nasional Bunaken adalah taman laut yang terletak di Sulawesi Utara, Indonesia. Taman ini terletak di Segitiga Terumbu Karang yang menjadi habitat bagi 390 spesies terumbu karang dan juga berbagai spesies ikan, moluska, reptil, dan mamalia laut. Taman Nasional Bunaken merupakan perwakilan ekosistem laut Indonesia, meliputi padang rumput laut, terumbu karang, dan ekosistem pantai.",
     "coordinate": {
@@ -957,10 +1173,14 @@
       "original_source": "https://www.flickr.com/photos/azwegers/6972093459/",
       "author": "Arian Zwegers",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kadidiri%2C_morning_view_%286972093459%29.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 4272,
       "height": 2848,
       "size": "4,9 MB",
@@ -992,10 +1212,14 @@
       "original_source": "https://www.flickr.com/photos/wak1/140791245/",
       "author": "Aidenvironment, 2007",
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Danau_Lindu_w_bird_2007.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 3456,
       "height": 2304,
       "size": "2,68 MB",
@@ -1006,7 +1230,13 @@
     "year": "1982",
     "total_area": { "km": 2290, "miles": 884 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Sulawesi",
     "description": "Taman Nasional Lore Lindu (TNLL) merupakan salah satu taman nasional di Indonesia yang terletak di provinsi Sulawesi Tengah dan salah satu lokasi perlindungan hayati Sulawesi. Taman Nasional Lore Lindu terletak sekitar 60 kilometer selatan kota Palu dan terletak antara 119°90’ – 120°16’BT dan 1°8’ – 1°3’LS.",
     "coordinate": {
@@ -1028,10 +1258,14 @@
       "original_source": "https://www.flickr.com/photos/26598370@N00/219132302/",
       "author": "Jenny from Taipei",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wakatobi_beach_2006.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 3872,
       "height": 2592,
       "size": "2,55 MB",
@@ -1042,7 +1276,23 @@
     "year": "2002",
     "total_area": { "km": 13900, "miles": 5370 },
     "waters_percentages": "Sebagian besar",
-    "intl_status": "World Network of Biosphere ReservesCalon Situs Warisan Dunia[12]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 6,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2006/"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sulawesi",
     "description": "Taman Nasional Wakatobi adalah salah satu taman nasional di Indonesia. Letaknya di Kabupaten Wakatobi, Sulawesi Tenggara. Taman nasional ini ditetapkan pada tanggal 19 Agustus tahun 2002 berdasarkan Surat Keputusan Menteri kehutanan Nomor 7661/Kpts-II/2002. Lahan yang dipakai seluas 1,39 juta hektare. Sebelumnya, taman nasional ini juga telah ditetapkan oleh Surat Keputusan Menteri Kehutanan Nomor 393/Kpts-V/1996. Taman Nasional Wakatobi terdiri dari 25 gugusan terumbu karang sepanjang 600 km. Wakatobi merupakan akronim dari nama empat pulau besar, yaitu Pulau Wangi-wangi, Pulau Kaledupa, Pulau Tomia dan Pulau Binongko. Perairan lautnya beragam mulai dari yang datar, melandai ke arah laut, dan bertubir curam. Kedalaman airnya bervariasi dengan bagian terdalam 1.044 meter. Permukaan laut ini berpasir dan berkarang. Di taman nasional ini ada 112 jenis karang dari 13 famili. Selain itu terdapat 93 jenis ikan hias dan beberapa jenis penyu. Ada pula beberapa jenis burung laut seperti angsa-batu coklat, cerek melayu dan raja udang erasia. Taman Nasional Wakatobi berbatasan dengan Laut Banda di utara dan timur. Di bagian selatan berbatasan dengan Laut Flores, sedangkan bagian baratnya berbatasan dengan Pulau Buton.",
     "coordinate": {
@@ -1063,7 +1313,14 @@
       "original_source": "http://www.volcano.si.edu/world/volcano.cfm?vnum=0601-12=&volpage=photos&photo=005044",
       "author": "Tom Casadevall, U.S. Geological Survey",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sorikmarapi.jpg",
-      "license": [{ "type": "Public domain" }],
+      "license": [
+        {
+          "id": 6,
+          "licenseId": "Public domain",
+          "name": "Public domain",
+          "link": "https://creativecommons.org/publicdomain/mark/1.0/"
+        }
+      ],
       "width": 640,
       "height": 434,
       "size": "36 KB",
@@ -1086,10 +1343,14 @@
       "original_source": "https://www.flickr.com/photos/cifor/7208537208/",
       "author": "Photo by James Maiden www.cifor.org Center for International Forestry Research",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Berbak_National_Park_2012.jpg",
-      "license": {
-        "type": "CC BY-SA 2.0",
-        "link": "https://creativecommons.org/licenses/by-sa/2.0"
-      },
+      "license": [
+        {
+          "id": 4,
+          "licenseId": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by-sa/2.0"
+        }
+      ],
       "width": 3872,
       "height": 2592,
       "size": "4,45 MB",
@@ -1100,7 +1361,13 @@
     "year": "1992",
     "total_area": { "km": 1627, "miles": 628 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Berbak merupakan kawasan pelestarian alam untuk konservasi hutan rawa terluas di Asia Tenggara yang belum terjamah oleh eksploitasi manusia. Taman nasional ini memiliki luas 142.750 hektare. Keunikannya berupa gabungan yang menarik antara hutan rawa air tawar dan hutan rawa gambut yang terbentang luas di pesisir Timur Pulau Sumatra serta Taman Nasional Berbak adalah bagian dari Bentang Alam Hutan Gambut Berbak yang luas 238.000 hektare."
   },
@@ -1113,10 +1380,14 @@
       "original_source": "Karya sendiri",
       "author": "Dastin akbar",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_barisan.jpg",
-      "license": {
-        "type": "CC BY-SA 4.0",
-        "link": "https://creativecommons.org/licenses/by-sa/4.0"
-      },
+      "license": [
+        {
+          "id": 7,
+          "licenseId": "CC-BY-SA-4.0",
+          "name": "Creative Commons Attribution Share Alike 4.0 International",
+          "link": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      ],
       "width": 3120,
       "height": 4160,
       "size": "2,46 MB",
@@ -1127,7 +1398,13 @@
     "year": "1999",
     "total_area": { "km": 3650, "miles": 1410 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Bukit Barisan Selatan (TNBBS) adalah sebuah taman nasional yang ditujukan untuk melindungi hutan hujan tropis pulau Sumatra beserta kekayaan alam hayati yang dimilikinya. UNESCO menjadikan Taman Nasional Bukit Barisan Selatan sebagai Warisan Dunia. Taman Nasional Bukit Barisan Selatan memiliki luas wilayah sekitar 355.511 Ha. Taman Nasional Bukit Barisan Selatan merupakan bagian dari pegunungan Bukit Barisan. Wilayah pegunungan Bukit Barisan memiliki beragam vegetasi alam seperti vegetasi hutan mangrove, hutan pantai, dan hutan pamah tropika.",
     "coordinate": {
@@ -1148,10 +1425,14 @@
       "original_source": "Karya sendiri",
       "author": "Fitryamandita",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/A_taxonomist_at_work.JPG",
-      "license": {
-        "type": "CC BY-SA 4.0",
-        "link": "https://creativecommons.org/licenses/by-sa/4.0"
-      },
+      "license": [
+        {
+          "id": 7,
+          "licenseId": "CC-BY-SA-4.0",
+          "name": "Creative Commons Attribution Share Alike 4.0 International",
+          "link": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      ],
       "width": 3088,
       "height": 2056,
       "size": "2,67 MB",
@@ -1183,10 +1464,14 @@
       "original_source": null,
       "author": "Norbert Guthier",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/FZS_Programm_Director_Peter_Pratje_working_with_orangutans_in_Bukit_Tigapulu%2C_Indonesia.jpg",
-      "license": {
-        "type": "CC BY 4.0",
-        "link": "https://creativecommons.org/licenses/by/4.0"
-      },
+      "license": [
+        {
+          "id": 8,
+          "licenseId": "CC-BY-4.0",
+          "name": "Creative Commons Attribution 4.0 International",
+          "link": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
       "width": 4992,
       "height": 3328,
       "size": "5,37 MB",
@@ -1216,10 +1501,14 @@
       "original_source": "https://www.flickr.com/photos/98073722@N00/2938561872/",
       "author": "flydime",
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gunung_Leuser_National_Park_Jungle_Life.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 1000,
       "height": 732,
       "size": "616 KB",
@@ -1230,7 +1519,23 @@
     "year": "1980",
     "total_area": { "km": 7927, "miles": 3061 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]World Network of Biosphere Reserves\nTaman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      },
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Gunung Leuser biasa disingkat TNGL adalah salah satu Kawasan Pelestarian Alam di Indonesia seluas 1.094.692 hektare yang secara administrasi pemerintahan terletak di Provinsi Aceh dan Sumatra Utara. Provinsi Aceh yang terdeliniasi TNGL meliputi Kabupaten Subulussalam, Aceh Selatan, Aceh Singkil, Aceh Tengah, Aceh Tenggara, Gayo Lues, Bener Meriah, Aceh Tamiang, sedangkan Provinsi Sumatra Utara yang terdeliniasi TNGL meliputi Kabupaten Dairi, Karo, dan Langkat.",
     "coordinate": { "latitude": 3.7725, "longitude": 97.24527777777777 },
@@ -1248,10 +1553,14 @@
       "original_source": null,
       "author": "id:user:SHRDT",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kerinci_Seblat_river.jpg",
-      "license": {
-        "type": "CC BY-SA 3.0",
-        "link": "https://creativecommons.org/licenses/by-sa/3.0"
-      },
+      "license": [
+        {
+          "id": 1,
+          "licenseId": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      ],
       "width": 350,
       "height": 263,
       "size": "35 KB",
@@ -1262,7 +1571,18 @@
     "year": "1999",
     "total_area": { "km": 13750, "miles": 5310 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Kerinci Seblat adalah taman nasional terbesar di Sumatra yang memiliki luas wilayah sebesar 13,750 km². Taman nasional ini terletak pada koordinat antara 100°31'18\"E - 102°44'01\"E dan 1°07'13\"S - 1°26'14\"S. Secara administratif wilayah taman nasional ini berada di 14 kabupaten dan 2 kota yang termasuk dalam 4 provinsi yaitu Sumatra Barat, Jambi, Bengkulu, dan Sumatra Selatan.",
     "coordinate": {
@@ -1283,10 +1603,14 @@
       "original_source": "https://www.flickr.com/photos/aurelgrooves/3586923991/",
       "author": "A. C. Shapiro from Capitol City, USA",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tesso_Nilo_2009.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 3264,
       "height": 2448,
       "size": "2,57 MB",
@@ -1310,10 +1634,14 @@
       "original_source": "https://www.flickr.com/photos/21150935@N07/3244891359/",
       "author": "Willem v Strien",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sumatran_Rhinoceros_Way_Kambas_2008.jpg",
-      "license": {
-        "type": "CC BY 2.0",
-        "link": "https://creativecommons.org/licenses/by/2.0"
-      },
+      "license": [
+        {
+          "id": 3,
+          "licenseId": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.0"
+        }
+      ],
       "width": 936,
       "height": 673,
       "size": "363 KB",
@@ -1324,7 +1652,13 @@
     "year": "1989",
     "total_area": { "km": 1300, "miles": 500 },
     "waters_percentages": "none",
-    "intl_status": "Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Selain di Way Kambas, sekolah gajah juga bisa ditemui di Minas, Riau. Gajah Sumatra yang hidup di kawasan ini semakin berkurang jumlahnya.",
     "coordinate": {
