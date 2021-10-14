@@ -16,7 +16,7 @@ model NationalPark {
   image               Image[]
   link                String
   year                Int
-  total_area          String
+  total_area          TotalArea?
   waters_percentages  String?
   intl_status         InternationalStatus[]
   region              String
@@ -24,17 +24,17 @@ model NationalPark {
   coordinate          Coordinate?
   map                 String
   location            String
-  established         String
-  visitors            String
-  management          String
+  established         String?
+  visitors            String?
+  management          String?
 }
 
 model Image {
   id                Int @id @default(autoincrement())
   link              String
   title             String
-  width             String
-  height            String
+  width             Int
+  height            Int
   size              String
   type              String
   date              DateTime? 
@@ -62,6 +62,14 @@ model Coordinate {
   id              Int @id @default(autoincrement())
   latitude        String
   longitude       String
-  natinoalPark    NationalPark @relation(fields: [nationalParkId], references: [id])
+  nationalPark    NationalPark? @relation(fields: [nationalParkId], references: [id])
+  nationalParkId  Int
+}
+
+model TotalArea {
+  id              Int @id @default(autoincrement())
+  km              Int
+  miles           Int
+  nationalPark    NationalPark? @relation(fields: [nationalParkId], references: [id])
   nationalParkId  Int
 }
