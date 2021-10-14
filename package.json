@@ -11,6 +11,9 @@
     "lint": "eslint . --ext .ts",
     "format": "prettier --write \"**/*.{ts, json, md}\""
   },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
   "keywords": [],
   "author": "Abdullah Ammar <abd.ammar.mar@gmail.com> (https://abdmmar.tech/)",
   "license": "MIT",
