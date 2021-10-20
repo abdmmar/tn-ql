@@ -11,7 +11,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -23,7 +23,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bali_Barat",
     "name": "Taman Nasional Bali Barat",
-    "year": "1995",
+    "year": 1995,
     "total_area": { "km": 190, "miles": 73 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -51,13 +51,13 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -69,7 +69,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Rinjani",
     "name": "Taman Nasional Gunung Rinjani",
-    "year": "1990",
+    "year": 1990,
     "total_area": { "km": 413, "miles": 159 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -97,7 +97,7 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -109,7 +109,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Tambora",
     "name": "Taman Nasional Gunung Tambora",
-    "year": "2015",
+    "year": 2015,
     "total_area": { "km": 716, "miles": 276 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -129,7 +129,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -141,7 +141,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kelimutu",
     "name": "Taman Nasional Kelimutu",
-    "year": "1992",
+    "year": 1992,
     "total_area": { "km": 50, "miles": 20 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -160,13 +160,13 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -178,7 +178,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Komodo",
     "name": "Taman Nasional Komodo",
-    "year": "1980",
+    "year": 1980,
     "total_area": { "km": 1817, "miles": 701 },
     "waters_percentages": "66%",
     "intl_status": [
@@ -217,7 +217,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -229,7 +229,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Alas_Purwo",
     "name": "Taman Nasional Alas Purwo",
-    "year": "1992",
+    "year": 1992,
     "total_area": { "km": 434, "miles": 168 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -257,7 +257,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -269,7 +269,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Baluran",
     "name": "Taman Nasional Baluran",
-    "year": "1980",
+    "year": 1980,
     "total_area": { "km": 250, "miles": 96 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -297,13 +297,13 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
@@ -315,7 +315,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bromo_Tengger_Semeru",
     "name": "Taman Nasional Bromo Tengger Semeru",
-    "year": "1983",
+    "year": 1983,
     "total_area": { "km": 503, "miles": 194 },
     "waters_percentages": "none",
     "intl_status": [
@@ -344,7 +344,7 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -356,7 +356,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Ciremai",
     "name": "Taman Nasional Gunung Ciremai",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 155, "miles": 60 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -383,7 +383,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -395,7 +395,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Gede_Pangrango",
     "name": "Taman Nasional Gunung Gede Pangrango",
-    "year": "1980",
+    "year": 1980,
     "total_area": { "km": 150, "miles": 58 },
     "waters_percentages": "none",
     "intl_status": [
@@ -428,7 +428,7 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -440,7 +440,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Halimun-Salak",
     "name": "Taman Nasional Gunung Halimun-Salak",
-    "year": "1992",
+    "year": 1992,
     "total_area": { "km": 400, "miles": 150 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -466,13 +466,13 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -484,7 +484,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Merapi",
     "name": "Taman Nasional Gunung Merapi",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 64, "miles": 25 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -510,19 +510,19 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 5,
-          "licenseId": "CC-BY-2.5",
+          "type": "CC-BY-2.5",
           "name": "Creative Commons Attribution 2.5 Generic",
           "link": "https://creativecommons.org/licenses/by/2.5"
         }
@@ -534,7 +534,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Merbabu",
     "name": "Taman Nasional Gunung Merbabu",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 57, "miles": 21 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -558,7 +558,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -570,7 +570,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Karimunjawa",
     "name": "Taman Nasional Karimunjawa",
-    "year": "1986",
+    "year": 1986,
     "total_area": { "km": 1116, "miles": 431 },
     "waters_percentages": "Sebagian besar",
     "intl_status": "none",
@@ -597,19 +597,19 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 5,
-          "licenseId": "CC-BY-2.5",
+          "type": "CC-BY-2.5",
           "name": "Creative Commons Attribution 2.5 Generic",
           "link": "https://creativecommons.org/licenses/by/2.5"
         }
@@ -621,7 +621,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kepulauan_Seribu",
     "name": "Taman Nasional Kepulauan Seribu",
-    "year": "1982",
+    "year": 1982,
     "total_area": { "km": 1080, "miles": 420 },
     "waters_percentages": "Sebagian besar",
     "intl_status": [
@@ -655,13 +655,13 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
@@ -673,7 +673,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Meru_Betiri",
     "name": "Taman Nasional Meru Betiri",
-    "year": "1982",
+    "year": 1982,
     "total_area": { "km": 580, "miles": 224 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -692,7 +692,7 @@
       "license": [
         {
           "id": 6,
-          "licenseId": "Public domain",
+          "type": "Public domain",
           "name": "Public domain",
           "link": "https://creativecommons.org/publicdomain/mark/1.0/"
         }
@@ -704,7 +704,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Ujung_Kulon",
     "name": "Taman Nasional Ujung Kulon",
-    "year": "1980",
+    "year": 1980,
     "total_area": { "km": 1206, "miles": 466 },
     "waters_percentages": "443 km²",
     "intl_status": [
@@ -738,7 +738,7 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
@@ -750,7 +750,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Baka_Bukit_Raya",
     "name": "Taman Nasional Bukit Baka Bukit Raya",
-    "year": "1992",
+    "year": 1992,
     "total_area": { "km": 1811, "miles": 699 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -769,7 +769,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -781,7 +781,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Danau_Sentarum",
     "name": "Taman Nasional Danau Sentarum",
-    "year": "1999",
+    "year": 1999,
     "total_area": { "km": 1320, "miles": 510 },
     "waters_percentages": "none",
     "intl_status": [
@@ -814,7 +814,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -826,7 +826,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Palung",
     "name": "Taman Nasional Gunung Palung",
-    "year": "1990",
+    "year": 1990,
     "total_area": { "km": 900, "miles": 350 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -845,13 +845,13 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
@@ -863,7 +863,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kayan_Mentarang",
     "name": "Taman Nasional Kayan Mentarang",
-    "year": "1996",
+    "year": 1996,
     "total_area": { "km": 13605, "miles": 5252 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -883,7 +883,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -895,7 +895,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kutai",
     "name": "Taman Nasional Kutai",
-    "year": "1982",
+    "year": 1982,
     "total_area": { "km": 1986, "miles": 767 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -914,7 +914,7 @@
       "license": [
         {
           "id": 6,
-          "licenseId": "Public domain",
+          "type": "Public domain",
           "name": "Public domain",
           "link": "https://creativecommons.org/publicdomain/mark/1.0/"
         }
@@ -926,7 +926,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Sebangau",
     "name": "Taman Nasional Sebangau",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 5687, "miles": 2196 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -945,13 +945,13 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         },
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
@@ -963,7 +963,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Tanjung_Puting",
     "name": "Taman Nasional Tanjung Puting",
-    "year": "1982",
+    "year": 1982,
     "total_area": { "km": 4150, "miles": 1370 },
     "waters_percentages": "none",
     "intl_status": [
@@ -997,7 +997,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -1009,7 +1009,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Aketajawe-Lolobata",
     "name": "Taman Nasional Aketajawe-Lolobata",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 1673, "miles": 646 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -1036,7 +1036,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1048,7 +1048,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Lorentz",
     "name": "Taman Nasional Lorentz",
-    "year": "1997",
+    "year": 1997,
     "total_area": { "km": 25050, "miles": 9670 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1079,7 +1079,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1091,7 +1091,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Wasur",
     "name": "Taman Nasional Wasur",
-    "year": "1990",
+    "year": 1990,
     "total_area": { "km": 4138, "miles": 1598 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1124,13 +1124,13 @@
       "license": [
         {
           "id": 2,
-          "licenseId": "GFDL",
+          "type": "GFDL",
           "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         },
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -1142,7 +1142,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bunaken",
     "name": "Taman Nasional Bunaken",
-    "year": "1991",
+    "year": 1991,
     "total_area": { "km": 890, "miles": 305 },
     "waters_percentages": "97%",
     "intl_status": [
@@ -1176,7 +1176,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1188,7 +1188,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kepulauan_Togean",
     "name": "Taman Nasional Kepulauan Togean",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 3620, "miles": 1 },
     "waters_percentages": "700 km²",
     "intl_status": "none",
@@ -1215,7 +1215,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -1227,7 +1227,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Lore_Lindu",
     "name": "Taman Nasional Lore Lindu",
-    "year": "1982",
+    "year": 1982,
     "total_area": { "km": 2290, "miles": 884 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1261,7 +1261,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1273,7 +1273,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Wakatobi",
     "name": "Taman Nasional Wakatobi",
-    "year": "2002",
+    "year": 2002,
     "total_area": { "km": 13900, "miles": 5370 },
     "waters_percentages": "Sebagian besar",
     "intl_status": [
@@ -1316,7 +1316,7 @@
       "license": [
         {
           "id": 6,
-          "licenseId": "Public domain",
+          "type": "Public domain",
           "name": "Public domain",
           "link": "https://creativecommons.org/publicdomain/mark/1.0/"
         }
@@ -1328,7 +1328,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Batang_Gadis",
     "name": "Taman Nasional Batang Gadis",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 1080, "miles": 417 },
     "waters_percentages": "\n",
     "region": "Sumatra",
@@ -1346,7 +1346,7 @@
       "license": [
         {
           "id": 4,
-          "licenseId": "CC-BY-SA-2.0",
+          "type": "CC-BY-SA-2.0",
           "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
@@ -1358,7 +1358,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Berbak",
     "name": "Taman Nasional Berbak",
-    "year": "1992",
+    "year": 1992,
     "total_area": { "km": 1627, "miles": 628 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1383,7 +1383,7 @@
       "license": [
         {
           "id": 7,
-          "licenseId": "CC-BY-SA-4.0",
+          "type": "CC-BY-SA-4.0",
           "name": "Creative Commons Attribution Share Alike 4.0 International",
           "link": "https://creativecommons.org/licenses/by-sa/4.0"
         }
@@ -1395,7 +1395,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Barisan_Selatan",
     "name": "Taman Nasional Bukit Barisan Selatan",
-    "year": "1999",
+    "year": 1999,
     "total_area": { "km": 3650, "miles": 1410 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1428,7 +1428,7 @@
       "license": [
         {
           "id": 7,
-          "licenseId": "CC-BY-SA-4.0",
+          "type": "CC-BY-SA-4.0",
           "name": "Creative Commons Attribution Share Alike 4.0 International",
           "link": "https://creativecommons.org/licenses/by-sa/4.0"
         }
@@ -1440,7 +1440,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Duabelas",
     "name": "Taman Nasional Bukit Duabelas",
-    "year": "2000",
+    "year": 2000,
     "total_area": { "km": 605, "miles": 233 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -1467,7 +1467,7 @@
       "license": [
         {
           "id": 8,
-          "licenseId": "CC-BY-4.0",
+          "type": "CC-BY-4.0",
           "name": "Creative Commons Attribution 4.0 International",
           "link": "https://creativecommons.org/licenses/by/4.0"
         }
@@ -1479,7 +1479,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Tiga_Puluh",
     "name": "Taman Nasional Bukit Tiga Puluh",
-    "year": "1995",
+    "year": 1995,
     "total_area": { "km": 1277, "miles": 493 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -1504,7 +1504,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1516,7 +1516,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Leuser",
     "name": "Taman Nasional Gunung Leuser",
-    "year": "1980",
+    "year": 1980,
     "total_area": { "km": 7927, "miles": 3061 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1556,7 +1556,7 @@
       "license": [
         {
           "id": 1,
-          "licenseId": "CC-BY-SA-3.0",
+          "type": "CC-BY-SA-3.0",
           "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
@@ -1568,7 +1568,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kerinci_Seblat",
     "name": "Taman Nasional Kerinci Seblat",
-    "year": "1999",
+    "year": 1999,
     "total_area": { "km": 13750, "miles": 5310 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1606,7 +1606,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1618,7 +1618,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Tesso_Nilo",
     "name": "Taman Nasional Tesso Nilo",
-    "year": "2004",
+    "year": 2004,
     "total_area": { "km": 1000, "miles": 386 },
     "waters_percentages": "none",
     "intl_status": "none",
@@ -1637,7 +1637,7 @@
       "license": [
         {
           "id": 3,
-          "licenseId": "CC-BY-2.0",
+          "type": "CC-BY-2.0",
           "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
@@ -1649,7 +1649,7 @@
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Way_Kambas",
     "name": "Taman Nasional Way Kambas",
-    "year": "1989",
+    "year": 1989,
     "total_area": { "km": 1300, "miles": 500 },
     "waters_percentages": "none",
     "intl_status": [
@@ -1670,5 +1670,265 @@
     "established": "1989[1]",
     "visitors": "2.553 (tahun 2007[2])",
     "management": "Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia"
+  },
+  {
+    "id": "pi0KB",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Laiwangi_Wanggameti",
+    "name": "Taman Nasional Laiwangi Wanggameti",
+    "year": 1998,
+    "total_area": { "km": 470, "miles": 180 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Bali dan Nusa Tenggara",
+    "description": "Taman Nasional Laiwangi-Wanggameti adalah sebuah daerah perlindungan flora dan fauna di Pulau Sumba, Provinsi Nusa Tenggara Timur, Indonesia. Berdasarkan Keputusan Menteri Kehutanan dan Perkebunan No.576/Kpts-II/1998 tanggal 3 Agustus 1998, luas kawasan TNLW adalah 470,1 km² mencangkup empat kecamatan di di Kabupaten Sumba Timur. Taman Nasional Laiwangi-Wanggameti merupakan suatu perwakilan berbagai tipe hutan di pulau Sumba, termasuk hutan elfin yang jarang terdapat dan memiliki keanekaragaman jenis bernilai cukup tinggi terutama yang terdapat pada ketinggian 800 meter dari permukaan laut. Musim kunjungan terbaik yaitu bulan Maret sampai dengan Juni dan Oktober sampai dengan Desember setiap tahunnya.",
+    "coordinate": { "latitude": null, "longitude": null },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumba_Locator_Topography.png",
+    "location": "Pulau Sumba, Nusa Tenggara Timur, Indonesia",
+    "established": "1998"
+  },
+  {
+    "id": "Nm3o4",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Manupeu_Tanah_Daru",
+    "name": "Taman Nasional Manupeu Tanah Daru",
+    "year": 1998,
+    "total_area": { "km": 880, "miles": 340 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Bali dan Nusa Tenggara",
+    "description": "Taman Nasional Manupeu-Tanah Daru adalah Taman Nasional yang terletak di Pulau Sumba. Taman Nasional Manupeu Tanah Daru (TNMT) merupakan perwakilan hutan musim semi-peluruh dataran rendah yang tersisa di Pulau Sumba. Kawasan Taman Nasional Manupeu Tanah Daru (TNMT) berdasarkan SK Menhut Nomor SK.576/Kpts-II/1998 memiliki luas 879,8 km² melipiti tiga wilayah kabupaten yaitu Kabupaten Sumba Barat, Kabupaten Sumba Tengah dan Kabupaten Sumba Timur. Taman Nasional Manupeu Tanah Daru (TNMT) berada pada ketinggian wilayah 0 - 918 Mdpl. Manupeu-Tanah Daru belum lama ditunjuk sebagai Taman Nasional, sehingga fasilitas untuk pengunjung masih sangat terbatas. Fasilitas yang tersedia berupa homestay yang dikelola oleh masyarakat sekitar taman nasional. Musim kunjungan terbaik yakni bulan Maret-Juni dan Oktober-Desember setiap tahunnya.",
+    "coordinate": { "latitude": null, "longitude": null },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumba_Locator_Topography.png",
+    "location": "Pulau Sumba, Nusa Tenggara Timur, Indonesia",
+    "established": "1998"
+  },
+  {
+    "id": "lwGQf",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Betung_Kerihun",
+    "name": "Taman Nasional Betung Kerihun",
+    "year": 1995,
+    "total_area": { "km": 8, "miles": 3100 },
+    "waters_percentages": "1",
+    "intl_status": [
+      {
+        "id": 10,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/1871/"
+      }
+    ],
+    "region": "Kalimantan",
+    "description": "Taman Nasional Betung Kerihun adalah taman nasional yang terletak di provinsi Kalimantan Barat, Indonesia. Taman nasional ini didirikan pada tahun 1992, dan memiliki wilayah seluas 8.000 km² .\nBersama dengan Lanjak Entimau di Malaysia, taman nasional ini telah diusulkan menjadi Situs Warisan Dunia UNESCO.",
+    "coordinate": {
+      "latitude": 1.2208333333333334,
+      "longitude": 113.35305555555556
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Borneo_Locator_Topography.png",
+    "location": "Kalimantan Barat, Indonesia",
+    "established": "1992"
+  },
+  {
+    "id": "qgdVW",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Manusela",
+    "name": "Taman Nasional Manusela",
+    "year": 1982,
+    "total_area": { "km": 1890, "miles": 729 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Maluku dan Papua",
+    "description": "Taman Nasional Manusela adalah taman nasional yang terletak di Kepulauan Maluku, Indonesia. Gunung Binaya, dengan ketinggian 3.027 meter, merupakan gunung tertinggi di taman ini. Terdapat sekitar 117 spesies burung, 14 di antaranya endemik, seperti Nuri Bayan, Kasturi tengkuk-ungu, Kakatua Maluku, Todiramphus lazuli, Todiramphus sanctus, Philemon subcorniculatus dan Alisterus amboinensis.",
+    "coordinate": {
+      "latitude": -3.0502777777777776,
+      "longitude": 129.4336111111111
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Maluku_Locator_Topography.png",
+    "location": "Maluku, Indonesia",
+    "established": "1997",
+    "management": "Kementrian Kehutanan"
+  },
+  {
+    "id": "XBy5m",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Teluk_Cenderawasih",
+    "name": "Taman Nasional Teluk Cenderawasih",
+    "year": 2002,
+    "total_area": { "km": 14535, "miles": 5611 },
+    "waters_percentages": "90%",
+    "intl_status": "none",
+    "region": "Maluku dan Papua",
+    "description": "Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9%), daratan pulau-pulau (3,8%), terumbu karang (5,5%), dan perairan lautan (89,8%).",
+    "coordinate": {
+      "latitude": -2.500277777777778,
+      "longitude": 134.6336111111111
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Papua_Locator_Topography.png",
+    "location": "Papua Barat, Indonesia",
+    "established": "2002",
+    "management": "Kementrian Kehutanan"
+  },
+  {
+    "id": "IS2OB",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bantimurung-Bulusaraung",
+    "name": "Taman Nasional Bantimurung-Bulusaraung",
+    "year": 2004,
+    "total_area": { "km": 4375, "miles": 169 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sulawesi",
+    "description": "Taman Nasional Bantimurung-Bulusaraung (disingkat TN Babul) adalah sebuah taman nasional yang ditunjuk menjadi kawasan konservasi berdasarkan Surat Keputusan Menteri Kehutanan RI Nomor SK 398/Menhut-II/2004 tanggal 18 Oktober 2004. TN Babul memiliki luas ± 43.750 ha yang secara admnistratif pemerintahan mencakup tiga wilayah kabupaten yang saling berbatasan, yaitu Kabupaten Maros, Kabupaten Pangkep, dan Kabupaten Bone di Sulawesi Selatan[1]. Secara letak astronomis, TN Babul terletak antara 119°34’17”–119°55’13” Bujur Timur dan antara 4°42’49”–5°06’42” Lintang Selatan. TN Babul merupakan hasil merger lima unit kawasan konservasi yang sebelumnya sudah ada pada era 1970-1980, yaitu Taman Wisata Alam Bantimurung, Taman Wisata Alam Gua Pattunuang, Cagar Alam Bantimurung, Cagar Alam Karaenta, dan Cagar Alam Bulusaraung. Selain itu terdapat kawasan hutan seluas 31.843,10 ha dengan rincian Hutan Lindung seluas 21.343,10 ha, Hutan Produksi Terbatas seluas 145 ha, dan Hutan Produksi Tetap seluas 10.355 ha.[2] Taman nasional ini merupakan taman nasional yang kedua setelah Taman Nasional Taka Bonerate yang ada di Sulawesi Selatan hingga saat ini. Taman nasional ini telah menjadi satu-satunya taman nasional berupa kawasan karst di Indonesia.[2]\nSebagai salah satu kawasan konservasi, TN Babul memegang peranan penting dalam mendukung implementasi arah kebijakan dan strategi pembangunan nasional pada Rencana Pembangunan Jangka Menengah Nasional (RPJMN) yang dititikberatkan pada Pembangunan Lingkungan Hidup dan Pengelolaan Bencana. Fokus prioritas pembangunan tersebut diarahkan pada upaya-upaya yang berkaitan dengan konservasi sumber daya hutan dalam mendukung pertumbuhan ekonomi dan kesejahteraan yang berkelanjutan, dan pelaksanaan pembangunan lintas bidang, yaitu terkait mitigasi dan adaptasi perubahan iklim.\n",
+    "coordinate": {
+      "latitude": -4.900277777777778,
+      "longitude": 119.75027777777778
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Kabupaten Maros, Kabupaten Pangkep & Kabupaten Bone, Sulawesi Selatan, Indonesia",
+    "established": "2004",
+    "management": "Balai TN Babul KLHK (pengelola utama)Pemkab Maros (bagian wilayah MarosPemkab Pangkep (bagian wilayah Pangkep)"
+  },
+  {
+    "id": "8_E_i",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bogani_Nani_Wartabone",
+    "name": "Taman Nasional Bogani Nani Wartabone",
+    "year": 1991,
+    "total_area": { "km": 2871, "miles": 1108 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sulawesi",
+    "description": "Taman Nasional Bogani Nani Wartabone (TNBNW) adalah sebuah kawasan vegetasi hutan tropis yang ditetapkan sebagai taman nasional pada tahun 1991 dan terletak di Semenanjung Utara, Sulawesi, perbatasan antara provinsi Gorontalo dengan Sulawesi Utara.\nBogani Nani Wartabone merupakan taman nasional darat terbesar di Sulawesi, dengan luas 282.008,757 hektare. Namun, ada perubahan fungsi dan peruntukan berdasarkan Surat Keputusan Menteri Kehutanan Nomor 325 tahun 2010.[1]\nPerubahan fungsi tersebut berupa hutan produksi terbatas (HPT) seluas 15.012 hektare, hutan produksi (12 hektare), dan areal penggunaan lain (167 hektare). Perubahan fungsi kawasan hutan lain menjadi kawasan taman nasional yaitu hutan produksi menjadi taman nasional seluas 1.831 hektare, hutan lindung menjadi taman nasional seluas 8.146 hektare, dan hutan produksi terbatas menjadi taman nasional seluas 462 hektare. Hal ini yang membuat luasan TNBNW berubah yang semula 287.115 hektare menjadi 282.008,757 hektare.[1]\nSebelumnya, taman nasional ini bernama Taman Nasional Dumoga Bone. Hutan tersebut merupakan penggabungan dari Suaka Margasatwa Dumoga (93.500 hektar), Cagar Alam Bulawan (75.200 hektar), dan Suaka Margasatwa Bone (110.000 hektar). Kawasan ini ditetapkan sebagai TNBNW pada 18 November 1992, melalui surat keputusan Menteri Kehutanan saat itu.[2] Nama taman nasional ini sendiri diambil dari nama Nani Wartabone, Pahlawan Nasional Indonesia asal Gorontalo.\nSelain memiliki kekayaan flora dan fauna, taman nasional Bogani Nani Wartabone juga memiliki potensi wisata alam seperti air terjun, sumber air panas, goa batu dan stalaktit Hungayono, habitat burung maleo di Hungayono, dan panorama alam (landscape view) di Bukit Peapata. Namun, yang lebih terkenal di kawasan ini adalah tiga spesies kunci, yaitu burung maleo, anoa, dan babi rusa.[1]\n",
+    "coordinate": { "latitude": 0.5605555555555556, "longitude": 123.68 },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Sulawesi, Indonesia",
+    "established": "1991",
+    "management": "Kementerian Lingkungan Hidup dan Kehutanan"
+  },
+  {
+    "id": "QylTZ",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Rawa_Aopa_Watumohai",
+    "name": "Taman Nasional Rawa Aopa Watumohai",
+    "year": 1989,
+    "total_area": { "km": 1052, "miles": 406 },
+    "waters_percentages": "none",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
+    "region": "Sulawesi",
+    "description": "Taman Nasional Rawa Aopa Watumohai adalah taman nasional yang terletak di provinsi Sulawesi Tenggara, Indonesia. Rawa Aopa Watumohai ditetapkan sebagai taman nasional pada tahun 1989, dan memiliki wilayah seluas 1.050 km². Ketinggian taman ini bervariasi dari di atas permukaan laut hingga ketinggian 981 m.\nTaman ini memiliki beragam vegetasi, seperti hutan mangrove. Di taman nasional ini juga terdapat babirusa, anoa dan 155 spesies burung, 37 di antaranya endemik. Selain itu, di Taman Nasional Rawa Aopa Watumohai terdapat 323 spesies tanaman.\n",
+    "coordinate": {
+      "latitude": -4.383611111111112,
+      "longitude": 121.98361111111112
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Sulawesi, Indonesia",
+    "established": "1989"
+  },
+  {
+    "id": "BwDYu",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Taka_Bone_Rate",
+    "name": "Taman Nasional Taka Bone Rate",
+    "year": 2001,
+    "total_area": { "km": 5308, "miles": 2049 },
+    "waters_percentages": "Sebagian besar",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 11,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2005/"
+      }
+    ],
+    "region": "Sulawesi",
+    "description": "Taman Nasional Taka Bonerate adalah taman laut yang mempunyai kawasan atol terbesar ketiga di dunia[2][3] setelah Kwajifein di Kepulauan Marshall dan Suvadiva di Kepulauan Maladewa. Luas total dari atol ini 220.000 hektare dengan sebaran terumbu karang mencapai 500 km². Kawasan ini terletak di Kecamatan Takabonerate, Kabupaten Kepulauan Selayar, Sulawesi Selatan, Indonesia.\nSejak Tahun 2005 Taman Nasional Taka Bonerate telah di calonkan ke UNESCO untuk menjadi Situs Warisan Dunia. Dalam rangkaian Hari jadi Kepulauan Selayar di lokasi ini setiap tahunnya diadakan festival yang bertajuk Sail Taka Bonerate atau sebelumnya disebut Takabonerate Island Expedition (TIE)[4].\nAda sebanyak lima belas buah pulau di Taman Nasional Taka Bonerate[1] sehingga sangat bagus untuk kegiatan menyelam, snorkeling, dan wisata bahari lainnya. Topografi kawasan sangat unik dan menarik, di mana atol yang terdiri dari gugusan pulau-pulau gosong karang dan rataan terumbu yang luas dan tenggelam, membentuk pulau-pulau dengan jumlah yang cukup banyak. Di antara pulau-pulau gosong karang, terdapat selat-selat sempit yang dalam dan terjal. Sedangkan pada bagian permukaan rataan terumbu, banyak terdapat kolam kecil yang dalam dan dikelilingi oleh terumbu karang. Pada saat air surut terendah, terlihat dengan jelas daratan kering dan diselingi genangan air yang membentuk kolam-kolam kecil.\n",
+    "coordinate": {
+      "latitude": -6.683611111111111,
+      "longitude": 121.15027777777779
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Kepulauan_Selayar.png",
+    "location": "Sulawesi Selatan, Indonesia",
+    "established": "1992[1]"
+  },
+  {
+    "id": "VIJBc",
+    "image": null,
+    "link": null,
+    "name": "Gandang Dewata",
+    "year": 2016,
+    "total_area": { "km": 793, "miles": 306 },
+    "waters_percentages": "none",
+    "region": "Sulawesi"
+  },
+  {
+    "id": "tXenh",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Sembilang",
+    "name": "Taman Nasional Sembilang",
+    "year": 2001,
+    "total_area": { "km": 2051, "miles": 792 },
+    "waters_percentages": "none",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
+    "region": "Sumatra",
+    "description": "Taman Nasional Sembilang adalah taman nasional yang terletak di Kabupaten Banyuasin, pesisir Provinsi Sumatra Selatan, Indonesia. Taman Nasional ini memiliki luas sebesar 2.051 km². Taman Nasional Sembilang merupakan habitat bagi harimau Sumatra, gajah Asia, tapir Asia, siamang, kucing emas, rusa Sambar, buaya muara, ikan Sembilang, penyu air tawar raksasa, lumba-lumba air tawar dan berbagai spesies burung.[1] Taman Nasional Sembilang terdiri dari hutan rawa gambut, hutan rawa air tawar dan hutan riparian di Provinsi Sumatra Selatan.\n",
+    "coordinate": {
+      "latitude": -2.0169444444444444,
+      "longitude": 104.55027777777778
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumatra_Locator_Topography.png",
+    "location": "Sumatra, Indonesia",
+    "established": "2001",
+    "management": "Kementerian Kehutanan"
+  },
+  {
+    "id": "zCyw4",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Siberut",
+    "name": "Taman Nasional Siberut",
+    "year": 1992,
+    "total_area": { "km": 1905, "miles": 735 },
+    "waters_percentages": "none",
+    "intl_status": "World Network of Biosphere Reserves",
+    "region": "Sumatra",
+    "description": "Taman Nasional Siberut terletak di Pulau Siberut, Kabupaten Kepulauan Mentawai, Sumatra Barat. Taman Nasional dengan luas 190.500 hektare ini ditetapkan melalui Surat Keputusan Menteri Kehutanan Nomor 407/Kpts-II/1993. Sebelumnya tahun 1981 pulau ini sudah ditetapkan sebagai cagar biosfer melalui projek Man and Biosphere UNESCO.\nDi Pulau Siberut tercatat antara lain 896 spesies tumbuhan berkayu, 31 spesies mamalia, dan 134 spesies burung. Terdapat empat spesies endemik primata yang terancam punah. Keempat spesies endemik tersebut adalah siamang Mentawai (bilou, Hylobates klossii), lutung (joja, Presbytis potenziani), monyet Mentawai (simakobu, Simias concolor), dan beruk (bokoi, Macaca pagensis).\nFLORA TAMAN NASIONAL SIBERUT Diarsipkan 2011-08-19 di Wayback Machine.\nHutan hujan menyelimuti hampir 65 % Pulau Siberut. Hutan ini merupakan istana bagi kehidupan flora dan fauna dengan menyediakan sumber makanan dan tempat tinggal serta hutan ini juga berfungsi sebagai pendukung kehidupan tradisional masyarakat Mentawai terutama sebagai obat-obatan tradisional.\nFAUNA TAMAN NASIONAL SIBERUT Diarsipkan 2011-10-26 di Wayback Machine.\nHylobates klossii (Bilou atau Siamang Kerdil)\nBilou merupakan jenis primata yang paling terkenal di Mentawai. Secara anatomis termasuk jenis ungko tertua yang masih hidup dengan bulu-bulu yang jarang berwarna hitam gelap dan selaput antara jari kedua dan ketiga. Pekik Bilou paling sederhana di antara pekikan ungko, lebih panjang, bervariasi dan dan tidak dilakukan oleh ungko lainnya.\nBilou hidup berkelompok yang terdiri dari induk jantan dan betina dengan anak-anaknya yang belum dewasa. Bilou termasuk hewan monogami dengan satu keluarga rata-rata tiga sampai empat individu, sedangkan jumlah anggota dalam satu kelompok dapat mencapai 11 individu.\nhttp://tamannasionalsiberut.org\n"
+  },
+  {
+    "id": "QlKnH",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Zamrud",
+    "name": "Taman Nasional Zamrud",
+    "year": 2016,
+    "total_area": { "km": 315, "miles": 121 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sumatra",
+    "description": "Taman Nasional Zamrud adalah taman nasional yang terletak di Kabupaten Siak, Riau. Tanggal penetapannya adalah 22 Juli 2016 oleh Wakil Presiden Indonesia, Jusuf Kalla. Taman Nasional Zamrud merupakan lahan gambut dengan luas 31.480 hektare. Bentang alamnya berupa danau dan pulau. Danau yang masuk dalam kawasannya adalah Danau Pulau Besar (2.416 hektare) dan Danau Bawah (360 hektare). Danau Pulau Besar memiliki empat pulau yaitu Pulau Besar, Pulau Tengah, Pulau Bungsu, dan Pulau Beruk. Taman Nasional Zamrud dihuni oleh 38 jenis burung dengan 12 di antaranya jenis yang dilindungi. Di perairannya terdapat jenis ikan seperti arwana dan belida. Sebelum berstatus sebagai taman nasional, kawasannya masih berstatus suaka margasatwa. Usulan perubahan status dari suaka margasatwa menjadi taman nasional berasal dari pemerintah Kabupaten Siak sejak tahun 2001.[1]\n"
+  },
+  {
+    "id": "8EMt5",
+    "image": null,
+    "link": null,
+    "name": "Gunung Maras",
+    "year": 2016,
+    "total_area": { "km": 168, "miles": 65 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sumatra"
   }
 ]
