@@ -14,16 +14,16 @@ model NationalPark {
   id                  Int @id @default(autoincrement())
   name                String
   image               Image[]
-  link                String
+  link                String?
   year                Int
   total_area          TotalArea?
   waters_percentages  String?
   intl_status         InternationalStatus[]
   region              String
-  description         String
+  description         String?
   coordinate          Coordinate?
-  map                 String
-  location            String
+  map                 String?
+  location            String?
   established         String?
   visitors            String?
   management          String?
@@ -47,21 +47,23 @@ model Image {
 
 model License {
   id      Int @id @default(autoincrement())
-  type    String?
+  type    String? @unique
+  name    String?
   link    String?
   image   Image[]
 }
 
 model InternationalStatus {
   id            Int @id @default(autoincrement())
-  status        String
+  name          String
+  link          String @unique
   nationalPark  NationalPark[]
 }
 
 model Coordinate {
   id              Int @id @default(autoincrement())
-  latitude        String
-  longitude       String
+  latitude        Float
+  longitude       Float
   nationalPark    NationalPark? @relation(fields: [nationalParkId], references: [id])
   nationalParkId  Int
 }
