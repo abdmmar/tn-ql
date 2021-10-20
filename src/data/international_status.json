@@ -43,5 +43,15 @@
     "id": 9,
     "name": "Situs Warisan Dunia",
     "link": "http://whc.unesco.org/en/list/955"
+  },
+  {
+    "id": 10,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/1871/"
+  },
+  {
+    "id": 11,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/2005/"
   }
 ]

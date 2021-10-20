@@ -1864,7 +1864,7 @@
     "id": "VIJBc",
     "image": null,
     "link": null,
-    "name": "Gandang Dewata",
+    "name": "Taman Nasionial Gandang Dewata",
     "year": 2016,
     "total_area": { "km": 793, "miles": 306 },
     "waters_percentages": "none",
@@ -1904,7 +1904,13 @@
     "year": 1992,
     "total_area": { "km": 1905, "miles": 735 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Sumatra",
     "description": "Taman Nasional Siberut terletak di Pulau Siberut, Kabupaten Kepulauan Mentawai, Sumatra Barat. Taman Nasional dengan luas 190.500 hektare ini ditetapkan melalui Surat Keputusan Menteri Kehutanan Nomor 407/Kpts-II/1993. Sebelumnya tahun 1981 pulau ini sudah ditetapkan sebagai cagar biosfer melalui projek Man and Biosphere UNESCO.\nDi Pulau Siberut tercatat antara lain 896 spesies tumbuhan berkayu, 31 spesies mamalia, dan 134 spesies burung. Terdapat empat spesies endemik primata yang terancam punah. Keempat spesies endemik tersebut adalah siamang Mentawai (bilou, Hylobates klossii), lutung (joja, Presbytis potenziani), monyet Mentawai (simakobu, Simias concolor), dan beruk (bokoi, Macaca pagensis).\nFLORA TAMAN NASIONAL SIBERUT Diarsipkan 2011-08-19 di Wayback Machine.\nHutan hujan menyelimuti hampir 65 % Pulau Siberut. Hutan ini merupakan istana bagi kehidupan flora dan fauna dengan menyediakan sumber makanan dan tempat tinggal serta hutan ini juga berfungsi sebagai pendukung kehidupan tradisional masyarakat Mentawai terutama sebagai obat-obatan tradisional.\nFAUNA TAMAN NASIONAL SIBERUT Diarsipkan 2011-10-26 di Wayback Machine.\nHylobates klossii (Bilou atau Siamang Kerdil)\nBilou merupakan jenis primata yang paling terkenal di Mentawai. Secara anatomis termasuk jenis ungko tertua yang masih hidup dengan bulu-bulu yang jarang berwarna hitam gelap dan selaput antara jari kedua dan ketiga. Pekik Bilou paling sederhana di antara pekikan ungko, lebih panjang, bervariasi dan dan tidak dilakukan oleh ungko lainnya.\nBilou hidup berkelompok yang terdiri dari induk jantan dan betina dengan anak-anaknya yang belum dewasa. Bilou termasuk hewan monogami dengan satu keluarga rata-rata tiga sampai empat individu, sedangkan jumlah anggota dalam satu kelompok dapat mencapai 11 individu.\nhttp://tamannasionalsiberut.org\n"
   },
@@ -1924,7 +1930,7 @@
     "id": "8EMt5",
     "image": null,
     "link": null,
-    "name": "Gunung Maras",
+    "name": "Taman Nasional Gunung Maras",
     "year": 2016,
     "total_area": { "km": 168, "miles": 65 },
     "waters_percentages": "none",
