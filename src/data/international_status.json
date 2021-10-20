@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Situs Ramsar",
+    "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+  },
+  {
+    "id": 2,
+    "name": "Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/list/609"
+  },
+  {
+    "id": 3,
+    "name": "Taman Warisan ASEAN",
+    "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+  },
+  {
+    "id": 4,
+    "name": "World Network of Biosphere Reserves",
+    "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+  },
+  {
+    "id": 5,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/2002/"
+  },
+  {
+    "id": 6,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/2006/"
+  },
+  {
+    "id": 7,
+    "name": "Unit Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/list/1167"
+  },
+  {
+    "id": 8,
+    "name": "Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/list/608"
+  },
+  {
+    "id": 9,
+    "name": "Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/list/955"
+  },
+  {
+    "id": 10,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/1871/"
+  },
+  {
+    "id": 11,
+    "name": "Calon Situs Warisan Dunia",
+    "link": "http://whc.unesco.org/en/tentativelists/2005/"
+  }
+]

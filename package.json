@@ -11,6 +11,9 @@
     "lint": "eslint . --ext .ts",
     "format": "prettier --write \"**/*.{ts, json, md}\""
   },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
   "keywords": [],
   "author": "Abdullah Ammar <abd.ammar.mar@gmail.com> (https://abdmmar.tech/)",
   "license": "MIT",
@@ -24,11 +27,13 @@
     "husky": "4.3.8",
     "lint-staged": "11.1.2",
     "prettier": "2.4.1",
+    "prisma": "3.2.1",
     "rimraf": "3.0.2",
     "ts-node": "10.2.1",
     "typescript": "4.4.3"
   },
   "dependencies": {
+    "@prisma/client": "3.2.1",
     "apollo-server": "3.3.0",
     "apollo-server-core": "3.4.0",
     "graphql": "15.6.0",

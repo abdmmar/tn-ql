@@ -4,29 +4,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Bali_Barat_NP_2009.jpg",
       "title": "Bali Barat NP 2009.jpg",
-      "dimensions": "4.459 x 2.893",
-      "size": "3,47 MB",
-      "type": "image/jpeg",
-      "date": "2009-09-30",
-      "source": "https://www.flickr.com/photos/ronrad/4083222845/",
-      "author": "Ron",
+      "date": "2009-09-29T18:53:00.000Z",
+      "original_source": "https://www.flickr.com/photos/ronrad/4083222845/",
+      "author": "Ron from Nieuwegein / South Moreton Oxfordshire, Netherlands / UK",
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bali_Barat_NP_2009.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 4459,
+      "height": 2893,
+      "size": "3,47 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bali_Barat",
     "name": "Taman Nasional Bali Barat",
-    "year": "1995",
-    "total_area": { "km": "190", "miles": "73" },
+    "year": 1995,
+    "total_area": { "km": 190, "miles": 73 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Bali dan Nusa Tenggara",
-    "description": "Taman Nasional Bali Barat terletak di bagian barat dari pulau Bali di Indonesia. Taman nasional ini mempunyai luas 19.002,89 Ha  yang terdiri dari kawasan terestrial seluas 15.587,89 ha. dan kawasan perairan selaus 3.415 ha dan sebagai salah satu kawasan kawasan konservasi, pengelolaan Taman Nasional Bali Barat (TNBB) ditujukan untuk:\n1. Perlindungan populasi Jalak Bali beserta ekosistem lainnya seperti ekosistem terumbu karang, ekosistem mangrove, ekosistem hutan pantai dan ekosistem hutan daratan rendah sampai pegunungan sebagai sistem penyangga kehidupan terutama ditujukan untuk menjaga keaslian, keutuhan dan keragaman suksesi alam dalam unit-unit ekosistem yang mantap dan mampu mendukung kehidupan secara optimal.\n2. Pengawetan keragaman jenis flora dan fauna serta ekosistemnya ditujukan untuk melindungi, memulihkan keaslian, mengembangkan populasi dan keragaman genetik dalam kawasan TNBB dari gangguan manusia.\n3. Pemanfaatan secara lestari Sumber Daya Alam dan Ekosistemnya ditujukan untuk berbagai pemanfaatan seperti:\nSebagai laboratorium lapangan bagi peneliti untuk pengembangan ilmu dan teknologi.\nSebagai tempat pendidikan untuk kepentingan meningkatkan pengetahuan dan ketrampilan bagi masyarakat.\nObyek wisata akan pada zona khusus pemanfaatan yang dapat dibangun fasilitas pariwisata.\nMenunjang budidaya penangkaran jenis flora dan fauna dalam rangka memenuhi kebutuhan protein, binatang kesayangan dan tumbuhan obat-obatan.\nSecara geografis berada diantara 114º26' - 114º35' Bujur Timur dan 5º5' - 5º13' Lintang Selatan. Secara administratif lokasi kawasan Taman Nasional Bali Barat termasuk dalam Provinsi Bali, Kabupaten Jembaran dan Kabupaten Buleleng.\nTaman Nasional Bali Barat terdiri dari berbagai habitat hutan dan sabana. Di tengah-tengah taman ini didominasi oleh sisa-sisa empat gunung berapi dari zaman Pleistocene, dengan gunung Patas sebagai titik tertinggi di tempat ini.\nSekitar 160 spesies hewan dan tumbuhan dilindungi di taman nasional ini. Hewan-hewan seperti Banteng, Rusa, lutung, kalong dan aneka burung. Taman Nasional Bali Barat merupakan tempat terakhir untuk menemukan satu-satunya endemik Bali yang hampir punah, Jalak Bali di habitat aslinya.\n",
-    "coordinate": { "latitude": "8°8′S", "longitude": "114°29′E" },
+    "description": "Taman Nasional Bali Barat terletak di bagian barat dari pulau Bali di Indonesia. Taman nasional ini mempunyai luas 19.002,89 Ha yang terdiri dari kawasan terestrial seluas 15.587,89 ha. dan kawasan perairan selaus 3.415 ha dan sebagai salah satu kawasan kawasan konservasi, pengelolaan Taman Nasional Bali Barat (TNBB) ditujukan untuk:Perlindungan populasi Jalak Bali beserta ekosistem lainnya seperti ekosistem terumbu karang, ekosistem mangrove, ekosistem hutan pantai dan ekosistem hutan daratan rendah sampai pegunungan sebagai sistem penyangga kehidupan terutama ditujukan untuk menjaga keaslian, keutuhan dan keragaman suksesi alam dalam unit-unit ekosistem yang mantap dan mampu mendukung kehidupan secara optimal.\nPengawetan keragaman jenis flora dan fauna serta ekosistemnya ditujukan untuk melindungi, memulihkan keaslian, mengembangkan populasi dan keragaman genetik dalam kawasan TNBB dari gangguan manusia.\nPemanfaatan secara lestari Sumber Daya Alam dan Ekosistemnya ditujukan untuk berbagai pemanfaatan seperti:\nSebagai laboratorium lapangan bagi peneliti untuk pengembangan ilmu dan teknologi.\nSebagai tempat pendidikan untuk kepentingan meningkatkan pengetahuan dan ketrampilan bagi masyarakat.\nObyek wisata akan pada zona khusus pemanfaatan yang dapat dibangun fasilitas pariwisata.\nMenunjang budidaya penangkaran jenis flora dan fauna dalam rangka memenuhi kebutuhan protein, binatang kesayangan dan tumbuhan obat-obatan.",
+    "coordinate": {
+      "latitude": -8.13361111111111,
+      "longitude": 114.48361111111112
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Bali_topography_plain.png",
     "location": "Bali, Indonesia",
     "established": "1995",
@@ -38,29 +44,41 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Rinjani_Caldera.jpg",
       "title": "Rinjani Caldera.jpg",
-      "dimensions": "5.814 x 1.692",
-      "size": "1,74 MB",
-      "type": "image/jpeg",
-      "date": "2006-09",
-      "source": null,
+      "date": "2006-08-31T17:00:00.000Z",
+      "original_source": "Karya sendiri",
       "author": "Thorsten Peters",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rinjani_Caldera.jpg",
       "license": [
         {
-          "type": "GFDLCC-BY-SA-3.0",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttp://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 5814,
+      "height": 1692,
+      "size": "1,74 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Rinjani",
     "name": "Taman Nasional Gunung Rinjani",
-    "year": "1990",
-    "total_area": { "km": "413", "miles": "159" },
+    "year": 1990,
+    "total_area": { "km": 413, "miles": 159 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Bali dan Nusa Tenggara",
-    "description": "Taman Nasional Gunung Rinjani (TNGR) adalah salah satu ekosistem dengan tipe hutan hujan pegunungan dan savana yang terletak di Pulau Lombok, Nusa Tenggara Barat. TNGR ditetapkan sebagai kawasan Taman Nasional melalui Surat Keputusan Menteri Kehutanan No.280/Kpts-II/1997 dengan luas 40.000hA walaupun dilapangan luasnya lebih dari 41,000hA.\n",
-    "coordinate": { "latitude": "8°24′29″S", "longitude": "116°26′58″E" },
+    "description": "Taman Nasional Gunung Rinjani  adalah salah satu taman nasional di Indonesia. Letaknya di Gunung Rinjani, Pulau Lombok, Nusa Tenggara Barat. Taman Nasional Gunung RInjani ditetapkan sebagai taman nasional pada tahun 1997. Ekosistem yang ada termasuk jenis hutan hujan tropika, hutan hujan pegunungan dan sub alpin. Taman Nasional Gunung Rinjani mempunyai keanekaragaman hayati yang tinggi. Kawasannya dijadika sebagai tempat penelitian dan sumber pengumpulan plasma nutfah. Taman Nasional Gunung Rinjani juga menjadi tempat wisata alam dan pendidikan. Taman Nasional Gunung Rinjani ditetapkan sebagai kawasan Taman Nasional melalui Surat Keputusan Menteri Kehutanan No.280/Kpts-II/1997 dengan luas 40.000hA walaupun dilapangan luasnya lebih dari 41,000hA.",
+    "coordinate": {
+      "latitude": -8.408055555555556,
+      "longitude": 116.44944444444445
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Lombok_Locator_Topography.png",
     "location": "Lombok, Nusa Tenggara Barat, Indonesia",
     "established": "1990",
@@ -72,86 +90,115 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Caldera_Mt_Tambora_Sumbawa_Indonesia.jpg",
       "title": "Caldera Mt Tambora Sumbawa Indonesia.jpg",
-      "dimensions": "900 x 600",
-      "size": "151 KB",
-      "type": "image/jpeg",
-      "date": "2011-06-07",
-      "source": null,
-      "author": "Jialiang Gao(peace-on-earth.org)",
+      "date": "2011-06-06T17:00:00.000Z",
+      "original_source": "Karya sendiri",
+      "author": "Jialiang Gao (peace-on-earth.org)",
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Caldera_Mt_Tambora_Sumbawa_Indonesia.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0",
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 900,
+      "height": 600,
+      "size": "151 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Tambora",
     "name": "Taman Nasional Gunung Tambora",
-    "year": "2015",
-    "total_area": { "km": "716", "miles": "276" },
+    "year": 2015,
+    "total_area": { "km": 716, "miles": 276 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Bali dan Nusa Tenggara",
-    "description": "Taman Nasional Tambora adalah sebuah taman nasional yang terletak di Provinsi Nusa Tenggara Barat. Taman Nasional ini secara administratif termasuk dalam Kabupaten Dompu dan Kabupaten Bima, Nusa Tenggara Barat.\nPenunjukan kawasan TN Tambora dilakukan dengan SK Menteri Lingkungan Hidup dan Kehutanan 111/MenLHK-II/2015 tanggal 7 April 2015. Taman nasional ini diresmikan oleh Presiden Joko Widodo pada tanggal 11 April 2015, bertepatan dengan peringatan 200 tahun letusan besar Gunung Tambora pada 11 April 1815.\nStatus kawasan sebelum menjadi Taman Nasional terdiri dari Cagar Alam seluas 23.840,81 hektare, Suaka Margasatwa seluas 21.674,68 hektare, dan Taman Buru seluas 26.130,25 hektare.\nKawasan konservasi Gunung Tambora memiliki potensi keanekaragaman hayati yang luar biasa. Vegetasi yang tumbuh disana terdiri dari 106 jenis pohon, 18 jenis epifit, 6 jenis herba, 39 jenis liana, dan 49 jenis perdu.\nKawasan konservasi Gunung Tambora merupakan habitat bagi berbagai jenis satwa di antaranya dari kelas mamalia (Rusa Timor), reptil (Biawak, Kadal Pohon, Ular Sanca), primata (Kera Abu) dan aves. Terdapat 8 jenis burung yang dilindungi, 1 jenis di antaranya merupakan spesies perioritas terancam punah dan dua jenis burung endemik NTB.\nPotensi wisata alam Gunung Tambora menyuguhkan keindahan panorama dari hutan daratan rendah hingga hutan pegunungan. Berbagai flora dan fauna dapat ditemui yang akan menambah pengalaman dan merupakan sensasi tersendiri bagi wisatawan.\n",
-    "coordinate": { "latitude": "", "longitude": "" }
+    "description": "Taman Nasional Tambora adalah sebuah taman nasional yang terletak di Provinsi Nusa Tenggara Barat. Taman Nasional ini secara administratif termasuk dalam Kabupaten Dompu dan Kabupaten Bima, Nusa Tenggara Barat. Penunjukan kawasan Taman Nasional Tambora dilakukan dengan Surat Keputusan Menteri Lingkungan Hidup dan Kehutanan 111/MenLHK-II/2015 tanggal 7 April 2015. Taman nasional ini diresmikan oleh Presiden Joko Widodo pada tanggal 11 April 2015, bertepatan dengan peringatan 200 tahun letusan besar Gunung Tambora pada 11 April 1815. Status kawasan sebelum menjadi taman nasional terdiri dari cagar alam seluas 23.840,81 hektare, suaka margasatwa seluas 21.674,68 hektare, dan taman buru seluas 26.130,25 hektare. Kawasan konservasi Gunung Tambora memilikikeanekaragaman hayati yang banyak. Vegetasi yang tumbuh disana terdiri dari 106 jenis pohon, 18 jenis epifit, 6 jenis herba, 39 jenis liana, dan 49 jenis perdu. Potensi wisata alam Gunung Tambora berupa panorama dari hutan daratan rendah hingga hutan pegunungan.",
+    "coordinate": { "latitude": null, "longitude": null }
   },
   {
     "id": "cOaV9",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Kelimutu_2008-08-08.jpg",
       "title": "Kelimutu 2008-08-08.jpg",
-      "dimensions": "2.689 x 1.693",
-      "size": "1,17 MB",
-      "type": "image/jpeg",
-      "date": "2008-08-08",
-      "source": "https://www.flickr.com/photos/21976354@N07/2816840142/",
-      "author": "NeilWWW.NEILSRTW.BLOGSPOT.COM",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/21976354@N07/2816840142/",
+      "author": "Neil, WWW.NEILSRTW.BLOGSPOT.COM Malaysia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kelimutu_2008-08-08.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 2689,
+      "height": 1693,
+      "size": "1,17 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kelimutu",
     "name": "Taman Nasional Kelimutu",
-    "year": "1992",
-    "total_area": { "km": "50", "miles": "20" },
+    "year": 1992,
+    "total_area": { "km": 50, "miles": 20 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Bali dan Nusa Tenggara",
-    "description": "Kawasan Taman Nasional Kelimutu terletak di wilayah Kabupaten Ende, Provinsi Nusa Tenggara Timur dengan posisi geografis: 8°43’ - 8°48’ LS, 121°44’ - 121°51’ BT. Taman Nasional Kelimutu ditunjuk sebagai Kawasan Taman Nasional berdasarkan Surat Keputusan Menteri Kehutanan, SK No. 279/Kpts-II/92 dengan luas ± 5.000 hektar. Pada tahun 1997 kemudian ditetapkan melalui Surat Keputusan Menteri Kehutanan dengan SK No. 675/Kpts-II/97 dengan luas  5.356,5 hektar. Luas kawasan Taman Nasional Kelimutu adalah 5356,50 ha dengan garis batas total sepanjang 48.423,44 m terdiri dari 241 pal batas hutan kawasan yang membatasi Taman Nasional dengan 24 desa di 5 wilayah kecamatan di Kabupaten Ende (Rekonstruksi Batas Kawasan Taman Nasional Kelimutu Kelompok Hutan Sokoria (RTK 52) Wilayah Kabupaten Ende Provinsi Nusa Tenggara Timur- Badan Pemantapan Kawasan Hutan Wilayah VIII Denpasar-Desember 2006).\n"
+    "description": "Taman Nasional Kelimutu adalah salah satu taman nasional di Indonesia. Tempatnya terletak di wilayah Kabupaten Ende, Provinsi Nusa Tenggara Timur. Dalam sistem koordinat geografis, letaknya di 8°43’ - 8°48’ Lintang Selatan dan 121°44’ - 121°51’ Bujur Timur. Penunjukannya sebagai Kawasan Taman Nasional berdasarkan pada surat keputusan Menteri Kehutanan yang diterbitkan tahun 1992. Surat ini bernomor SK No. 279/Kpts-II/92. Taman Nasional Kelimut menempati lahan seluas ± 5.000 hektare. Luas taman ini diperbesar pada tahun 1997 berdasarkan Surat Keputusan Menteri Kehutanan. Pada Surat Keputusan No. 675/Kpts-II/97, luasnya menjadi 5.356,5 hektare. Garis batas total ditetapkan sepanjang 48.423,44 meter dengan jumlah pal batas sebanyak 241 pal batas. Batas ini memisahkan antara kawasan hutan dengan 24 desa dalam 5 wilayah kecamatan di Kabupaten Ende. Lima kecamatan yang menjadi bagian dari Taman Nasional Kelimut adalah Kecamatan Ndona, Kecamatan Wolojita, Kecamatan Ndona Timur, Kecamatan Detusoko, dan Kecamatan Kelimutu. Taman Nasional Kelimutu ditetapkan dalam kawasan Hutan Sokoria yang mempunyai banyak jenis flora dan fauna."
   },
   {
     "id": "oYoJc",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Komodo-dragon-1.jpg",
       "title": "Komodo-dragon-1.jpg",
-      "dimensions": "2.272 x 1.704",
-      "size": "837 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
-      "author": "",
+      "original_source": null,
+      "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Komodo-dragon-1.jpg",
       "license": [
         {
-          "type": "GFDLCC-BY-SA-3.0",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttp://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 2272,
+      "height": 1704,
+      "size": "837 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Komodo",
     "name": "Taman Nasional Komodo",
-    "year": "1980",
-    "total_area": { "km": "1.817", "miles": "701" },
+    "year": 1980,
+    "total_area": { "km": 1817, "miles": 701 },
     "waters_percentages": "66%",
-    "intl_status": "Situs Warisan Dunia;[5] World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 2,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/609"
+      },
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Bali dan Nusa Tenggara",
-    "description": "Taman Nasional Komodo terletak di daerah administrasi Provinsi Nusa Tenggara Timur\nTaman nasional ini terdiri atas tiga pulau besar Pulau Komodo, Pulau Rinca, dan Pulau Padar serta beberapa pulau kecil lainnya. Wilayah darat taman nasional ini 603 km² dan wilayah total adalah 1817 km².\nPada tahun 1980, taman nasional ini didirikan untuk melindungi komodo dan habitatnya. Di taman nasional ini terdapat 277 spesies hewan yang merupakan perpaduan hewan yang berasal dari Asia dan Australia, yang terdiri dari 32 spesies mamalia, 128 spesies burung, dan 37 spesies reptilia. Bersama dengan komodo, setidaknya 25 spesies hewan darat dan burung termasuk hewan yang dilindungi, karena jumlahnya yang terbatas atau terbatasnya penyebaran mereka. Selain itu, di kawasan ini terdapat pula terumbu karang. Setidaknya terdapat 253 spesies karang pembentuk terumbu yang ditemukan di sana, dengan sekitar 1.000 spesies ikan. Keindahan terumbu ini menarik minat wisatawan asing untuk berenang atau menyelam di perairan ini.\nPulau-pulau ini aslinya adalah pulau vulkanis. Jumlah penduduk di wilayah ini kurang lebih adalah 4.000 jiwa. Pada tahun 1991 taman nasional ini diterima sebagai Situs Warisan Dunia UNESCO.\nPada tanggal 11 November 2011, New 7 Wonders telah mengumumkan pemenang sementara, dan Taman Nasional Komodo masuk kedalam jajaran pemenang tersebut bersama dengan, Hutan Amazon, Teluk Halong, Air Terjun Iguazu, Pulau Jeju, Sungai Bawah Tanah Puerto Princesa, dan Table Mountain[2]. Taman Nasional Komodo mendapatkan suara terbanyak [3].\n",
-    "coordinate": { "latitude": "8°32′36″S", "longitude": "119°29′22″E" },
+    "description": "Taman Nasional Komodo terletak di daerah administrasi Provinsi Nusa Tenggara Timur",
+    "coordinate": {
+      "latitude": -8.543333333333333,
+      "longitude": 119.48944444444444
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Flores_Locator_Topography.png",
     "location": "Nusa Tenggara Timur, Indonesia",
     "established": "1980",
@@ -163,29 +210,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Alas_Purwo_2005.jpg",
       "title": "Alas Purwo 2005.jpg",
-      "dimensions": "640 x 426",
-      "size": "160 KB",
-      "type": "image/jpeg",
-      "date": "2005-12-31",
-      "source": "https://www.flickr.com/photos/seabreeze/79743738/",
-      "author": "rochmad setyadi",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/seabreeze/79743738/",
+      "author": "rochmad setyadi from Jakarta, DKI, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Alas_Purwo_2005.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 640,
+      "height": 426,
+      "size": "160 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Alas_Purwo",
     "name": "Taman Nasional Alas Purwo",
-    "year": "1992",
-    "total_area": { "km": "434", "miles": "168" },
+    "year": 1992,
+    "total_area": { "km": 434, "miles": 168 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Alas Purwo (TN Alas Purwo) adalah taman nasional yang terletak di Kecamatan Tegaldlimo dan Kecamatan Purwoharjo, Kabupaten Banyuwangi, Jawa Timur, Indonesia. Secara geografis terletak di ujung tenggara Pulau Jawa wilayah pantai selatan antara 8°26’45”–8°47’00” LS dan 114°20’16”–114°36’00” BT.\n",
-    "coordinate": { "latitude": "8°41′S", "longitude": "114°28′E" },
+    "description": "Taman Nasional Alas Purwo adalah taman nasional yang terletak di Kecamatan Tegaldlimo dan Kecamatan Purwoharjo, Kabupaten Banyuwangi, Jawa Timur, Indonesia. Letak taman nasional ini di ujung paling timur dari Pulau Jawa. Wilayah termasuk dalam pesisir pantai selatan antara 8°26’45”– 8°47’00” Lintang Selatan dan 114°20’16”–114°36’00” Bujur Timur. Penetapannya sebagai taman nasional berdasarkan Surat Keputusan Menteri Kehutanan No. 283/Kpts- 11/1992 tertanggal 26 Februari 1992. Lahannya seluas 43.320 ha. Taman Nasional Alas Purwo jugaa masuk dalam Semenanjung Blambangan. Ekosistem yang ada merupakan hutan hujan tropika. Ekosistemnya terbagi menjadi hutan bambu, hutan pantai, hutan bakau, hutan tanaman, hutan alam, dan padang rumput. Taman Nasional Alam Purwo merupakan tempat ritual Pagerwesi bagi umat Hindu. Letak taman nasional ini berbatasan dengan Pulau Bali. Di dalamnya ada Pura Luhur Giri Salaka. Keanekaragaman hayati di Taman Nasional Alas Purwo sangat tinggi. Jenis tumbuhan yang ditemukan sedikitnya 584 jenis dengan bentuk rumput, herba, semak, liana dan pohon.",
+    "coordinate": {
+      "latitude": -8.68361111111111,
+      "longitude": 114.46694444444445
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Banyuwangi_Regency_location_map.svg",
     "location": "Jawa Timur, Indonesia",
     "established": "1993",
@@ -197,29 +250,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Wild_Deers_near_Bama_Point,_Baluran.jpg",
       "title": "Wild Deers near Bama Point, Baluran.jpg",
-      "dimensions": "1.024 x 681",
-      "size": "545 KB",
-      "type": "image/jpeg",
-      "date": "2005-12-28",
-      "source": "https://www.flickr.com/photos/seabreeze/5078127973/",
-      "author": "rochmad setyadi",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/seabreeze/5078127973/",
+      "author": "rochmad setyadi from Jakarta, DKI, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wild_Deers_near_Bama_Point%2C_Baluran.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 1024,
+      "height": 681,
+      "size": "545 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Baluran",
     "name": "Taman Nasional Baluran",
-    "year": "1980",
-    "total_area": { "km": "250", "miles": "96" },
+    "year": 1980,
+    "total_area": { "km": 250, "miles": 96 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Baluran adalah salah satu Taman Nasional di Indonesia yang terletak di wilayah Banyuputih, Situbondo, Jawa Timur, Indonesia. Nama dari Taman Nasional ini diambil dari nama gunung yang berada di daerah ini, yaitu Gunung Baluran. Gerbang untuk masuk ke Taman Nasional Baluran berada di 7°55'17.76\"S dan 114°23'15.27\"E. Taman nasional ini terdiri dari tipe vegetasi sabana, hutan mangrove, hutan musim, hutan pantai, hutan pegunungan bawah, hutan rawa dan hutan yang selalu hijau sepanjang tahun. Tipe vegetasi sabana mendominasi kawasan Taman Nasional Baluran yakni sekitar 40 persen dari total luas lahan.\n",
-    "coordinate": { "latitude": "7°50′S", "longitude": "114°22′E" },
+    "description": "Taman Nasional Baluran adalah salah satu taman nasional di Indonesia yang terletak di wilayah Banyuputih, Situbondo, Jawa Timur, Indonesia. Namanya diambil dari nama gunung yang berada di daerah ini, yaitu Gunung Baluran. Awalnya, kawasan taman nasional ini ditetapkan sebagai hutan lindung pada tahun 1930 oleh Direktur Kebun Raya Bogor yang bernama K.W. Dammerman. Statusnya kemudian diubah menjadi suaka margasatwa oleh Gubernur Hindia Belanda pada tanggal 25 September 1937. Penetapan ulang sebagai suaka margasatwa diadakan oleh Menteri Pertanian dan Agraria melalui Surat Keputusan Nomor. SK/II/1962 tanggal 11 Mei 1962. Status taman nasional diperoleh pada tanggal 6 Maret 1980 oleh Menteri Pertanian dan dikukuhkan lagi pada tahun 1997 oleh Menteri kehutanan. Luas lahannya seluas 25.000 ha. Taman Nasional Baluran berbatasan dengan Selat Madura di utara, Selat Bali di timur, Desa Wonorejo dan Sungai Bajulmati di selatan dan, serta Sungai Klokoran dan Desa Sumberanyar di barat. Wilayahnya dibagi menjadi zona inti seluas 12.000 Ha, zona rimba seluas 5.537 ha, zona pemanfaatan intensif seluas 800 Ha, zona pemanfaatan khusus seluas 5.780 Ha, dan zona rehabilitasi seluas 783 Ha. Pengelolaannya dibagi dua menjadi Seksi Pengelolaan Taman Nasional Wilayah I Bekol dan Seksi Pengelolaan Taman Nasional Wilayah II Karangtekok. Seksi wilayah I meliputi sanggraloka Bama, Lempuyang dan Perengan. Sedangkan seksi wilayah II meliputi sanggraloka Watu Numpuk, Labuhan Merak dan Bitakol.",
+    "coordinate": {
+      "latitude": -7.833611111111111,
+      "longitude": 114.36694444444444
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Situbondo_Regency_location_map.svg",
     "location": "Jawa Timur, Indonesia",
     "established": "1980",
@@ -231,29 +290,44 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Semeru_Bromo_Temple.JPG",
       "title": "Semeru Bromo Temple.JPG",
-      "dimensions": "800 x 532",
-      "size": "52 KB",
-      "type": "image/jpeg",
-      "date": "2006-03-22",
-      "source": null,
-      "author": "UkPaolo",
+      "date": "2006-03-21T17:00:00.000Z",
+      "original_source": null,
+      "author": "No machine-readable author provided. UkPaolo assumed (based on copyright claims).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Semeru_Bromo_Temple.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \nGFDL",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\nhttp://www.gnu.org/copyleft/fdl.html"
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         }
-      ]
+      ],
+      "width": 800,
+      "height": 532,
+      "size": "52 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bromo_Tengger_Semeru",
     "name": "Taman Nasional Bromo Tengger Semeru",
-    "year": "1983",
-    "total_area": { "km": "503", "miles": "194" },
+    "year": 1983,
+    "total_area": { "km": 503, "miles": 194 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves bersama dengan Gunung Arjuno",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Jawa",
-    "description": "Taman Nasional Bromo Tengger Semeru adalah taman nasional di Jawa Timur, Indonesia, yang terletak di wilayah administratif Kabupaten Pasuruan, Kabupaten Malang, Kabupaten Lumajang dan Kabupaten Probolinggo. Taman yang bentangan barat-timurnya sekitar 20-30 kilometer dan utara-selatannya sekitar 40 km ini ditetapkan sejak tahun 1982 dengan luas wilayahnya sekitar 50.276,3 ha. Di kawasan ini terdapat kaldera lautan pasir yang luasnya ±6290 ha. Batas kaldera lautan pasir itu berupa dinding terjal, yang ketinggiannya antara 200-700 meter.\n",
-    "coordinate": { "latitude": "7°56′30″S", "longitude": "112°57′00″E" },
+    "description": "Taman Nasional Bromo Tengger Semeru adalah taman nasional di Jawa Timur, Indonesia, yang terletak di wilayah administratif Kabupaten Pasuruan, Kabupaten Malang, Kabupaten Lumajang dan Kabupaten Probolinggo. Taman yang bentangan barat-timurnya sekitar 20-30 kilometer dan utara-selatannya sekitar 40 km ini ditetapkan sejak tahun 1982 dengan luas wilayahnya sekitar 50.276,3 ha. Di kawasan ini terdapat kaldera lautan pasir yang luasnya ±6290 ha. Batas kaldera lautan pasir itu berupa dinding terjal, yang ketinggiannya antara 200-700 meter.",
+    "coordinate": { "latitude": -7.941666666666667, "longitude": 112.95 },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Jawa Timur, Indonesia",
     "established": "1982"
@@ -263,29 +337,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:COLLECTIE_TROPENMUSEUM_Gezicht_op_een_meer_en_de_vulkaan_Cereme_oftewel_Ciremai_TMnr_60005195.jpg",
       "title": "COLLECTIE TROPENMUSEUM Gezicht op een meer en de vulkaan Cereme oftewel Ciremai TMnr 60005195.jpg",
-      "dimensions": "700 x 521",
-      "size": "77 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
+      "original_source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
       "author": "G.F.J. (Georg Friedrich Johannes) Bley (Fotograaf/photographer).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/COLLECTIE_TROPENMUSEUM_Gezicht_op_een_meer_en_de_vulkaan_Cereme_oftewel_Ciremai_TMnr_60005195.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0",
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 700,
+      "height": 521,
+      "size": "77 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Ciremai",
     "name": "Taman Nasional Gunung Ciremai",
-    "year": "2004",
-    "total_area": { "km": "155", "miles": "60" },
+    "year": 2004,
+    "total_area": { "km": 155, "miles": 60 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Gunung Ciremai (TNGC) adalah sebuah kawasan konservasi yang terletak di provinsi Jawa Barat, Indonesia dengan luas kawasan 14.841,30 Hektar (Ha), tercantum di SK Penunjukan nomor: 424/menhut-ii/2004 tanggal 19 Oktober 2004. Gunung Ciremai adalah gunung soliter tertinggi di Jawa Barat dengan puncak tertinggi memiliki ketinggian 3.078 mdpl membentuk kerucut di sisi sebelah Utara. Secara geografis kawasan TNGC terletak pada 108' 19’ 18” – 108' 29’ 30” BT dan 6' 46’ 57” – 6' 58’ 57” LS.\n",
-    "coordinate": { "latitude": "6°54′25.5″S", "longitude": "108°24′47.5″E" },
+    "description": "Taman Nasional Gunung Ciremai (TNGC) adalah sebuah kawasan konservasi yang terletak di provinsi Jawa Barat, Indonesia dengan luas kawasan 14.841,30 Hektar (Ha), tercantum di SK Penunjukan nomor: 424/menhut-ii/2004 tanggal 19 Oktober 2004. Gunung Ciremai adalah gunung soliter tertinggi di Jawa Barat dengan puncak tertinggi memiliki ketinggian 3.078 mdpl membentuk kerucut di sisi sebelah Utara. Secara geografis kawasan TNGC terletak pada 108' 19’ 18” – 108' 29’ 30” BT dan 6' 46’ 57” – 6' 58’ 57” LS.",
+    "coordinate": {
+      "latitude": 6.906944444444445,
+      "longitude": 108.41305555555556
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Majalengka, Jawa Barat, Indonesia",
     "established": "2004",
@@ -296,29 +376,41 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Gunung_Gede_in_The_Clouds.jpg",
       "title": "Gunung Gede in The Clouds.jpg",
-      "dimensions": "3.072 x 1.440",
-      "size": "2,08 MB",
-      "type": "image/jpeg",
-      "date": "2008-03-03",
-      "source": "https://www.flickr.com/photos/60169539@N00/2305850016/",
-      "author": "Tanti Ruwani",
+      "date": "2008-03-02T21:43:00.000Z",
+      "original_source": "https://www.flickr.com/photos/60169539@N00/2305850016/",
+      "author": "Tanti Ruwani from Jakarta, Indonesia",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gunung_Gede_in_The_Clouds.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 3072,
+      "height": 1440,
+      "size": "2,08 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Gede_Pangrango",
     "name": "Taman Nasional Gunung Gede Pangrango",
-    "year": "1980",
-    "total_area": { "km": "150", "miles": "58" },
+    "year": 1980,
+    "total_area": { "km": 150, "miles": 58 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Jawa",
-    "description": "Taman Nasional Gunung Gede Pangrango (TNGGP) adalah salah satu taman nasional yang terletak di Provinsi Jawa Barat. Ditetapkan pada tahun 1980, taman nasional ini merupakan salah satu yang tertua di Indonesia. TN Gunung Gede Pangrango terutama didirikan untuk melindungi dan mengkonservasi ekosistem dan flora pegunungan yang cantik di Jawa Barat. Dengan luas 24.270,80 hektare, wilayahnya terutama mencakup dua puncak gunung Gede dan Pangrango beserta tutupan hutan pegunungan di sekelilingnya.\n",
-    "coordinate": { "latitude": "6°46′S", "longitude": "106°56′E" },
+    "description": "Taman Nasional Gunung Gede Pangrango (TNGGP) adalah salah satu taman nasional yang terletak di Provinsi Jawa Barat. Ditetapkan pada tahun 1980, taman nasional ini merupakan salah satu yang tertua di Indonesia. TN Gunung Gede Pangrango terutama didirikan untuk melindungi dan mengkonservasi ekosistem dan flora pegunungan yang cantik di Jawa Barat. Dengan luas 24.270,80 hektare, wilayahnya terutama mencakup dua puncak gunung Gede dan Pangrango beserta tutupan hutan pegunungan di sekelilingnya.",
+    "coordinate": {
+      "latitude": -6.766944444444444,
+      "longitude": 106.93361111111112
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Jawa Barat, Indonesia",
     "established": "1980",
@@ -329,29 +421,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:COLLECTIE_TROPENMUSEUM_Gezicht_vanuit_een_droge_rotsachtige_rivierbedding_op_de_vulkaan_Salak_TMnr_60016669.jpg",
       "title": "COLLECTIE TROPENMUSEUM Gezicht vanuit een droge rotsachtige rivierbedding op de vulkaan Salak TMnr 60016669.jpg",
-      "dimensions": "700 x 511",
-      "size": "77 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
+      "original_source": "https://en.wikipedia.org/wiki/id:Tropenmuseum",
       "author": "G.F.J. (Georg Friedrich Johannes) Bley (Fotograaf/photographer).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/COLLECTIE_TROPENMUSEUM_Gezicht_vanuit_een_droge_rotsachtige_rivierbedding_op_de_vulkaan_Salak_TMnr_60016669.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0",
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 700,
+      "height": 511,
+      "size": "77 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Halimun-Salak",
     "name": "Taman Nasional Gunung Halimun-Salak",
-    "year": "1992",
-    "total_area": { "km": "400", "miles": "150" },
+    "year": 1992,
+    "total_area": { "km": 400, "miles": 150 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Gunung Halimun–Salak (TNGHS) adalah salah satu taman nasional yang terletak di Jawa bagian barat. Kawasan konservasi dengan luas 113.357 hektare ini menjadi penting karena melindungi hutan hujan dataran rendah yang terluas di daerah ini, dan sebagai wilayah tangkapan air bagi kabupaten-kabupaten di sekelilingnya. Dengan lingkup wilayah yang bergunung-gunung, dua puncaknya yang tertinggi adalah Gunung Halimun (1.929 m) dan Gunung Salak (2.211 m).[1] Lebih dari 700 jenis tumbuhan berbunga hidup di hutan alam di dalam TNGHS,[2] dan keberadaan beberapa jenis fauna penting yang dilindungi di sini seperti elang jawa, macan tutul jawa, owa jawa, surili, dan lain-lain. Kawasan TNGHS dan sekitarnya juga merupakan tempat tinggal beberapa kelompok masyarakat adat, antara lain masyarakat adat Kasepuhan Banten Kidul dan masyarakat Baduy.[1]\n",
-    "coordinate": { "latitude": "6°48′S", "longitude": "106°29′E" },
+    "description": "Taman Nasional Gunung Halimun–Salak (TNGHS) adalah salah satu taman nasional yang terletak di Jawa bagian barat. Kawasan konservasi dengan luas 113.357 hektare ini menjadi penting karena melindungi hutan hujan dataran rendah yang terluas di daerah ini, dan sebagai wilayah tangkapan air bagi kabupaten-kabupaten di sekelilingnya. Dengan lingkup wilayah yang bergunung-gunung, dua puncaknya yang tertinggi adalah Gunung Halimun dan Gunung Salak. Lebih dari 700 jenis tumbuhan berbunga hidup di hutan alam di dalam TNGHS, dan keberadaan beberapa jenis fauna penting yang dilindungi di sini seperti elang jawa, macan tutul jawa, owa jawa, surili, dan lain-lain. Kawasan TNGHS dan sekitarnya juga merupakan tempat tinggal beberapa kelompok masyarakat adat, antara lain masyarakat adat Kasepuhan Banten Kidul dan masyarakat Baduy.",
+    "coordinate": {
+      "latitude": -6.800277777777778,
+      "longitude": 106.48361111111112
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Jawa Barat, Indonesia",
     "management": "Kementerian Kehutanan"
@@ -361,29 +459,41 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Blethrow_merapi1.jpg",
       "title": "Blethrow merapi1.jpg",
-      "dimensions": "1.024 x 527",
-      "size": "406 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
-      "author": "",
+      "original_source": null,
+      "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Blethrow_merapi1.jpg",
       "license": [
         {
-          "type": "GFDLCC-BY-SA-3.0",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttp://creativecommons.org/licenses/by-sa/3.0/"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 1024,
+      "height": 527,
+      "size": "406 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Merapi",
     "name": "Taman Nasional Gunung Merapi",
-    "year": "2004",
-    "total_area": { "km": "64", "miles": "25" },
+    "year": 2004,
+    "total_area": { "km": 64, "miles": 25 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Gunung Merapi adalah sebuah taman nasional (sering disingkat TN) yang terletak di Jawa bagian tengah. Secara administrasi kepemerintahan, wilayah taman nasional ini masuk ke dalam wilayah dua provinsi, yakni Jawa Tengah dan Yogyakarta. Penunjukan kawasan TN Gunung Merapi dilakukan dengan SK Menhut 134/Menhut-II/2004 tanggal 4 Mei 2004. Tujuan pengelolaannya adalah perlindungan bagi sumber-sumber air, sungai dan penyangga sistem kehidupan kabupaten/kota-kota Sleman, Yogyakarta, Klaten, Boyolali, dan Magelang. Sementara ini, sebelum terbentuknya balai pengelola taman nasional, TN G Merapi berada di bawah pengelolaan Balai KSDA (Konservasi Sumber Daya Alam) Yogyakarta.\n",
-    "coordinate": { "latitude": "7°32′49″S", "longitude": "110°26′40″E" },
+    "description": "Taman Nasional Gunung Merapi adalah sebuah taman nasional yang terletak di Jawa bagian tengah. Secara administrasi kepemerintahan, wilayah taman nasional ini masuk ke dalam wilayah dua provinsi, yakni Jawa Tengah dan Yogyakarta. Penunjukan kawasan TN Gunung Merapi dilakukan dengan SK Menhut 134/Menhut-II/2004 tanggal 4 Mei 2004. Tujuan pengelolaannya adalah perlindungan bagi sumber-sumber air, sungai dan penyangga sistem kehidupan kabupaten/kota-kota Sleman, Yogyakarta, Klaten, Boyolali, dan Magelang. Sementara ini, sebelum terbentuknya balai pengelola taman nasional, TN G Merapi berada di bawah pengelolaan Balai KSDA Yogyakarta.",
+    "coordinate": {
+      "latitude": -7.546944444444445,
+      "longitude": 110.44444444444444
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Daerah Istimewa Yogyakarta, IndonesiaJawa Tengah, Indonesia",
     "established": "2004"
@@ -393,29 +503,44 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Pemandangan_Merbabu_dari_Kota_Salatiga_(1).jpg",
       "title": "Pemandangan Merbabu dari Kota Salatiga (1).jpg",
-      "dimensions": "1.000 x 672",
-      "size": "307 KB",
-      "type": "image/jpeg",
-      "date": "2006-11-01",
-      "source": "https://en.wikipedia.org",
-      "author": "MerbabuWikipedia bahasa Inggris",
+      "date": "2006-10-31T17:00:00.000Z",
+      "original_source": "https://en.wikipedia.org",
+      "author": "Merbabu di Wikipedia bahasa Inggris.",
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pemandangan_Merbabu_dari_Kota_Salatiga_%281%29.jpg",
       "license": [
         {
-          "type": "GFDLCC-BY-SA-3.0CC BY 2.5",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttp://creativecommons.org/licenses/by-sa/3.0/https://creativecommons.org/licenses/by/2.5"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 5,
+          "type": "CC-BY-2.5",
+          "name": "Creative Commons Attribution 2.5 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.5"
         }
-      ]
+      ],
+      "width": 1000,
+      "height": 672,
+      "size": "307 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Merbabu",
     "name": "Taman Nasional Gunung Merbabu",
-    "year": "2004",
-    "total_area": { "km": "57", "miles": "21" },
+    "year": 2004,
+    "total_area": { "km": 57, "miles": 21 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Gunung Merbabu (TNGMb) merupakan taman nasional yang mencakup kawasan hutan di Gunung Merbabu. Secara administratif, taman nasional ini termasuk ke dalam wilayah 3 (tiga) kabupaten yaitu Kabupaten Boyolali, Kabupaten Magelang, dan Kabupaten Semarang, provinsi Jawa Tengah. Secara geografis Taman Nasional Gunung Merbabu terletak antara 110º26’22” Bujur Timur dan 7º27’13” Lintang Selatan.\nKawasan Taman Nasional Gunung Merbabu ditunjuk berdasarkan Keputusan Menteri Kehutanan No. 135/Menhut-II/2004 tanggal 4 Mei 2004 tentang perubahan fungsi kawasan hutan lindung dan taman wisata alam pada kelompok hutan Merbabu seluas 5.725 hektare. Kawasan ini dinilai penting sebagai sumber mata air bagi masyarakat yang tinggal di sekitarnya. Selain itu, kawasan hutan Merbabu juga merupakan habitat flora dan fauna yang dilindungi dan dilestarikan. Sistem pengelolaan taman nasional yang diterapkan diharapkan mampu untuk melestarikan dan mengembangkan kawasan konservasi ini sehingga dapat meningkatkan kesejahteraan masyarakat.[1]\n",
-    "coordinate": { "latitude": "7°30′0″S", "longitude": "110°24′0″E" },
+    "description": "Taman Nasional Gunung Merbabu (TNGMb) merupakan taman nasional yang mencakup kawasan hutan di Gunung Merbabu. Secara administratif, taman nasional ini termasuk ke dalam wilayah 3 (tiga) kabupaten yaitu Kabupaten Boyolali, Kabupaten Magelang, dan Kabupaten Semarang, provinsi Jawa Tengah. Secara geografis Taman Nasional Gunung Merbabu terletak antara 110º26’22” Bujur Timur dan 7º27’13” Lintang Selatan.",
+    "coordinate": { "latitude": -7.5, "longitude": 110.4 },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Jawa Tengah, Indonesia",
     "established": "2004",
@@ -426,29 +551,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Tanjung_Gelam_-_Karimunjawa.jpg",
       "title": "Tanjung Gelam - Karimunjawa.jpg",
-      "dimensions": "1.024 x 680",
-      "size": "400 KB",
-      "type": "image/jpeg",
-      "date": "2009-11-30",
-      "source": "https://www.flickr.com/photos/duabelas/4149453248/",
+      "date": "2009-11-29T17:00:00.000Z",
+      "original_source": "https://www.flickr.com/photos/duabelas/4149453248/",
       "author": "Azwari Nugraha",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tanjung_Gelam_-_Karimunjawa.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 1024,
+      "height": 680,
+      "size": "400 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Karimunjawa",
     "name": "Taman Nasional Karimunjawa",
-    "year": "1986",
-    "total_area": { "km": "1.116", "miles": "431" },
+    "year": 1986,
+    "total_area": { "km": 1116, "miles": 431 },
     "waters_percentages": "Sebagian besar",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Karimunjawa adalah sebuah taman nasional yang terletak di utara pulau Jawa. Wilayah taman nasional ini berada dalam administrasi Kabupaten Jepara. Pengelolaanya terdiri dari zona inti, zona perlindungan dan zona pemanfaatan.[2]\n",
-    "coordinate": { "latitude": "5°49′S", "longitude": "110°24′E" },
+    "description": "Taman Nasional Karimunjawa adalah sebuah taman nasional yang terletak di utara pulau Jawa. Wilayah taman nasional ini berada dalam administrasi Kabupaten Jepara. Pengelolaanya terdiri dari zona inti, zona perlindungan dan zona pemanfaatan.",
+    "coordinate": {
+      "latitude": -5.816944444444444,
+      "longitude": 110.40027777777779
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Central_Java_location_map.svg",
     "location": "Kepulauan Karimunjawa, Kabupaten Jepara, Jawa Tengah, Indonesia",
     "established": "\n1988 (KPA)\n1999 (Taman Nasional)\n",
@@ -459,29 +590,53 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Pulau_seribu.jpg",
       "title": "Pulau seribu.jpg",
-      "dimensions": "1.334 x 880",
-      "size": "907 KB",
-      "type": "image/jpeg",
-      "date": "2006-11-08",
-      "source": null,
-      "author": "Hullie",
+      "date": null,
+      "original_source": null,
+      "author": "No machine-readable author provided. Hullie assumed (based on copyright claims).",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pulau_seribu.jpg",
       "license": [
         {
-          "type": "GFDLCC-BY-SA-3.0CC BY 2.5",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttp://creativecommons.org/licenses/by-sa/3.0/https://creativecommons.org/licenses/by/2.5"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 5,
+          "type": "CC-BY-2.5",
+          "name": "Creative Commons Attribution 2.5 Generic",
+          "link": "https://creativecommons.org/licenses/by/2.5"
         }
-      ]
+      ],
+      "width": 1334,
+      "height": 880,
+      "size": "907 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kepulauan_Seribu",
     "name": "Taman Nasional Kepulauan Seribu",
-    "year": "1982",
-    "total_area": { "km": "1.080", "miles": "420" },
+    "year": 1982,
+    "total_area": { "km": 1080, "miles": 420 },
     "waters_percentages": "Sebagian besar",
-    "intl_status": "Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Jawa",
-    "description": "Taman Nasional Kepulauan Seribu  adalah kawasan pelestarian alam bahari di Indonesia yang terletak kurang lebih 45 km sebelah utara Jakarta.\nSecara administratif, kawasan Taman Nasional Kepulauan Seribu berada dalam wilayah Kabupaten Administrasi Kepulauan Seribu, terletak di Kecamatan Kepulauan Seribu Utara, dan mencakup tiga kelurahan yang berbeda, yaitu Kelurahan Pulau Panggang, Kelurahan Pulau Kelapa, dan Kelurahan Pulau Harapan.[2]\nSecara geografis Taman Nasional ini terletak pada 5°24’ - 5°45’ LS, 106°25’ - 106°40’ BT' dan mempunyai luas sekitar 107.489 ha,[a] yang terdiri atas wilayah perairan laut seluas 107.489 ha[b] dan 2 buah pulau, yaitu Pulau Penjaliran Barat dan Pulau Penjaliran Timur, seluas 39,50 ha. Dengan demikian, pulau-pulau lain (wilayah daratan) yang berjumlah 108, sesungguhnya tidak termasuk ke dalam kawasan Taman Nasional Kepulauan Seribu.\n",
-    "coordinate": { "latitude": "5°44′44″S", "longitude": "106°36′55″E" },
+    "description": "Taman Nasional Kepulauan Seribu  adalah kawasan pelestarian alam bahari di Indonesia yang terletak kurang lebih 45 km sebelah utara Jakarta.",
+    "coordinate": {
+      "latitude": -5.745555555555556,
+      "longitude": 106.61527777777778
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Laut Jawa, Indonesia",
     "established": "10 Oktober 1982 (1982-10-10)",
@@ -493,57 +648,78 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Beach_Bande_Alit_A.JPG",
       "title": "Beach Bande Alit A.JPG",
-      "dimensions": "800 x 327",
-      "size": "165 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
+      "original_source": "Karya sendiri",
       "author": "ESCapade",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Beach_Bande_Alit_A.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \nGFDL",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\nhttp://www.gnu.org/copyleft/fdl.html"
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         }
-      ]
+      ],
+      "width": 800,
+      "height": 327,
+      "size": "165 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Meru_Betiri",
     "name": "Taman Nasional Meru Betiri",
-    "year": "1982",
-    "total_area": { "km": "580", "miles": "224" },
+    "year": 1982,
+    "total_area": { "km": 580, "miles": 224 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Jawa",
-    "description": "Taman Nasional Meru Betiri adalah taman nasional yang terletak di regional Jawa Timur bagian selatan pada koordinat geografis 8°21’ - 8°34’ LS, 113°37’ - 113°58’ BT, dengan ketinggian 900 - 1.223 mdpl dan curah hujan rata-rata 2.300 mm/tahun, ditunjuk sebagai taman nasional sejak tahun 1982 oleh Menteri Pertanian dengan luas wilayahnya sekitar 58.000 ha dengan nama diambil dari nama gunung tertinggi di kawasan ini yaitu gunung Betiri (1.223m). Secara administratif, Taman Nasional Meru Betiri berada dalam wilayah Kecamatan Pesanggaran, Kabupaten Banyuwangi dan Kabupaten Jember, Provinsi Jawa Timur. Penunjukan taman nasional ini disahkan dengan surat keputusan Menteri Kehutanan, SK No. 277/Kpts- VI/97.\n"
+    "description": "Taman Nasional Meru Betiri adalah taman nasional yang terletak di provinsi Jawa Timur. Pada sistem koordinat geografis letaknya di 8°21’ - 8°34’ Lintang Selatan dan 113°37’ - 113°58’ Bujur Timur. Dalam pembagian administratif, Taman Nasional Meru Betiri masuk dalam wilayah Kabupaten Jember dan Kabupaten Banyuwangi. Luas kawasannya adalah 52.626,04 hektare. Selama tahun 1931 hingga 1938, kawasan Taman Nasional Meru Betiri merupakan kawasan hutan lindung yang dikelola berdasarkan hukum pemerintah Hindia Belanda. Pada tahun 1972, kawasan tersebut ditetapkan sebagai suaka margasatwa untuk harimau Jawa oleh Kementerian Pertanian dengan luas 50.000 ha. Luas suaka margasatwa ini bertambah menjadi 58.000 hektare setelah menambahkan bekas lahan perkebunan, hutan lindung dan kawasan pesisir pantai selatan Pulau Jawa. Lahan tersebut kemudian ditetapkan menjadi taman nasional pada tahun 1997 oleh Kementerian Kehutanan dengan hanya mengambil bagian kawasan hutan. Ekosistem di Taman Nasional Meru Betiri ada lima macam, yaitu hutan pantai, hutan payau, hutan hujan tropika, hutan rawan dan reofit. Jenis flora yang tumbuh sedikitnya 500 jenis yang dimanfaatkan sebagai obat dan penghidupan masyarakat setempat. Selain itu, sedikitnya ada 325 jenis fauna yang terdiri dari mamalia, reptil, burung, serangga, bivalvia dan antropoda. Jenis flora endemik yang tumbuh di dalamnya adalah bunga padmosari. Sedangkan jenis fauna endemik yang hidup di dalamnya adalah macan tutul banteng, kijang, burung merak, elang jawa, kukang, lutung jawa dan penyu."
   },
   {
     "id": "3x0ck",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Dead_Javan_Rhino.jpg",
       "title": "Dead Javan Rhino.jpg",
-      "dimensions": "1.283 x 902",
-      "size": "878 KB",
-      "type": "image/jpeg",
-      "date": "1895",
-      "source": "http://www.rhinoresourcecenter.com/images/Java-1895_i1180271330.php",
+      "date": "1894-12-31T16:52:48.000Z",
+      "original_source": "http://www.rhinoresourcecenter.com/images/Java-1895_i1180271330.php",
       "author": "Charles te Mechelen",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dead_Javan_Rhino.jpg",
       "license": [
         {
-          "type": "Public domainPDM",
+          "id": 6,
+          "type": "Public domain",
+          "name": "Public domain",
           "link": "https://creativecommons.org/publicdomain/mark/1.0/"
         }
-      ]
+      ],
+      "width": 1283,
+      "height": 902,
+      "size": "878 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Ujung_Kulon",
     "name": "Taman Nasional Ujung Kulon",
-    "year": "1980",
-    "total_area": { "km": "1.206", "miles": "466" },
+    "year": 1980,
+    "total_area": { "km": 1206, "miles": 466 },
     "waters_percentages": "443 km²",
-    "intl_status": "Situs Warisan Dunia[6]",
+    "intl_status": [
+      {
+        "id": 8,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/608"
+      }
+    ],
     "region": "Jawa",
-    "description": "Taman Nasional Ujung Kulon terletak di bagian paling barat Pulau Jawa, Indonesia. Kawasan taman nasional ini pada mulanya meliputi wilayah Krakatau dan beberapa pulau kecil di sekitarnya seperti Pulau Handeuleum dan Pulau Peucang dan Pulau Panaitan. Kawasan taman nasional ini mempunyai luas sekitar 122.956 Ha; (443 km² di antaranya adalah laut), yang dimulai dari Semenanjung Ujung Kulon sampai dengan Samudera Hindia.\nUjung Kulon merupakan taman nasional tertua di Indonesia yang sudah diresmikan sebagai salah satu Warisan Dunia yang dilindungi oleh UNESCO pada tahun 1991, karena wilayahnya mencakupi hutan lindung yang sangat luas. Sampai saat ini kurang lebih 50 sampai dengan 60 badak hidup di habitat ini.\nPada awalnya Ujung Kulon adalah daerah pertanian pada beberapa masa sampai akhirnya hancur lebur dan habis seluruh penduduknya ketika Gunung Krakatau meletus pada tanggal 27 Agustus 1883 yang akhirnya mengubahnya kawasan ini kembali menjadi hutan.\nTiket masuk ke Taman Nasional ini dapat diperoleh di kantor Balai Taman Nasional di Labuan atau di pos Tamanjaya. Fasilitas penginapan terdapat di desa Tamanjaya, Pulau Handeuleum dan Pulau Peucang.\nUntuk meningkatkan kemampuan pengelolaan Taman Nasional Ujung Kulon sebagai Situs Warisan Alam Dunia, UNESCO telah memberikan dukungan pendanaan dan bantuan teknis.\n",
-    "coordinate": { "latitude": "6°44′48″S", "longitude": "105°20′1″E" },
+    "description": "Taman Nasional Ujung Kulon terletak di bagian paling barat Pulau Jawa, Indonesia. Kawasan taman nasional ini pada mulanya meliputi wilayah Krakatau dan beberapa pulau kecil di sekitarnya seperti Pulau Handeuleum dan Pulau Peucang dan Pulau Panaitan. Kawasan taman nasional ini mempunyai luas sekitar 122.956 Ha;, yang dimulai dari Semenanjung Ujung Kulon sampai dengan Samudera Hindia.",
+    "coordinate": {
+      "latitude": -6.746666666666667,
+      "longitude": 105.33361111111111
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Java_location_map.svg",
     "location": "Jawa, Indonesia",
     "established": "1980",
@@ -555,57 +731,72 @@
     "image": {
       "link": "https://id.wikipedia.org/w/index.php?title=Berkas:Pegunungan_schwaner.jpg&filetimestamp=20100213175822&",
       "title": "Pegunungan schwaner.jpg",
-      "dimensions": "604 x 453",
-      "size": "22 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
-      "author": "",
+      "original_source": null,
+      "author": null,
       "src": "https://upload.wikimedia.org/wikipedia/id/d/dc/Pegunungan_schwaner.jpg",
       "license": [
         {
+          "id": 2,
           "type": "GFDL",
+          "name": "GNU Free Documentation License",
           "link": "http://www.gnu.org/copyleft/fdl.html"
         }
-      ]
+      ],
+      "width": 604,
+      "height": 453,
+      "size": "22 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Baka_Bukit_Raya",
     "name": "Taman Nasional Bukit Baka Bukit Raya",
-    "year": "1992",
-    "total_area": { "km": "1.811", "miles": "699" },
+    "year": 1992,
+    "total_area": { "km": 1811, "miles": 699 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Kalimantan",
-    "description": "Taman Nasional Bukit Baka-Bukit Raya merupakan Kawasan konservasi yang menjadi taman nasional yang terletak di jantung Pulau Kalimantan, tepatnya di perbatasan antara provinsi Kalimantan Barat dengan Kalimantan Tengah. Kawasan ini memiliki peranan penting dalam Fungsi hidrologis sebagai catchment area bagi Daerah Aliran Sungai Melawi di Kalimantan Barat dan Daerah Aliran Sungai Katingan di Kalimantan Tengah. Bukit Raya juga merupakan nama kapal milik Pelni yaitu KM Bukit Raya[1]\nKawasan hutan Bukit Baka-Bukit Raya Merupakan perwakilan tipe\nekosistem hutan hujan tropika pengunungan yang mendominasi puncak-puncak Pegunungan Schwaner. Bukit Baka-Bukit Raya merupakan gabungan Cagar\nAlam Bukit Baka di Kalimantan Barat dan Cagar Alam\nBukit Raya di Kalimantan Tengah. Penetapan Kawasan\nTaman Nasional Bukit Baka-Bukit Raya melalui Surat\nKeputusan Menteri Kehutanan Nomor: 281/Kpts-\nII/1992, tanggal 26 februari 1992 seluas 181.090 Ha.\n"
+    "description": "Taman Nasional Bukit Baka-Bukit Raya merupakan Kawasan konservasi yang menjadi taman nasional yang terletak di jantung Pulau Kalimantan, tepatnya di perbatasan antara provinsi Kalimantan Barat dengan Kalimantan Tengah. Kawasan ini memiliki peranan penting dalam Fungsi hidrologis sebagai catchment area bagi Daerah Aliran Sungai Melawi di Kalimantan Barat dan Daerah Aliran Sungai Katingan di Kalimantan Tengah. Bukit Raya juga merupakan nama kapal milik Pelni yaitu KM Bukit Raya"
   },
   {
     "id": "MHc0u",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Danau_Sentarum_2006.jpg",
       "title": "Danau Sentarum 2006.jpg",
-      "dimensions": "1.024 x 768",
-      "size": "525 KB",
-      "type": "image/jpeg",
-      "date": "2006-05-10",
-      "source": "https://www.flickr.com/photos/42790152@N06/3947104713/",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/42790152@N06/3947104713/",
       "author": "Natureandpoverty.net",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Danau_Sentarum_2006.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 1024,
+      "height": 768,
+      "size": "525 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Danau_Sentarum",
     "name": "Taman Nasional Danau Sentarum",
-    "year": "1999",
-    "total_area": { "km": "1.320", "miles": "510" },
+    "year": 1999,
+    "total_area": { "km": 1320, "miles": 510 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Kalimantan",
-    "description": "Taman Nasional Danau Sentarum adalah taman nasional yang melindungi keanekaragaman hayati Danau Sentarum.[1] Taman nasional ini terletak di Kalimantan Barat, Indonesia. Sekitar setengah taman ini terdiri dari danau.\nPada tahun 1999, Danau Sentarum ditetapkan sebagai taman nasional. Sebelumnya, Taman Nasional Danau Sentarum berstatus cagar alam (1981/1982) dan suaka margasatwa (sejak 1983).\n",
-    "coordinate": { "latitude": "0°51′N", "longitude": "112°6′E" },
+    "description": "Taman Nasional Danau Sentarum adalah taman nasional yang terletak di Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat. Lahan yang dijadikan sebagai wilayahnya seluas ±132 000 ha. Bentang lahannnya terdiri atas beberapa danau musiman (23%), dan hutan rawa. Taman Nasional Danau Sentarum mempunyai keanekaragaman hayati yang beragam. Sebagian kecil wilayahnya yang berbentuk bukit menjadi habitat dari meranti dan kerangas. Taman Nasional Danau Sentarum ditetapkan sebagai situs ramsar sejak tahun 1994. Iklim di kawasannya selalu basah dan lembab dan mendukung perkembangan keanekaragaman hayati. Di dalam taman nasional ini hidup beberapa spesies tumbuhan endemik seperti Caesaria spp, Croton cf ensifolius, Dichilanthe borneensis, Eugenia ambigua, Helicia cf petiolaris, Korthlsella cf germinans, Microcos cf stylocarpus, Rhodoleia spp, Ternstroemia cf toguian, dan Vatica cf umbronata. Beberapa hewan yang terancam mengalami kepunahan juga hidup di dalamnya, seperti buaya sinyulong, buaya muara, dan buaya siam. Wilayah perairan di Taman Nasional Danau Sentarum merupakan habitat ikan arwana merah yang langka. Mamalia yang hidup di pinggir danau dan sungai dalam jumlah sedikit ialah orang utan dan bekantan. Selain itu, ada dua jenis burung langka yang dapat ditemui yaitu burung ruwai dan karau paruh merah. Di dalam Taman Nasional Danau Sentarum sering terjadi penebangan ramin khususnya di kawasan hutan rawa gambut. Peran utama dari penetapan Taman Nasional Danau Sentarum adalah untuk melindungi keanekaragaman hayati di sekitar Danau Sentarum.",
+    "coordinate": {
+      "latitude": 0.8502777777777778,
+      "longitude": 112.10027777777778
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Borneo_Locator_Topography.png",
     "location": "Kalimantan Barat, Indonesia",
     "established": "1999",
@@ -616,137 +807,178 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Gunung_Palung_Jungle.jpg",
       "title": "Gunung Palung Jungle.jpg",
-      "dimensions": "1.600 x 1.067",
-      "size": "425 KB",
-      "type": "image/jpeg",
-      "date": "2009-10-18",
-      "source": "https://www.flickr.com/photos/24577950@N03/4083438869/",
-      "author": "Tom",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/24577950@N03/4083438869/",
+      "author": "Tom from the Netherlands",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gunung_Palung_Jungle.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 1600,
+      "height": 1067,
+      "size": "425 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Palung",
     "name": "Taman Nasional Gunung Palung",
-    "year": "1990",
-    "total_area": { "km": "900", "miles": "350" },
+    "year": 1990,
+    "total_area": { "km": 900, "miles": 350 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Kalimantan",
-    "description": "Taman Nasional Gunung Palung (TNGP) adalah taman nasional yang terletak di Kabupaten Kayong Utara dan Kabupaten Ketapang, Kalimantan Barat.\n"
+    "description": "Taman Nasional Gunung Palung (TNGP) adalah taman nasional yang terletak di Kabupaten Kayong Utara dan Kabupaten Ketapang, Kalimantan Barat."
   },
   {
     "id": "p2JQ6",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Gas_Station_A.JPG",
       "title": "Gas Station A.JPG",
-      "dimensions": "704 x 528",
-      "size": "359 KB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
+      "original_source": "Karya sendiri",
       "author": "ESCapade",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gas_Station_A.JPG",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \nGFDL",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\nhttp://www.gnu.org/copyleft/fdl.html"
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         }
-      ]
+      ],
+      "width": 704,
+      "height": 528,
+      "size": "359 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kayan_Mentarang",
     "name": "Taman Nasional Kayan Mentarang",
-    "year": "1996",
-    "total_area": { "km": "13.605", "miles": "5.252" },
+    "year": 1996,
+    "total_area": { "km": 13605, "miles": 5252 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Kalimantan",
-    "description": "Taman Nasional Kayan Mentarang (TNKM) (bahasa Inggris: Kayan Mentarang National Park), ditetapkan pertama kali pada tahun 1980 sebagai Cagar Alam oleh Menteri Pertanian Indonesia.[1] Kemudian pada tahun 1996, atas desakan masyarakat lokal (adat) dan rekomendasi dari WWF, kawasan ini diubah statusnya menjadi Taman Nasional agar kepentingan masyarakat lokal dapat diakomodasikan. TNKM memiliki kawasan hutan primer dan skunder tua terbesar yang masih tersisa di Pulau Borneo dan kawasan Asia Tenggara.[1] \n",
-    "coordinate": { "latitude": "", "longitude": "" }
+    "description": "Taman Nasional Kayan Mentarang (TNKM), ditetapkan pertama kali pada tahun 1980 sebagai Cagar Alam oleh Menteri Pertanian Indonesia. Kemudian pada tahun 1996, atas desakan masyarakat lokal (adat) dan rekomendasi dari WWF, kawasan ini diubah statusnya menjadi Taman Nasional agar kepentingan masyarakat lokal dapat diakomodasikan. TNKM memiliki kawasan hutan primer dan skunder tua terbesar yang masih tersisa di Pulau Borneo dan kawasan Asia Tenggara.",
+    "coordinate": { "latitude": null, "longitude": null }
   },
   {
     "id": "aPMOj",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Kutai_Orangutan_2008.jpg",
       "title": "Kutai Orangutan 2008.jpg",
-      "dimensions": "1.574 x 1.922",
-      "size": "966 KB",
-      "type": "image/jpeg",
-      "date": "2008-09-15",
-      "source": "https://www.flickr.com/photos/21976354@N07/2931279428/",
-      "author": "NeilWWW.NEILSRTW.BLOGSPOT.COM",
+      "date": "2008-09-15T03:35:00.000Z",
+      "original_source": "https://www.flickr.com/photos/21976354@N07/2931279428/",
+      "author": "Neil WWW.NEILSRTW.BLOGSPOT.COM",
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kutai_Orangutan_2008.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 1574,
+      "height": 1922,
+      "size": "966 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kutai",
     "name": "Taman Nasional Kutai",
-    "year": "1982",
-    "total_area": { "km": "1.986", "miles": "767" },
+    "year": 1982,
+    "total_area": { "km": 1986, "miles": 767 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Kalimantan",
-    "description": "Taman Nasional Kutai atau biasa disingkat TNK adalah sebuah taman nasional yang berada di wilayah Kabupaten Kutai Timur dan sebagian kecil wilayah Kota Bontang yang memiliki lahan total seluas 198.629 ha. Kantor atau balai pengeloloa TNK berada di Kota Bontang. Namun seiring masuk tahun 2000-an, wilayah TNK ini mulai dirambah penduduk untuk dijadikan pemukiman dan lahan perkebunan sehingga wilayah TNK yang masih benar-benar asli mungkin jauh di bawah lahan yang seluas 198.629 ha pada akhir tahun 1990-an.\n"
+    "description": "Taman Nasional Kutai atau biasa disingkat TNK adalah sebuah taman nasional yang berada di wilayah Kabupaten Kutai Timur dan sebagian kecil wilayah Kota Bontang yang memiliki lahan total seluas 198.629 ha. Kantor atau balai pengeloloa TNK berada di Kota Bontang. Namun seiring masuk tahun 2000-an, wilayah TNK ini mulai dirambah penduduk untuk dijadikan pemukiman dan lahan perkebunan sehingga wilayah TNK yang masih benar-benar asli mungkin jauh di bawah lahan yang seluas 198.629 ha pada akhir tahun 1990-an."
   },
   {
     "id": "VjIfs",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Sabangau_River.jpg",
       "title": "Sabangau River.jpg",
-      "dimensions": "527 x 665",
-      "size": "48 KB",
-      "type": "image/jpeg",
-      "date": "2008-11-10",
-      "source": null,
+      "date": "2008-11-09T17:00:00.000Z",
+      "original_source": "Karya sendiri",
       "author": "Aymatth2",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sabangau_River.jpg",
-      "license": [{ "type": "Public domain", "link": "" }]
+      "license": [
+        {
+          "id": 6,
+          "type": "Public domain",
+          "name": "Public domain",
+          "link": "https://creativecommons.org/publicdomain/mark/1.0/"
+        }
+      ],
+      "width": 527,
+      "height": 665,
+      "size": "48 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Sebangau",
     "name": "Taman Nasional Sebangau",
-    "year": "2004",
-    "total_area": { "km": "5.687", "miles": "2.196" },
+    "year": 2004,
+    "total_area": { "km": 5687, "miles": 2196 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Kalimantan",
-    "description": "Taman Nasional Sebangau merupakan salah satu Taman Nasional yang terletak di Kalimantan Tengah, Indonesia. Posisinya di antara Sungai Sebangau dan Sungai Katingan. Secara administratif, Taman Nasional Sebangau terletak di Kabupaten Katingan, Kabupaten Pulang Pisau & Kota Palangka Raya di provinsi Kalimantan Tengah\nTaman nasional ini disahkan oleh Keputusan Menteri Kehutanan Nomor: 423/Menhut-II/2004 tanggal 19 Oktober 2004.\n"
+    "description": "Taman Nasional Sebangau merupakan salah satu taman nasional yang terletak di Kalimantan Tengah, Indonesia. Dalam pembagian administratif, Taman Nasional Sebangau terletak di tiga kabupaten. Masing-masing yaitu Kabupaten Katingan (52%), Kabupaten Pulang Pisau (38) dan Kota Palangka Raya (10%). Taman Nasional Sebangau terdiri dari hutan gambut. Taman nasional ini disahkan oleh Keputusan Menteri Kehutanan Nomor: 423/Menhut-II/2004 tanggal 19 Oktober 2004. Lahan yang ditempati seluas 568.700 hektar. Flora yang hidup di dalam taman nasional ini antara lain ramin, jelutung, bintangur, meranti, dan nyatoh. Sedangkan jenis fauna yang hidup dengan populasi yang besar adalah orang utan dan owa kalimantan. Taman Nasional Sebangau dijadikan sebagai kawasan perlindungan lahan basah. 81% wilayahnya merupakan ekosistem lahan gambut. Taman Nasional Sebangau menjadi sumber utama bagi fungsi hidrologi di Pulau Kalimantan karena menjadi kawasan penyerap karbon. Permasalahan yang ditemui dalam Taman Nasional Sebangau adalah pengadaan perkebunan kelapa sawit dan kebakaran hutan. Ini berdampak pada perubahan iklim di taman nasional ini. Keanekaragaman hayati di Taman Nasional Sebangau cukup tinggi. Taman nasional ini menjadi habitat bagi 166 jenis flora, 35 jenis mamalia, dan 150 jenis burung. Selain itu, hidup pula berbagai jenis reptil dan ikan. Fungsi alami dari Taman Nasional Sebangau adalah sebagai habitat utama bagi orang utan dan bekantan."
   },
   {
     "id": "bZzdQ",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Win_the_Orangutang_in_Tanjung_Puting_National_Park_2005.jpg",
       "title": "Win the Orangutang in Tanjung Puting National Park 2005.jpg",
-      "dimensions": "375 x 500",
-      "size": "103 KB",
-      "type": "image/jpeg",
-      "date": "2005-06-18",
-      "source": null,
+      "date": "2005-06-17T17:00:00.000Z",
+      "original_source": "Karya sendiri",
       "author": "Bjornman",
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Win_the_Orangutang_in_Tanjung_Puting_National_Park_2005.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0 \nGFDL",
-          "link": "https://creativecommons.org/licenses/by-sa/3.0\nhttp://www.gnu.org/copyleft/fdl.html"
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
         }
-      ]
+      ],
+      "width": 375,
+      "height": 500,
+      "size": "103 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Tanjung_Puting",
     "name": "Taman Nasional Tanjung Puting",
-    "year": "1982",
-    "total_area": { "km": "4.150", "miles": "1.370" },
+    "year": 1982,
+    "total_area": { "km": 4150, "miles": 1370 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Kalimantan",
-    "description": "Taman Nasional Tanjung Puting adalah sebuah taman nasional yang terletak di semenanjung barat daya provinsi Kalimantan Tengah.\nTanjung Puting pada awalnya merupakan cagar alam dan suaka margasatwa yang ditetapkan oleh Pemerintah Hindia Belanda pada tahun 1937. Selanjutnya berdasarkan SK Menteri Kehutanan No. 687/Kpts-II/1996 tanggal 25 Oktober 1996, Tanjung Puting ditunjuk sebagai Taman Nasional dengan luas seluruhnya 415.040 ha.[3]\nSecara geografis taman nasional ini terletak antara 2°35'-3°20' LS dan 111°50'-112°15' BT meliputi wilayah Kecamatan Kumai di Kotawaringin Barat dan kecamatan-kecamatan Hanau serta Seruyan Hilir di Kabupaten Seruyan.\nTaman Nasional Tanjung Puting dikelola oleh Balai Taman Nasional Tanjung Puting, salah satu Unit Pelaksana Teknis (UPT) Ditjen Perlindungan Hutan dan Konservasi Alam (PHKA) Kementerian Kehutanan.\n",
-    "coordinate": { "latitude": "2°56′07″S", "longitude": "112°02′25″E" },
+    "description": "Taman Nasional Tanjung Puting adalah sebuah taman nasional yang terletak di semenanjung barat daya provinsi Kalimantan Tengah.",
+    "coordinate": {
+      "latitude": -2.935277777777778,
+      "longitude": 112.04027777777777
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_location_map.svg",
     "location": "Kalimantan, Indonesia",
     "established": "1982",
@@ -758,29 +990,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Edge_of_Aketajawe-Lolobata_National_Park.jpg",
       "title": "Edge of Aketajawe-Lolobata National Park.jpg",
-      "dimensions": "3.648 x 2.736",
-      "size": "4,65 MB",
-      "type": "image/jpeg",
-      "date": "2010-05-31",
-      "source": "https://www.flickr.com/photos/exploreplants/4771728091/",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/exploreplants/4771728091/",
       "author": "exploreplants",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edge_of_Aketajawe-Lolobata_National_Park.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 3648,
+      "height": 2736,
+      "size": "4,65 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Aketajawe-Lolobata",
     "name": "Taman Nasional Aketajawe-Lolobata",
-    "year": "2004",
-    "total_area": { "km": "1.673", "miles": "646" },
+    "year": 2004,
+    "total_area": { "km": 1673, "miles": 646 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Maluku dan Papua",
-    "description": "Taman Nasional Aketajawe-Lolobata adalah taman nasional yang terletak di Halmahera, Maluku Utara, Indonesia.[1] Taman ini dianggap penting bagi keselamatan 23 spesies burung endemik oleh BirdLife International.[2] Aketajawe-Lolobata, yang merupakan wilayah seluas 167.300 hektare, dinyatakan sebagai taman nasional pada tahun 2004.\n",
-    "coordinate": { "latitude": "1°09′N", "longitude": "128°16′E" },
+    "description": "Taman Nasional Aketajawe-Lolobata adalah taman nasional yang terletak di Halmahera, Maluku Utara, Indonesia. Taman ini dianggap penting bagi keselamatan 23 spesies burung endemik oleh BirdLife International. Aketajawe-Lolobata, yang merupakan wilayah seluas 167.300 hektare, dinyatakan sebagai taman nasional pada tahun 2004.",
+    "coordinate": {
+      "latitude": 1.1502777777777777,
+      "longitude": 128.26694444444445
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Maluku_Locator_Topography.png",
     "location": "Indonesia",
     "established": "2004",
@@ -791,58 +1029,84 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Puncakjaya.jpg",
       "title": "Puncakjaya.jpg",
-      "dimensions": "640 x 480",
-      "size": "124 KB",
-      "type": "image/jpeg",
-      "date": "2007",
-      "source": null,
+      "date": "2006-12-31T17:00:00.000Z",
+      "original_source": null,
       "author": "Alfindra Primaldhi",
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Puncakjaya.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 640,
+      "height": 480,
+      "size": "124 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Lorentz",
     "name": "Taman Nasional Lorentz",
-    "year": "1997",
-    "total_area": { "km": "25.050", "miles": "9.670" },
+    "year": 1997,
+    "total_area": { "km": 25050, "miles": 9670 },
     "waters_percentages": "none",
-    "intl_status": "Situs Warisan Dunia[8]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 9,
+        "name": "Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/955"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Maluku dan Papua",
-    "description": "Taman Nasional Lorentz adalah sebuah taman nasional yang terletak di provinsi Papua, Indonesia. Dengan luas wilayah sebesar 2,4 juta Ha; Lorentz merupakan taman nasional terbesar di Asia Tenggara.\nTaman ini masih belum dipetakan, dijelajahi dan banyak terdapat tanaman asli, hewan dan budaya. Pada 1999 taman nasional ini diterima sebagai Situs Warisan Dunia UNESCO.\nWilayahnya juga terdapat persediaan mineral, dan operasi pertambangan berskala besar juga aktif di sekitar taman nasional ini. Ada juga Proyek Konservasi Taman Nasional Lorentz yang terdiri dari sebuah inisiatif masyarakat untuk konservasi komunal dan ekologi warisan yang berada di sekitar Taman Nasional Loretz ini.\nDari tahun 2003 hingga kini, WWF-Indonesia Region Sahul Papua sedang melakukan pemetaan wilayah adat dalam kawasan Taman Nasional Lorentz. Tahun 2003- 2006, WWF telah melakukan pemetaan di Wilayah Taman Nasional Lorentz yang berada di Distrik (Kecamatan) Kurima Kabupaten Yahukimo, dan Tahun 2006-2007 ini pemetaan dilakukan di Distrik Sawaerma Kabupaten Asmat.\nNama Taman Nasional ini diambil dari seorang Penjelajah asal Belanda, Hendrikus Albertus Lorentz,yang melewati daerah tersebut pada tahun 1909 yang merupakan ekspedisinya yang ke-10 di Taman Nasional ini.\n",
-    "coordinate": { "latitude": "4°45′0″S", "longitude": "137°50′0″E" }
+    "description": "Taman Nasional Lorentz adalah sebuah taman nasional yang terletak di provinsi Papua, Indonesia. Lahan yang ditempatinya seluas wilayah sebesar 2.505.600 Hektare. Dalam pembagian administraif, Taman Nasional Lorent berada dalam wilayah Kabupaten Jayawijaya, Kabupaten Mimika, Kabupaten Asmat, Kabupaten Yahukimo, dan Kabupaten Puncak Jaya. Taman Nasional Lorentz juga terbagi menjadi 16 distrik. Pemerintah Indonesia menetapkan kawasannya sebagai taman nasional pada tahun 1997. UNESCO juga menetapkan Taman Nasional Lorentz sebagai warisan dunia pada tahun 1999.",
+    "coordinate": { "latitude": -4.75, "longitude": 137.83333333333334 }
   },
   {
     "id": "TJ3ZS",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Wasur_Rainbow_1994.jpg",
       "title": "Wasur Rainbow 1994.jpg",
-      "dimensions": "915 x 600",
-      "size": "104 KB",
-      "type": "image/jpeg",
-      "date": "1994-08-01",
-      "source": "https://www.flickr.com/photos/57798979@N00/4514915781/",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/57798979@N00/4514915781/",
       "author": "Standel",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wasur_Rainbow_1994.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 915,
+      "height": 600,
+      "size": "104 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Wasur",
     "name": "Taman Nasional Wasur",
-    "year": "1990",
-    "total_area": { "km": "4.138", "miles": "1.598" },
+    "year": 1990,
+    "total_area": { "km": 4138, "miles": 1598 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Maluku dan Papua",
-    "description": "Taman Nasional Wasur merupakan bagian dari lahan basah terbesar di Papua dan sedikit terganggu oleh aktivitas manusia, ini disebabkan oleh adanya masyarakat adat yang bertempat tinggal di dalam kawasan dan merupakan pemilik hak ulayat hutan adat.[1] Biodiversitasnya membuat taman ini dijuluki sebagai \"Serengeti Papua\".[1]\nSekitar 70% dari luas wilayah ini terdiri dari sabana, sementara vegetasi lainnya merupakan hutan rawa-rawa, hutan monsoon, hutan pantai, hutan bambu, padang rumput dan hutan sagu. Tamana yang dominan meliputi spesies mangrove, Terminalia dan Melaleuca.[1]\n",
-    "coordinate": { "latitude": "8°36′S", "longitude": "140°50′E" },
+    "description": "Taman Nasional Wasur adalah salah satu taman nasional yang ada di Indonesia. Letaknya berada di bagian tenggara Provinsi Papua. Namanya merupakan nama salah satu desa di dalamnya. Nama tersebut berasal dari kata bahasa Marori yaitu Waisol yang berarti kebun. Taman Nasional Wasur merupakan lahan basah yang tergenang air selama 4 - 6 bulan dalam setahun. Di dalamnya terdapat habitat burung migran. Keseimbangan ekosistem di dalam Taman Nasional Wasur dipengaruhi oleh siklus air. Pada musim kemarau, rawa-rawa terbentuk karena air surut melalui parit-parit alami yang terhubung ke laut. Dalam sistem koordinat geografi, kawasan Taman Nasional Wasur terletak antara 140o 29' – 141o 00' Bujur Timur dan 08o 04' – 09o 07' Lintang Selatan. Dalam pembagian administratif Indonesia, Taman Nasional Wasur masuk dalam wilayah Kabupaten Merauke di 4 kecamatan. Kecamatan-kecamatan ini ialah Kecamatan Merauke, Kecamatan Jagebob, Kecamatan Sota dan Kecamatan Naukenjarai. Wilayah di dalam Taman Nasional Wasur telah dihuni oleh empat suku yaitu Suku Kanume, Suku Yeinan, Suku Marori Mengey dan Suku Marind. Keempat suku ini tinggal di kawasan hutan adat.",
+    "coordinate": {
+      "latitude": -8.600277777777777,
+      "longitude": 140.8336111111111
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Papua_Locator_Topography.png",
     "location": "Papua, Indonesia",
     "established": "1990",
@@ -853,29 +1117,47 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Bunaken01.JPG",
       "title": "Bunaken01.JPG",
-      "dimensions": "3.888 x 2.592",
-      "size": "5,96 MB",
-      "type": "image/jpeg",
       "date": null,
-      "source": null,
+      "original_source": "Karya sendiri",
       "author": "Btv70",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bunaken01.JPG",
       "license": [
         {
-          "type": "GFDLCC BY-SA 3.0",
-          "link": "http://www.gnu.org/copyleft/fdl.htmlhttps://creativecommons.org/licenses/by-sa/3.0"
+          "id": 2,
+          "type": "GFDL",
+          "name": "GNU Free Documentation License",
+          "link": "http://www.gnu.org/copyleft/fdl.html"
+        },
+        {
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+          "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 3888,
+      "height": 2592,
+      "size": "5,96 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bunaken",
     "name": "Taman Nasional Bunaken",
-    "year": "1991",
-    "total_area": { "km": "890", "miles": "305" },
+    "year": 1991,
+    "total_area": { "km": 890, "miles": 305 },
     "waters_percentages": "97%",
-    "intl_status": "Calon Situs Warisan Dunia[9]",
+    "intl_status": [
+      {
+        "id": 5,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2002/"
+      }
+    ],
     "region": "Sulawesi",
-    "description": "Taman Nasional Bunaken adalah taman laut yang terletak di Sulawesi Utara, Indonesia. Taman ini terletak di Segitiga Terumbu Karang yang menjadi habitat bagi 390 spesies terumbu karang[2] dan juga berbagai spesies ikan, moluska, reptil, dan mamalia laut. Taman Nasional Bunaken merupakan perwakilan ekosistem laut Indonesia, meliputi padang rumput laut, terumbu karang, dan ekosistem pantai.[3]\nTaman nasional ini didirikan pada tahun 1991 dan meliputi wilayah seluas 890.65 km². 97% dari taman nasional ini merupakan habitat laut, sementara 3% sisanya merupakan daratan, meliputi lima pulau: Bunaken, Manado Tua, Mantehage, Naen, dan Siladen.\n",
-    "coordinate": { "latitude": "1°40′N", "longitude": "124°39′E" },
+    "description": "Taman Nasional Bunaken adalah taman laut yang terletak di Sulawesi Utara, Indonesia. Taman ini terletak di Segitiga Terumbu Karang yang menjadi habitat bagi 390 spesies terumbu karang dan juga berbagai spesies ikan, moluska, reptil, dan mamalia laut. Taman Nasional Bunaken merupakan perwakilan ekosistem laut Indonesia, meliputi padang rumput laut, terumbu karang, dan ekosistem pantai.",
+    "coordinate": {
+      "latitude": 1.6669444444444443,
+      "longitude": 124.65027777777779
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
     "location": "Sulawesi Utara, Indonesia",
     "established": "1991",
@@ -887,29 +1169,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Kadidiri,_morning_view_(6972093459).jpg",
       "title": "Kadidiri, morning view (6972093459).jpg",
-      "dimensions": "4.272 x 2.848",
-      "size": "4,9 MB",
-      "type": "image/jpeg",
-      "date": "2011-06-29",
-      "source": "https://www.flickr.com/photos/azwegers/6972093459/",
+      "date": "2011-06-29T01:35:00.000Z",
+      "original_source": "https://www.flickr.com/photos/azwegers/6972093459/",
       "author": "Arian Zwegers",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kadidiri%2C_morning_view_%286972093459%29.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 4272,
+      "height": 2848,
+      "size": "4,9 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kepulauan_Togean",
     "name": "Taman Nasional Kepulauan Togean",
-    "year": "2004",
-    "total_area": { "km": "3.620", "miles": "1,400" },
+    "year": 2004,
+    "total_area": { "km": 3620, "miles": 1 },
     "waters_percentages": "700 km²",
     "intl_status": "none",
     "region": "Sulawesi",
-    "description": "Taman Nasional Kepulauan Togean adalah sebuah sebuah taman nasional di Kepulauan Togean yang terletak di Teluk Tomini, Sulawesi Tengah yang diresmikan pada tahun 2004. Secara administrasi wilayah ini berada di Kabupaten Tojo Una-una.\nKepulauan ini dikenal kaya akan terumbu karang dan berbagai biota laut yang langka dan dilindungi. Dibentuk oleh aktivitas vulkanis, pulau ini ditutupi oleh tumbuh-tumbuhan yang subur dan rimbun, serta dikelilingi oleh formasi bukit karang. Batu karang dan pantai menyediakan tempat bagi beberapa binatang laut untuk tinggal dan berkembang biak, seperti kura-kura hijau.\nBeberapa aksi wisata yang dapat dilakukan di Kepulauan Togean antara lain: menyelam dan snorkelling di Pulau Kadidiri, memancing, menjelajah alam hutan yang ada di dalam hutan yang ada di Pulau Malenge, serta mengunjungi gunung Colo di Pulau Una-una. Wisatawan juga bisa mengunjungi permukiman orang Bajo di Kabalutan.\n",
-    "coordinate": { "latitude": "0°21′S", "longitude": "121°59′E" },
+    "description": "Taman Nasional Kepulauan Togean adalah sebuah sebuah taman nasional di Kepulauan Togean yang terletak di Teluk Tomini, Sulawesi Tengah yang diresmikan pada tahun 2004. Secara administrasi wilayah ini berada di Kabupaten Tojo Una-una.",
+    "coordinate": {
+      "latitude": -0.35027777777777774,
+      "longitude": 121.98361111111112
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
     "location": "Sulawesi Tengah, Indonesia",
     "established": "2004",
@@ -920,29 +1208,41 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Danau_Lindu_w_bird_2007.jpg",
       "title": "Danau Lindu w bird 2007.jpg",
-      "dimensions": "3.456 x 2.304",
-      "size": "2,68 MB",
-      "type": "image/jpeg",
-      "date": "2007-10-09",
-      "source": "https://www.flickr.com/photos/wak1/140791245/",
-      "author": "Aidenvironment",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/wak1/140791245/",
+      "author": "Aidenvironment, 2007",
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Danau_Lindu_w_bird_2007.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 3456,
+      "height": 2304,
+      "size": "2,68 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Lore_Lindu",
     "name": "Taman Nasional Lore Lindu",
-    "year": "1982",
-    "total_area": { "km": "2.290", "miles": "884" },
+    "year": 1982,
+    "total_area": { "km": 2290, "miles": 884 },
     "waters_percentages": "none",
-    "intl_status": "World Network of Biosphere Reserves",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
     "region": "Sulawesi",
-    "description": "Taman Nasional Lore Lindu (TNLL) merupakan salah satu taman nasional di Indonesia yang terletak di provinsi Sulawesi Tengah dan salah satu lokasi perlindungan hayati Sulawesi. Taman Nasional Lore Lindu terletak sekitar 60 kilometer selatan kota Palu dan terletak antara 119°90’ – 120°16’BT dan 1°8’ – 1°3’LS.\nKalau dibandingkan dengan taman nasional lain di Indonesia, ukurannya sedang saja. Taman nasional ini secara resmi meliputi kawasan 217.991,18 hektar (sekitar 1.2% wilayah Sulawesi yang luasnya 189.000 km² atau 2.4% dari sisa hutan Sulawesi yakni 90.000 km²) dengan ketinggian bervariasi antara 200 sampai dengan 2.610 meter di atas permukaan laut. Taman Nasional ini sebagian besar terdiri atas hutan pegunungan dan sub-pegunungan (±90%) dan sebagian kecil hutan dataran rendah (±10%).[3]\nTaman Nasional Lore Lindu yang terletak di selatan kabupaten Donggala dan bagian barat kabupaten Poso menjadi daerah tangkapan air bagi 3 sungai besar di Sulawesi Tengah, yakni sungai Lariang, sungai Gumbasa dan sungai Palu. Taman nasional ini terbagi atas tiga kawasan, yakni Suaka Margasatwa Lore Kalamanta, Hutan Wisata Danau Lindu, dan Suaka Margasatwa Sopu Gumbasa.[4]\nTaman Nasional Lore Lindu memiliki fauna dan flora endemik Sulawesi serta panorama alam yang menarik karena terletak di garis Wallace yang merupakan wilayah peralihan antara zona Asia dan Australia.[5] Taman nasional ini juga merupakan habitat mamalia asli terbesar di Sulawesi. Anoa, babirusa, rusa, binatang hantu (tangkasi), kera tonkea, kuskus marsupial dan binatang pemakan daging terbesar di Sulawesi, musang Sulawesi hidup di taman ini. Taman Nasional Lore Lindu juga memiliki paling sedikit 5 jenis bajing dan 31 dari 38 jenis tikusnya, termasuk jenis endemik.[5]\nSedikitnya ada 55 jenis kelelawar dan lebih dari 230 jenis burung, termasuk maleo, 2 jenis enggang Sulawesi yaitu julang Sulawesi dan kengkareng Sulawesi. Burung Enggang Benbuncak juga disebut Rangkong atau burung allo menjadi penghuni Taman Nasional Lore Lindu.[5] Ribuan serangga aneh dan cantik dapat dilihat di sekitar taman ini, seperti kupu-kupu berwarna mencolok yang terbang di sekitar taman maupun sepanjang jalan setapak dan aliran sungai.[5]\n",
-    "coordinate": { "latitude": "1°31′S", "longitude": "120°11′E" },
+    "description": "Taman Nasional Lore Lindu (TNLL) merupakan salah satu taman nasional di Indonesia yang terletak di provinsi Sulawesi Tengah dan salah satu lokasi perlindungan hayati Sulawesi. Taman Nasional Lore Lindu terletak sekitar 60 kilometer selatan kota Palu dan terletak antara 119°90’ – 120°16’BT dan 1°8’ – 1°3’LS.",
+    "coordinate": {
+      "latitude": -1.5169444444444444,
+      "longitude": 120.18361111111112
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
     "location": "Sulawesi, Indonesia",
     "established": "1982",
@@ -954,29 +1254,51 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Wakatobi_beach_2006.jpg",
       "title": "Wakatobi beach 2006.jpg",
-      "dimensions": "3.872 x 2.592",
-      "size": "2,55 MB",
-      "type": "image/jpeg",
-      "date": "2006-08-11",
-      "source": "https://www.flickr.com/photos/26598370@N00/219132302/",
-      "author": "Jenny",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/26598370@N00/219132302/",
+      "author": "Jenny from Taipei",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wakatobi_beach_2006.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 3872,
+      "height": 2592,
+      "size": "2,55 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Wakatobi",
     "name": "Taman Nasional Wakatobi",
-    "year": "2002",
-    "total_area": { "km": "13.900", "miles": "5.370" },
+    "year": 2002,
+    "total_area": { "km": 13900, "miles": 5370 },
     "waters_percentages": "Sebagian besar",
-    "intl_status": "World Network of Biosphere ReservesCalon Situs Warisan Dunia[12]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 6,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2006/"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sulawesi",
-    "description": "Taman Nasional Wakatobi merupakan salah satu dari 50 taman nasional di Indonesia, yang terletak di kabupaten Wakatobi, Sulawesi Tenggara. Taman nasional ini ditetapkan pada tahun 2002, dengan total area 1,39 juta ha, menyangkut keanekaragaman hayati laut, skala dan kondisi karang; yang menempati salah satu posisi prioritas tertinggi dari konservasi laut di Indonesia. Kedalaman air di taman nasional ini bervariasi, bagian terdalam mencapai 1.044 meter di bawah permukaan air laut.\n",
-    "coordinate": { "latitude": "5°41′S", "longitude": "124°0′E" },
+    "description": "Taman Nasional Wakatobi adalah salah satu taman nasional di Indonesia. Letaknya di Kabupaten Wakatobi, Sulawesi Tenggara. Taman nasional ini ditetapkan pada tanggal 19 Agustus tahun 2002 berdasarkan Surat Keputusan Menteri kehutanan Nomor 7661/Kpts-II/2002. Lahan yang dipakai seluas 1,39 juta hektare. Sebelumnya, taman nasional ini juga telah ditetapkan oleh Surat Keputusan Menteri Kehutanan Nomor 393/Kpts-V/1996. Taman Nasional Wakatobi terdiri dari 25 gugusan terumbu karang sepanjang 600 km. Wakatobi merupakan akronim dari nama empat pulau besar, yaitu Pulau Wangi-wangi, Pulau Kaledupa, Pulau Tomia dan Pulau Binongko. Perairan lautnya beragam mulai dari yang datar, melandai ke arah laut, dan bertubir curam. Kedalaman airnya bervariasi dengan bagian terdalam 1.044 meter. Permukaan laut ini berpasir dan berkarang. Di taman nasional ini ada 112 jenis karang dari 13 famili. Selain itu terdapat 93 jenis ikan hias dan beberapa jenis penyu. Ada pula beberapa jenis burung laut seperti angsa-batu coklat, cerek melayu dan raja udang erasia. Taman Nasional Wakatobi berbatasan dengan Laut Banda di utara dan timur. Di bagian selatan berbatasan dengan Laut Flores, sedangkan bagian baratnya berbatasan dengan Pulau Buton.",
+    "coordinate": {
+      "latitude": -5.683611111111111,
+      "longitude": 124.00027777777778
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
     "location": "Sulawesi, Indonesia",
     "established": "2002",
@@ -987,79 +1309,108 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Sorikmarapi.jpg",
       "title": "Sorikmarapi.jpg",
-      "dimensions": "640 x 434",
-      "size": "36 KB",
-      "type": "image/jpeg",
-      "date": "1987",
-      "source": "http://www.volcano.si.edu/world/volcano.cfm?vnum=0601-12=&volpage=photos&photo=005044",
+      "date": "1986-12-31T17:00:00.000Z",
+      "original_source": "http://www.volcano.si.edu/world/volcano.cfm?vnum=0601-12=&volpage=photos&photo=005044",
       "author": "Tom Casadevall, U.S. Geological Survey",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sorikmarapi.jpg",
-      "license": [{ "type": "Public domain", "link": "" }]
+      "license": [
+        {
+          "id": 6,
+          "type": "Public domain",
+          "name": "Public domain",
+          "link": "https://creativecommons.org/publicdomain/mark/1.0/"
+        }
+      ],
+      "width": 640,
+      "height": 434,
+      "size": "36 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Batang_Gadis",
     "name": "Taman Nasional Batang Gadis",
-    "year": "2004",
-    "total_area": { "km": "1.080", "miles": "417" },
+    "year": 2004,
+    "total_area": { "km": 1080, "miles": 417 },
     "waters_percentages": "\n",
     "region": "Sumatra",
-    "description": "Taman Nasional Batang Gadis (TNBG) adalah sebuah taman nasional di Kabupaten Mandailing Natal (Madina), Sumatra Utara, terletak di 99° 12’ 45\" BT sampai dengan 99° 47’ 10\" dan 0° 27’ 15\" sampai dengan 1° 01’ 57\" LU dan secara administrasi wilayah ini dikelilingi 68 desa di 13 kecamatan di Kabupaten Mandailing Natal. Nama taman nasional ini berasal dari dari nama sungai utama yang mengalir dan membelah Kabupaten Madina, Sungai Batang Gadis.\nTNBG meliputi kawasan seluas 108.000 hektare atau 26% dari total luas Madina yang terletak pada ketinggian 300 s/d 2.145 meter di atas permukaan laut dengan titik tertinggi puncak Gunung Sorik Marapi.\nSurat keputusan Menteri Kehutanan No. 126/Menhut-II/2004 tanggal 29April 2004 tentang perubahan fungsi dan penunjukan hutan lindung, hutan produksi terbatas, dan hutan produksi tetap di Kab. Mandailing Natal Propinsi Sumatera Utara seluas 108.000 Ha sebagai Kawasan Pelestarian Alam dengan fungsi Taman Nasional Batang Gadis. Dan berdasarkan Keputusan Menteri Lingkungan Hidup dan Kehutanan Nomor SK.169/Menlhk-II/2015 tentang Penunjukan Unit Pelaksana Teknis Taman Nasional.  TNBG terdiri dari dari kawasan hutan lindung, hutan produksi terbatas, dan hutan produksi tetap. Hutan lindung yang dialih fungsikan seluas 101.500 ha, terdiri dari hutan lindung Register 4 Batang Gadis I, hutan Register 5 Batang Gadis II komp I dan II, Register 27 Batang Natal I, Register 28 Batang Natal II, Register 29 Bantahan Hulu dan Register 30 Batang Parlampuan I yang sudah ditetapkan sebagai kawasan lindung sejak masa pemerintahan Belanda dalam kurun waktu 1921 – 1924. Sementara kawasan hutan produksi yang dialihkan meliputi areal eks HPH PT. Gruti, seluas 5.500 ha, dan PT. Aek Gadis Timber seluas 1.000 ha.\nPada tahun 2012, terjadi pengurangan luas TNBG dari ±108.000 ha menjadi ±72.150 ha sebagai konsekuensi hukum vonis Putusan Mahkamah Agung Republik Indonesia Nomor : 29P/HUM/2OO4  tanggal 17 September  2008 dari  permohonan keberatan hak uji materiil PT. Sorikmas Mining sebagai Pemohon. Setelah ditata batas, TNBG dikukuhkan dengan Keputusan Menteri Kehutanan Republik Indonesia Nomor : SK.3973/Menhut-VII/KUH/2014 dengan luas 72.803,75\nTujuan pembentukan taman nasional adalah untuk menyelamatkan satwa dan habitat alam. TNBG juga sebagai simbol pengakuan nilai-nilai kearifan lokal dalam mengelola hutan.\nSalah satu kearifan tradisional masyarakat setempat ini dibuktikan dengan lubuk larangan atau naborgo-borgo atau harangan rarangan atau hutan larangan, merupakan beberapa contoh kearifan lokal yang hingga kini masih lestari.\nPembentukan ini juga sangat penting mengingat bahwa laju kerusakan hutan alam di provinsi ini sudah pada tingkat yang sangat memprihatinkan. Berdasarkan data Departemen Kehutanan pada tahun 2003, kerusakan hutan di kawasan ini mencapai 3,8 juta ha per tahun. Kerusakan hutan di Sumatra Utara sendiri mencapai 76 ribu ha per tahun dalam kurun waktu 1985 – 1998.\nSampai akhir November 2004 kerusakan hutan yang disebabkan penebangan liar (illegal logging) dan kebakaran hutan di Sumut mencapai 694.295 ha, untuk hutan lindung mencapai 207.575 ha, hutan konservasi 32.500 ha, hutan bakau 54 220 ha dan hutan produksi sekitar 400.000 ha.\nPembentukan taman nasional ini juga tidak semata-mata upaya pemerintah saja, melainkan atas jerih payah masyarakat dan kalangan lembaga swadaya masyarakat seperti, BITRA Indonesia, Conservation International Indonesia (CII), Wahana Lingkungan Hidup Indonesia (Walhi) Sumut, PUSAKA Indonesia, Yayasan Leuser Lestari (YLL), Yayasan Samudra dan lain-lain.\nSelain itu, potensi keanekaragaman jenis flora dan fauna yang tinggi menjadikannya habitat bagi beberapa satwa yang dilindungi seperti harimau sumatera (Panthera tigris sumatrae), tapir (Tapirus indicus), beruang madu (Helarctos malayanus), siamang (Hylobates syndactylus), ungko (Hylobates closii), kambing hutan (Naemorhedus sumatrae), rusa (Cervus unicolor), kijang (Muntiacus muntjak), kucing emas (Catopuma temminckii), landak (Hystrix brachyura), macan dahan (Neofelis nebulosa), juga berbagai macam burung, amfibi, dan reptil. Sedangkan untuk flora, saat ini terdapat dua jenis yang dilindungi seperti bunga Rafllesia dan kantong semar. Potensi pohon besar juga masih relatif banyak di TNBG (TNBG, 2019).\nTopografi kawasan hutan TNBG berupa perbukitan sampai pegunungan yang memiliki ketinggian bervariasi, dengan kemiringan rata-rata lebih dari 40%. Ketinggian lokasi dari permukaan air laut berkisar antara 300 meter sampai ± 2.145 meter dengan puncak tertinggi berada pada puncak Gunung Sorik Marapi. Kombinasi tingginya curah hujan, dominasi kemiringan lereng lebih dari 40%, kondisi topografi yang umumnya perbukitan dan pegunungan, serta terletak di daerah vulkanis aktif membawa kondisi geologis yang labil pada TNBG (Balai BKSDA II Sumut, 2005). \n"
+    "description": "Taman Nasional Batang Gadis adalah sebuah taman nasional yang terletak di Kabupaten Mandailing Natal, Sumatra Utara. Awalnya, Taman Nasional Batang Gadis menempati lahan seluas 108.00 hektare. Luasnya dikurangi menjadi 72.150 hektare melalui Surat Keputusan Kementerian Kehutanan No. 121 tahun 2012. Lahan yang dikeluarkan dalam wilayahnya digunakan sebagai hutan lindung dan hutan produksi terbatas. Penetapan Taman Nasional Batang Gadis sebagai taman nasional berdasarkan Keputusan Menteri Kehutanan No. 126/Kpts-II/2004, tertanggal 29 April 2004. Habitat di dalam taman nasional ini menempati ekosistem yang beragam mulai dari hutan rawa dataran tinggi, lahan basah, lembah sungai, hutan gamping, hutan dataran rendah perbukitan hingga hutan pegunungan. Hutan di dalamnya terbagi menjadi dua formasi yaitu Formasi Air Bangis – Singkil di Bukit Barisan Barat dan ekosistem montana di Bukit barisan. Separuh luas kawasan Taman Nasional Batang Gadis merupakan hutan dataran rendah dengan Formasi Air Bangis – Singkil."
   },
   {
     "id": "LOtQj",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Berbak_National_Park_2012.jpg",
       "title": "Berbak National Park 2012.jpg",
-      "dimensions": "3.872 x 2.592",
-      "size": "4,45 MB",
-      "type": "image/jpeg",
-      "date": "2012-02-14",
-      "source": "https://www.flickr.com/photos/cifor/7208537208/",
-      "author": "www.cifor.org Center for International Forestry Research",
+      "date": "2012-02-14T10:17:00.000Z",
+      "original_source": "https://www.flickr.com/photos/cifor/7208537208/",
+      "author": "Photo by James Maiden www.cifor.org Center for International Forestry Research",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Berbak_National_Park_2012.jpg",
       "license": [
         {
-          "type": "CC BY-SA 2.0",
+          "id": 4,
+          "type": "CC-BY-SA-2.0",
+          "name": "Creative Commons Attribution Share Alike 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by-sa/2.0"
         }
-      ]
+      ],
+      "width": 3872,
+      "height": 2592,
+      "size": "4,45 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Berbak",
     "name": "Taman Nasional Berbak",
-    "year": "1992",
-    "total_area": { "km": "1.627", "miles": "628" },
+    "year": 1992,
+    "total_area": { "km": 1627, "miles": 628 },
     "waters_percentages": "none",
-    "intl_status": "Situs Ramsar",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
     "region": "Sumatra",
-    "description": "Taman Nasional Berbak merupakan kawasan pelestarian alam untuk konservasi hutan rawa terluas di Asia Tenggara yang belum terjamah oleh eksploitasi manusia. Taman nasional ini memiliki luas 142.750 hektare. Keunikannya berupa gabungan yang menarik antara hutan rawa air tawar dan hutan rawa gambut yang terbentang luas di pesisir Timur Pulau Sumatra serta Taman Nasional Berbak adalah bagian dari Bentang Alam Hutan Gambut Berbak yang luas 238.000 hektare. Bentang alam ini juga merupakan salah satu Bentang Alam Konservasi Harimau (Tiger Conservation Landscape) di Sumatra yang direkognisi berdasarkan Peraturan Menteri Kehutanan No. ..... tentang Strategi dan Aksi Konservasi Harimau Sumatra.\n"
+    "description": "Taman Nasional Berbak merupakan kawasan pelestarian alam untuk konservasi hutan rawa terluas di Asia Tenggara yang belum terjamah oleh eksploitasi manusia. Taman nasional ini memiliki luas 142.750 hektare. Keunikannya berupa gabungan yang menarik antara hutan rawa air tawar dan hutan rawa gambut yang terbentang luas di pesisir Timur Pulau Sumatra serta Taman Nasional Berbak adalah bagian dari Bentang Alam Hutan Gambut Berbak yang luas 238.000 hektare."
   },
   {
     "id": "EsWy4",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Bukit_barisan.jpg",
       "title": "Bukit barisan.jpg",
-      "dimensions": "3.120 x 4.160",
-      "size": "2,46 MB",
-      "type": "image/jpeg",
-      "date": "2020-03-22",
-      "source": null,
+      "date": "2020-03-21T17:00:00.000Z",
+      "original_source": "Karya sendiri",
       "author": "Dastin akbar",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_barisan.jpg",
       "license": [
         {
-          "type": "CC BY-SA 4.0",
+          "id": 7,
+          "type": "CC-BY-SA-4.0",
+          "name": "Creative Commons Attribution Share Alike 4.0 International",
           "link": "https://creativecommons.org/licenses/by-sa/4.0"
         }
-      ]
+      ],
+      "width": 3120,
+      "height": 4160,
+      "size": "2,46 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Barisan_Selatan",
     "name": "Taman Nasional Bukit Barisan Selatan",
-    "year": "1999",
-    "total_area": { "km": "3.650", "miles": "1.410" },
+    "year": 1999,
+    "total_area": { "km": 3650, "miles": 1410 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      }
+    ],
     "region": "Sumatra",
-    "description": "Taman Nasional Bukit Barisan Selatan (TNBBS) adalah sebuah taman nasional yang ditujukan untuk melindungi hutan hujan tropis pulau Sumatra beserta kekayaan alam hayati yang dimilikinya. UNESCO menjadikan Taman Nasional Bukit Barisan Selatan sebagai Warisan Dunia[1]. Taman Nasional Bukit Barisan Selatan memiliki luas wilayah sekitar 355.511 Ha. Taman Nasional Bukit Barisan Selatan merupakan bagian dari pegunungan Bukit Barisan. Wilayah pegunungan Bukit Barisan memiliki beragam vegetasi alam seperti vegetasi hutan mangrove, hutan pantai, dan hutan pamah tropika.[1]\nTaman Nasional Bukit Barisan Selatan secara administrasi pemerintahan, kawasan Taman Nasional Bukit barisan Selatan terletak di wilayah Provinsi Lampung Kabupaten Tanggamus dan Kabupaten Lampung Barat, Provinsi Bengkulu Kabupaten Kaur. Secara geografis areal ini terletak antara 4°29’-5°57’ Lintang Selatan dan 103°24’-104°44’ Bujur Timur. \nTaman Nasional Bukit Barisan Selatan memiliki beberapa hutan dataran rendah di Sumatra yang terakhir kali dilindungi. Sangat kaya dalam hal keanekaragaman hayati dan merupakan tempat tinggal bagi tiga jenis mamalia besar yang paling terancam di dunia: gajah Sumatra (kurang dari 2000 ekor yang bertahan hidup saat ini), badak Sumatra (populasi global keseluruhan: 300 individu dan semakin berkurang drastis jumlahnya) dan harimau Sumatra (populasi global keseluruhan sekitar 400 individu).\nMenurut hasil analisis temuan tapak badak per 2019, diperkirakan ada 7-11 ekor yang lalu di sini.[2]Taman Nasional Bukit Barisan Selatan tercakup dalam Global 200 Ecoregions, yaitu peringkat habitat darat, air tawar dan laut di bumi yang paling mencolok dari sudut pandang biologi yang dibuat oleh WWF. Taman ini disorot sebagai daerah prioritas untuk pelestarian badak Sumatra melalui program Asian Rhino and Elephant Action Strategy (AREAS) dari WWF. Selain itu, IUCN, WCS dan WWF telah mengidentifikasi Taman Nasional Bukit Barisan Selatan sebagai Unit Pelestarian Macan (Wikramanayake, dkk., 1997), yaitu daerah hutan yang paling penting untuk pelestarian harimau di dunia. Terakhir, pada tahun 2002, UNESCO telah memilih daerah ini untuk diusulkan sebagai World Heritage Cluster Mountainous Area beserta Taman Nasional Gunung Leuser dan Kerinci Seblat.\n",
-    "coordinate": { "latitude": "5°26′34″S", "longitude": "104°20′53.55″E" },
+    "description": "Taman Nasional Bukit Barisan Selatan (TNBBS) adalah sebuah taman nasional yang ditujukan untuk melindungi hutan hujan tropis pulau Sumatra beserta kekayaan alam hayati yang dimilikinya. UNESCO menjadikan Taman Nasional Bukit Barisan Selatan sebagai Warisan Dunia. Taman Nasional Bukit Barisan Selatan memiliki luas wilayah sekitar 355.511 Ha. Taman Nasional Bukit Barisan Selatan merupakan bagian dari pegunungan Bukit Barisan. Wilayah pegunungan Bukit Barisan memiliki beragam vegetasi alam seperti vegetasi hutan mangrove, hutan pantai, dan hutan pamah tropika.",
+    "coordinate": {
+      "latitude": -5.442777777777778,
+      "longitude": 104.34805555555555
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Lampung_Regencies_Map.svg",
     "location": "Lampung Barat, Lampung, Indonesia",
     "established": "1990",
@@ -1070,29 +1421,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:A_taxonomist_at_work.JPG",
       "title": "A taxonomist at work.JPG",
-      "dimensions": "3.088 x 2.056",
-      "size": "2,67 MB",
-      "type": "image/jpeg",
-      "date": "2013-09-25",
-      "source": null,
+      "date": "2013-09-25T03:27:51.000Z",
+      "original_source": "Karya sendiri",
       "author": "Fitryamandita",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/A_taxonomist_at_work.JPG",
       "license": [
         {
-          "type": "CC BY-SA 4.0",
+          "id": 7,
+          "type": "CC-BY-SA-4.0",
+          "name": "Creative Commons Attribution Share Alike 4.0 International",
           "link": "https://creativecommons.org/licenses/by-sa/4.0"
         }
-      ]
+      ],
+      "width": 3088,
+      "height": 2056,
+      "size": "2,67 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Duabelas",
     "name": "Taman Nasional Bukit Duabelas",
-    "year": "2000",
-    "total_area": { "km": "605", "miles": "233" },
+    "year": 2000,
+    "total_area": { "km": 605, "miles": 233 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Sumatra",
-    "description": "Taman Nasional Bukit Duabelas adalah taman nasional yang terletak di Sumatra, Indonesia. Taman ini merupakan taman nasional yang relatif kecil, meliputi wilayah seluas 605 km².\nKawasan konservasi ini diberi nama sesuai lanskap daerahnya yang berbukit-bukit, termasuklah bukit Punai (164 m), Panggang (328 m), dan Kuran (438 m). Daerah ini merupakan daerah tangkapan air dari DAS Batanghari.[1]\nDi sini ada lebih kurang 120 jenis flora yang hidup, termasuk kayu ulin (Eusideroxylon zwageri), kayu menggeris (Koompassia excelsa) yang mencapai 80 m, jelutung (Dyera costulata) yang diameternya dapat mencapai 2 meter, dan jenis-jenis rotan jerenang.[1]\nDi kawasan hutan lindung ini berdiam Suku Anak Dalam atau Suku Kubu atau Orang Rimba. Suku ini telah lama mengatur zonasi kawasan jauh sebelum taman nasional ini terbentuk. Suku ini, bersama TNBD menunjukkan keselarasan dalam hal pemetaan taman nasional. Jalur tebing hutan —yang dinamai masyarakat sekitar sebagai Tali Bukit— dilarang untuk ditebangi pepohonannya. Adapun zona hutan yang di situ ada tanaman buah-buahan, maka ia masuk zona pemanfaat TNBD. Jumlah Orang Rimba di sini pada tahun 2018 mencapai 2960, naik dari tahun 2013 sebanyak 1775 orang.[2]\nTaman Nasional Bukit Duabelas merupakan perwakilan bagi hutan hujan tropis di provinsi Jambi. Bagian utara taman nasional ini terdiri dari hutan hujan primer, sementara sisanya merupakan hutan sekunder, sebagai akibat dari penebangan hutan.[3]\n",
-    "coordinate": { "latitude": "1°51′S", "longitude": "102°39′E" },
+    "description": "Taman Nasional Bukit Duabelas adalah taman nasional yang terletak di Provinsi Jambi, Sumatra, Indonesia. Dalam pembagian administratif, lokasinya masuk ke dalam Kabupaten Tebo, Kabupaten Batanghari dan Kabupaten Sarolangun. Luas lahan yang digunakan adalah 54.780,41 hektare. Taman Nasional Bukit Duabelas merupakan kawasan perlindungan. Namanya berasal dari kondisi geografis daerahnya yang berbukit-bukit. Beberapa bukit tertingginya yaitu bukit Punai, Panggang, dan Kuran. Daerah ini merupakan daerah tangkapan air dari daerah aliran sungai dari Sungai Batanghari. Di Taman Nasional Bukit Duabelas ada lebih kurang 120 jenis flora yang hidup, termasuk ulin, menggeris setinggi 80 meter, jelutung berdiameter 2 meter, dan rotan jerenang.",
+    "coordinate": {
+      "latitude": -1.850277777777778,
+      "longitude": 102.65027777777779
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sumatra_Locator_Topography.png",
     "location": "Sumatra, Indonesia",
     "established": "2000",
@@ -1103,29 +1460,35 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:FZS_Programm_Director_Peter_Pratje_working_with_orangutans_in_Bukit_Tigapulu,_Indonesia.jpg",
       "title": "FZS Programm Director Peter Pratje working with orangutans in Bukit Tigapulu, Indonesia.jpg",
-      "dimensions": "4.992 x 3.328",
-      "size": "5,37 MB",
-      "type": "image/jpeg",
-      "date": "2008-03-21",
-      "source": null,
+      "date": "2008-03-20T17:00:00.000Z",
+      "original_source": null,
       "author": "Norbert Guthier",
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/FZS_Programm_Director_Peter_Pratje_working_with_orangutans_in_Bukit_Tigapulu%2C_Indonesia.jpg",
       "license": [
         {
-          "type": "CC BY 4.0",
+          "id": 8,
+          "type": "CC-BY-4.0",
+          "name": "Creative Commons Attribution 4.0 International",
           "link": "https://creativecommons.org/licenses/by/4.0"
         }
-      ]
+      ],
+      "width": 4992,
+      "height": 3328,
+      "size": "5,37 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bukit_Tiga_Puluh",
     "name": "Taman Nasional Bukit Tiga Puluh",
-    "year": "1995",
-    "total_area": { "km": "1.277", "miles": "493" },
+    "year": 1995,
+    "total_area": { "km": 1277, "miles": 493 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Sumatra",
-    "description": "Taman Nasional Bukit Tiga Puluh (juga disebut Bukit Tigapuluh) adalah taman nasional yang terletak di Sumatra, Indonesia. Taman Nasional Bukit Tiga Puluh terletak pada lintas provinsi dan kabupaten, yaitu  di Kabupaten Indragiri Hulu dan Kabupaten Indragiri Hilir di provinsi Riau, dan Kabupaten Tebo dan Kabupaten Tanjung Jabung Barat di provinsi Jambi. [1] Taman Nasional Bukit Tiga Puluh ditetapkan sebagai kawasan taman nasional melalui SK Menteri Kehutanan Nomor 539/KPTS-II/1995. [2]\nTaman ini memiliki luas kira-kira 143.143 hektare dan secara ekologis, Taman Nasional Bukit Tiga Puluh merupakan kawasan yang memiliki tipe ekosistem hutan tropis dataran rendah (low land tropical rain forest), sehingga mempunyai keragaman hayati yang tinggi dan hampir seluruh spesies flora dan fauna di Pulau Sumatera, terdapat di kawasan Taman Nasional ini. Taman Nasional Bukit Tiga Puluh terkenal sebagai tempat terakhir spesies terancam seperti orangutan sumatera, harimau sumatera, gajah sumatera, badak sumatera, tapir asia, beruang madu dan berbagai spesies burung yang terancam. Taman Nasional Bukit Tiga Puluh juga merupakan tempat tinggal bagi Orang Rimba dan Talang Mamak.\nTaman Nasional Bukit Tiga Puluh kini mendapat ancaman serius dari penebangan hutan ilegal dan penanaman minyak sawit.[3] Melansir Kompas (2019), mnyusutnya habitat kawasan ini, mengakibatkan peningkatan konflik antara manusia dan gajah sumatra 4 kali lipat selama 10 tahun terakhir. Menurut Frankfurt Zoological Society, 346 konflik pada tahun 2018 mengakibatkan 9.161 pohon karet dan sawit, 2.475 batang tanaman dan pondok rusak, serta kematian seekor gajah, terjadi seiring menyusutnya tutupan hutan hujan dataran rendah ekosistem Bukit Tigapuluh ini.[4]\nHutan TNBT ini punya 84.042 ha arela penyangga berupa tutupan hutan alam pada 2009, dan merosot tersisa 34.814 ha saja. Pada 1980an, ada sekitar 400 ekor gajah yang hidup dan tak sampai 150 ekor tersisa 3 dekade kemudian.[4]\nKawasan Taman Nasional Bukit Tiga Puluh menjadi 20 kawasan prioritas global untuk konservasi harimau oleh pakar spesies pada tahun 2006 dan juga dijadikan sebagai daerah konservasi untuk proyek pelepasliaran orangutan Sumatera.[5] \n",
-    "coordinate": { "latitude": "1°0′S", "longitude": "102°30′E" },
+    "description": "Taman Nasional Bukit Tiga Puluh adalah taman nasional yang terletak di Sumatra, Indonesia. Taman Nasional Bukit Tiga Puluh terletak pada lintas provinsi dan kabupaten, yaitu di Kabupaten Indragiri Hulu dan Kabupaten Indragiri Hilir di provinsi Riau, dan Kabupaten Tebo dan Kabupaten Tanjung Jabung Barat di provinsi Jambi. Taman Nasional Bukit Tiga Puluh ditetapkan sebagai kawasan taman nasional melalui Surat Keputusan Menteri Kehutanan Nomor 539/KPTS-II/1995.",
+    "coordinate": {
+      "latitude": -1.0002777777777778,
+      "longitude": 102.50027777777778
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sumatra_Locator_Topography.png",
     "location": "Sumatra, Indonesia"
   },
@@ -1134,29 +1497,48 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Gunung_Leuser_National_Park_Jungle_Life.jpg",
       "title": "Gunung Leuser National Park Jungle Life.jpg",
-      "dimensions": "1.000 x 732",
-      "size": "616 KB",
-      "type": "image/jpeg",
-      "date": "2008-10-13",
-      "source": "https://www.flickr.com/photos/98073722@N00/2938561872/",
+      "date": null,
+      "original_source": "https://www.flickr.com/photos/98073722@N00/2938561872/",
       "author": "flydime",
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gunung_Leuser_National_Park_Jungle_Life.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 1000,
+      "height": 732,
+      "size": "616 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Gunung_Leuser",
     "name": "Taman Nasional Gunung Leuser",
-    "year": "1980",
-    "total_area": { "km": "7.927", "miles": "3.061" },
+    "year": 1980,
+    "total_area": { "km": 7927, "miles": 3061 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]World Network of Biosphere Reserves\nTaman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      },
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
-    "description": "Taman Nasional Gunung Leuser biasa disingkat TNGL adalah salah satu Kawasan Pelestarian Alam di Indonesia seluas 1.094.692 hektare yang secara administrasi pemerintahan terletak di Provinsi Aceh dan Sumatra Utara. Provinsi Aceh yang terdeliniasi TNGL meliputi Kabupaten Subulussalam, Aceh Selatan, Aceh Singkil, Aceh Tengah, Aceh Tenggara, Gayo Lues, Bener Meriah, Aceh Tamiang, sedangkan Provinsi Sumatra Utara yang terdeliniasi TNGL meliputi Kabupaten Dairi, Karo, dan Langkat.[1]\nTaman nasional ini mengambil nama dari Gunung Leuser yang menjulang tinggi dengan ketinggian 3404 meter di atas permukaan laut di Aceh. Taman nasional ini meliputi ekosistem asli dari pantai sampai pegunungan tinggi yang diliputi oleh hutan lebat khas hujan tropis. Dikelola dengan sistem zonasi yang dimanfaatkan untuk tujuan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, pariwisata, dan rekreasi.\nTaman Nasional Gunung Leuser memiliki 3 (tiga) fungsi yaitu:\n1. Perlindungan sistem penyangga kehidupan;\n2. Pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya;\n3. Pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya.\nDiterimanya Warisan Hutan Hujan Tropis Sumatra ke daftar Situs Warisan Dunia pada tahun 2004, membuat Taman Nasional Gunung Leuser juga masuk dalam daftar Situs Warisan Dunia oleh UNESCO, bersama dengan Taman Nasional Kerinci Seblat dan Taman Nasional Bukit Barisan Selatan.\nSebagai dasar legalitas dalam rangkaian proses pengukuhan kawasan hutan telah dikeluarkan Keputusan Menteri Kehutanan Nomor: 276/Kpts-II/1997 tentang Penunjukan Taman Nasional Gunung Leuser seluas 1.094.692 hektare yang terletak di Provinsi daerah Istimewa Aceh dan Sumatra Utara. Dalam keputusan tersebut disebutkan bahwa Taman Nasional Gunung Leuser terdiri dari gabungan:\n1. Suaka Margasatwa Gunung Leuser: 416.500 hektare\n2. Suaka Margasatwa Kluet: 20.000 hektare\n3. Suaka Margasatwa Langkat Barat: 51.000 hektare\n4. Suaka Margasatwa Langkat Selatan: 82.985 hektare\n5. Suaka Margasatwa Sekundur: 60.600 hektare\n6. Suaka Margasatwa Kappi: 142.800 hektare\n7. Taman Wisata Gurah: 9.200 hektare\n8. Hutan Lindung dan Hutan Produksi Terbatas: 292.707 hektare\nSesuai Peraturan Menteri Kehutanan Nomor: P.03/Menhut-II/2007, Saat ini pengelola TNGL adalah Unit Pelaksana Teknis (UPT) Direktorat Jenderal Perlindungan Hutan dan Konservasi Alam (Ditjen PHKA)Departemen Kehutanan yaitu Balai Besar Taman Nasional Gunung Leuser (BBTNGL) yang dipimpin oleh Kepala Balai Besar (setingkat eselon II).\nSalah satu Objek dan Daya Tarik Wisata Alam (ODTWA) yang terkenal di dalam kawasan TNGL adalah Pusat Pengamatan Orangutan Sumatra - Bukit Lawang di Kawasan Wisata Alam Bukit Lawang - Bohorok, Kabupaten Langkat, Sumatra Utara.[2]\nPada sisi lain, taman nasional ini juga mendapat perhatian karena maraknya kasus penebangan pohon illegal di beberapa lokasi yang menyalahi reservasi lingkungan.[3] Sebagian besar kawasan TNGL memiliki topografi curam serta struktur dan tekstur tanah yang rentan terhadap longsor. Hal ini terbukti pada saat banjir bandang telah menghancurkan kawasan wisata alam Bukit Lawang beberapa tahun lalu. Untuk lebih menjaga TNGL\ndari kerusakan yang lebih parah, dibentuklah suatu kawasan yang disebut Kawasan Ekosistem Leuser. Kawasan yang memiliki luas 2,6 juta hektare ini meliputi area yang lebih datar di sekeliling TNGL dan berfungsi sebagai penyangga (buffer).\n",
-    "coordinate": { "latitude": "3°46′21.6″N", "longitude": "97°14′43.5″E" },
+    "description": "Taman Nasional Gunung Leuser biasa disingkat TNGL adalah salah satu Kawasan Pelestarian Alam di Indonesia seluas 1.094.692 hektare yang secara administrasi pemerintahan terletak di Provinsi Aceh dan Sumatra Utara. Provinsi Aceh yang terdeliniasi TNGL meliputi Kabupaten Subulussalam, Aceh Selatan, Aceh Singkil, Aceh Tengah, Aceh Tenggara, Gayo Lues, Bener Meriah, Aceh Tamiang, sedangkan Provinsi Sumatra Utara yang terdeliniasi TNGL meliputi Kabupaten Dairi, Karo, dan Langkat.",
+    "coordinate": { "latitude": 3.7725, "longitude": 97.24527777777777 },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_North_Sumatra_location_map.svg",
     "location": "Sumatera Utara, Indonesia",
     "established": "1997",
@@ -1167,29 +1549,46 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Kerinci_Seblat_river.jpg",
       "title": "Kerinci Seblat river.jpg",
-      "dimensions": "350 x 263",
-      "size": "35 KB",
-      "type": "image/jpeg",
-      "date": "2012-01-27",
-      "source": null,
+      "date": "2012-01-26T17:00:00.000Z",
+      "original_source": null,
       "author": "id:user:SHRDT",
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kerinci_Seblat_river.jpg",
       "license": [
         {
-          "type": "CC BY-SA 3.0",
+          "id": 1,
+          "type": "CC-BY-SA-3.0",
+          "name": "Creative Commons Attribution Share Alike 3.0 Unported",
           "link": "https://creativecommons.org/licenses/by-sa/3.0"
         }
-      ]
+      ],
+      "width": 350,
+      "height": 263,
+      "size": "35 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Kerinci_Seblat",
     "name": "Taman Nasional Kerinci Seblat",
-    "year": "1999",
-    "total_area": { "km": "13.750", "miles": "5.310" },
+    "year": 1999,
+    "total_area": { "km": 13750, "miles": 5310 },
     "waters_percentages": "none",
-    "intl_status": "Unit Situs Warisan Dunia[16]Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 7,
+        "name": "Unit Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/list/1167"
+      },
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
-    "description": "Taman Nasional Kerinci Seblat adalah taman nasional terbesar di Sumatra yang memiliki luas wilayah sebesar 13,750 km². Taman nasional ini terletak pada koordinat antara 100°31'18\"E - 102°44'01\"E dan 1°07'13\"S - 1°26'14\"S. Secara administratif wilayah taman nasional ini berada di 14 kabupaten dan 2 kota yang termasuk dalam 4 provinsi yaitu Sumatra Barat, Jambi, Bengkulu, dan Sumatra Selatan.[1]\nTaman nasional ini terdiri dari Pegunungan Bukit Barisan yang memiliki wilayah dataran tertinggi di Sumatra, Gunung Kerinci (3.805 m).[2] Taman nasional ini juga terdiri dari mata air-mata air panas, sungai-sungai beraliran deras, gua-gua, air terjun-air terjun dan danau kaldera tertinggi di Asia Tenggara, Danau Gunung Tujuh.[3]\nTaman nasional ini juga memiliki beragam flora dan fauna. Sekitar 4.000 spesies tumbuhan tumbuh di wilayah taman nasional termasuk bunga terbesar di dunia Rafflesia arnoldi, dan bunga tertinggi di dunia, Amorphophallus titanum.[4] Fauna di wilayah taman nasional terdiri antara lain harimau sumatra, badak sumatra, gajah sumatra, macan dahan, tapir melayu, beruang madu, dan sekitar 370 spesies burung.[4][5]\nDiterimanya Warisan Hutan Hujan Tropis Sumatra ke daftar Situs Warisan Dunia oleh UNESCO, membuat Taman Nasional Kerinci Seblat juga diterima sebagai Situs Warisan Dunia UNESCO.[6] Bersama dengan Taman Nasional Gunung Leuser dan Taman Nasional Bukit Barisan Selatan.[7] Selain itu taman nasional ini masuk sebagai Taman Warisan ASEAN sejak 18 Desember 2003.[8]\n",
-    "coordinate": { "latitude": "2°3′29.7″S", "longitude": "101°23′23″E" },
+    "description": "Taman Nasional Kerinci Seblat adalah taman nasional terbesar di Sumatra yang memiliki luas wilayah sebesar 13,750 km². Taman nasional ini terletak pada koordinat antara 100°31'18\"E - 102°44'01\"E dan 1°07'13\"S - 1°26'14\"S. Secara administratif wilayah taman nasional ini berada di 14 kabupaten dan 2 kota yang termasuk dalam 4 provinsi yaitu Sumatra Barat, Jambi, Bengkulu, dan Sumatra Selatan.",
+    "coordinate": {
+      "latitude": 2.0580555555555553,
+      "longitude": 101.38972222222223
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Indonesia_Jambi_location_map.svg",
     "location": "Sungai Penuh, Jambi, Indonesia",
     "established": "1999",
@@ -1200,61 +1599,342 @@
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Tesso_Nilo_2009.jpg",
       "title": "Tesso Nilo 2009.jpg",
-      "dimensions": "3.264 x 2.448",
-      "size": "2,57 MB",
-      "type": "image/jpeg",
-      "date": "2009-06-18",
-      "source": "https://www.flickr.com/photos/aurelgrooves/3586923991/",
-      "author": "A. C. Shapiro",
+      "date": "2009-06-18T02:00:00.000Z",
+      "original_source": "https://www.flickr.com/photos/aurelgrooves/3586923991/",
+      "author": "A. C. Shapiro from Capitol City, USA",
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tesso_Nilo_2009.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 3264,
+      "height": 2448,
+      "size": "2,57 MB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Tesso_Nilo",
     "name": "Taman Nasional Tesso Nilo",
-    "year": "2004",
-    "total_area": { "km": "1.000", "miles": "386" },
+    "year": 2004,
+    "total_area": { "km": 1000, "miles": 386 },
     "waters_percentages": "none",
     "intl_status": "none",
     "region": "Sumatra",
-    "description": "Taman Nasional Tesso Nilo adalah sebuah taman nasional yang terletak di provinsi Riau, Indonesia. Taman nasional ini diresmikan pada 19 Juli 2004 dan mempunyai luas sebesar 38.576 hektare.\nKawasan yang masuk wilayah taman nasional ini adalah kawasan bekas Hak Pengusahaan Hutan (HPH) yang terletak di Kabupaten Pelalawan dan Indragiri Hulu. Hingga kini di sekelilingnya masih terdapat kawasan HPH.\nTerdapat 360 jenis flora yang tergolong dalam 165 marga dan 57 suku, 107 jenis burung, 23 jenis mamalia, tiga jenis primata, 50 jenis ikan, 15 jenis reptilia dan 18 jenis amfibia di setiap hektare Taman Nasional Tesso Nilo. Tesso Nillo juga adalah salah satu sisa hutan dataran rendah yang menjadi tempat tinggal 60-80 ekor gajah dan merupakan kawasan konservasi gajah.\nSepotong jalan milik PT. Riau Andalan Pulp and Paper membelah taman nasional ini. Dilaporkan bahwa pemerintah provinsi berencana untuk memutus jalan ini agar mengurangi kegiatan pembalakan liar (illegal logging).\n"
+    "description": "Taman Nasional Tesso Nilo adalah sebuah taman nasional yang terletak di Kabupaten Pelalawan, Provinsi Riau. Di dalamnya terdapat sedikitnya 360 jenis flora, 107 jenis burung, 50 jenis ikan, 23 jenis mamalia, 18 jenis amfibi, 15 jenis reptil dan 3 jenis primata. Ekosistemnya termasuk hutan hujan tropika yang menjadi kawasan perlindungan gajah berjumlah 60-80 ekor gajah. Kawasan Taman Nasional Tesso Nilo pertama kali ditetapkan oleh Menteri Kehutanan pada tahun 2004 dengan luasan ± 38.576 hektare. Tahun 2009 terbit Keputusan Menteri Kehutanan untuk penambahan luas kawasannya menjadi ± 83.068 hektare. Bersama dengan keseluruhan ekosistemnya, luas lahan yang digunakan seluas 568.700 hektare. Penetapannya sebagai taman nasional dikukuhkan lagi berdasarkan Surat Keputusan Menteri Kehutanan Nomor SK.788/Menhut-II/2012 pada tahun 2012. Permasalahan yang sering dialami oleh Taman Nasional Tesso Nilo adalah perpindahan pemegang hak konsesi. Kondisi ini menyebabkan di Taman Nasional Tesso Nilo sering terjadi perambahan."
   },
   {
     "id": "UH9mN",
     "image": {
       "link": "https://id.wikipedia.org/wiki/Berkas:Sumatran_Rhinoceros_Way_Kambas_2008.jpg",
       "title": "Sumatran Rhinoceros Way Kambas 2008.jpg",
-      "dimensions": "936 x 673",
-      "size": "363 KB",
-      "type": "image/jpeg",
-      "date": "2008-04-30",
-      "source": "https://www.flickr.com/photos/21150935@N07/3244891359/",
+      "date": "2008-04-30T02:36:00.000Z",
+      "original_source": "https://www.flickr.com/photos/21150935@N07/3244891359/",
       "author": "Willem v Strien",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sumatran_Rhinoceros_Way_Kambas_2008.jpg",
       "license": [
         {
-          "type": "CC BY 2.0",
+          "id": 3,
+          "type": "CC-BY-2.0",
+          "name": "Creative Commons Attribution 2.0 Generic",
           "link": "https://creativecommons.org/licenses/by/2.0"
         }
-      ]
+      ],
+      "width": 936,
+      "height": 673,
+      "size": "363 KB",
+      "type": "image/jpeg"
     },
     "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Way_Kambas",
     "name": "Taman Nasional Way Kambas",
-    "year": "1989",
-    "total_area": { "km": "1.300", "miles": "500" },
+    "year": 1989,
+    "total_area": { "km": 1300, "miles": 500 },
     "waters_percentages": "none",
-    "intl_status": "Taman Warisan ASEAN",
+    "intl_status": [
+      {
+        "id": 3,
+        "name": "Taman Warisan ASEAN",
+        "link": "https://en.wikipedia.org/wiki/ASEAN_Heritage_Parks"
+      }
+    ],
     "region": "Sumatra",
-    "description": "Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Selain di Way Kambas, sekolah gajah (Pusat Latihan Gajah) juga bisa ditemui di Minas, Riau. Gajah Sumatra (Elephas maximus sumatranus) yang hidup di kawasan ini semakin berkurang jumlahnya.\nTaman Nasional Way Kambas berdiri pada tahun 1985 merupakan sekolah gajah pertama di Indonesia. Dengan nama awal Pusat Latihan Gajah (PLG) namun semenjak beberapa tahun terakhir ini namanya berubah menjadi Pusat Konservasi Gajah (PKG) yang diharapkan mampu menjadi pusat konservasi gajah dalam penjinakan, pelatihan, perkembangbiakan dan konservasi. Hingga sekarang PKG ini telah melatih sekitar 300 ekor gajah yang sudah disebar ke seluruh penjuru Tanah Air. Di Way Kambas juga tedapat International Rhino Foundation yang bertugas menjaga spesies badak agar tidak terancam punah.\n",
-    "coordinate": { "latitude": "4°55′S", "longitude": "105°45′E" },
+    "description": "Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Selain di Way Kambas, sekolah gajah juga bisa ditemui di Minas, Riau. Gajah Sumatra yang hidup di kawasan ini semakin berkurang jumlahnya.",
+    "coordinate": {
+      "latitude": -4.916944444444445,
+      "longitude": 105.75027777777778
+    },
     "map": "https://id.wikipedia.org/wiki/Berkas:Sumatra_Locator_Topography.png",
     "location": "Kabupaten Lampung Timur, Lampung, Sumatra, Indonesia",
     "established": "1989[1]",
     "visitors": "2.553 (tahun 2007[2])",
     "management": "Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia"
+  },
+  {
+    "id": "pi0KB",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Laiwangi_Wanggameti",
+    "name": "Taman Nasional Laiwangi Wanggameti",
+    "year": 1998,
+    "total_area": { "km": 470, "miles": 180 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Bali dan Nusa Tenggara",
+    "description": "Taman Nasional Laiwangi-Wanggameti adalah sebuah daerah perlindungan flora dan fauna di Pulau Sumba, Provinsi Nusa Tenggara Timur, Indonesia. Berdasarkan Keputusan Menteri Kehutanan dan Perkebunan No.576/Kpts-II/1998 tanggal 3 Agustus 1998, luas kawasan TNLW adalah 470,1 km² mencangkup empat kecamatan di di Kabupaten Sumba Timur. Taman Nasional Laiwangi-Wanggameti merupakan suatu perwakilan berbagai tipe hutan di pulau Sumba, termasuk hutan elfin yang jarang terdapat dan memiliki keanekaragaman jenis bernilai cukup tinggi terutama yang terdapat pada ketinggian 800 meter dari permukaan laut. Musim kunjungan terbaik yaitu bulan Maret sampai dengan Juni dan Oktober sampai dengan Desember setiap tahunnya.",
+    "coordinate": { "latitude": null, "longitude": null },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumba_Locator_Topography.png",
+    "location": "Pulau Sumba, Nusa Tenggara Timur, Indonesia",
+    "established": "1998"
+  },
+  {
+    "id": "Nm3o4",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Manupeu_Tanah_Daru",
+    "name": "Taman Nasional Manupeu Tanah Daru",
+    "year": 1998,
+    "total_area": { "km": 880, "miles": 340 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Bali dan Nusa Tenggara",
+    "description": "Taman Nasional Manupeu-Tanah Daru adalah Taman Nasional yang terletak di Pulau Sumba. Taman Nasional Manupeu Tanah Daru (TNMT) merupakan perwakilan hutan musim semi-peluruh dataran rendah yang tersisa di Pulau Sumba. Kawasan Taman Nasional Manupeu Tanah Daru (TNMT) berdasarkan SK Menhut Nomor SK.576/Kpts-II/1998 memiliki luas 879,8 km² melipiti tiga wilayah kabupaten yaitu Kabupaten Sumba Barat, Kabupaten Sumba Tengah dan Kabupaten Sumba Timur. Taman Nasional Manupeu Tanah Daru (TNMT) berada pada ketinggian wilayah 0 - 918 Mdpl. Manupeu-Tanah Daru belum lama ditunjuk sebagai Taman Nasional, sehingga fasilitas untuk pengunjung masih sangat terbatas. Fasilitas yang tersedia berupa homestay yang dikelola oleh masyarakat sekitar taman nasional. Musim kunjungan terbaik yakni bulan Maret-Juni dan Oktober-Desember setiap tahunnya.",
+    "coordinate": { "latitude": null, "longitude": null },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumba_Locator_Topography.png",
+    "location": "Pulau Sumba, Nusa Tenggara Timur, Indonesia",
+    "established": "1998"
+  },
+  {
+    "id": "lwGQf",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Betung_Kerihun",
+    "name": "Taman Nasional Betung Kerihun",
+    "year": 1995,
+    "total_area": { "km": 8, "miles": 3100 },
+    "waters_percentages": "1",
+    "intl_status": [
+      {
+        "id": 10,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/1871/"
+      }
+    ],
+    "region": "Kalimantan",
+    "description": "Taman Nasional Betung Kerihun adalah taman nasional yang terletak di provinsi Kalimantan Barat, Indonesia. Taman nasional ini didirikan pada tahun 1992, dan memiliki wilayah seluas 8.000 km² .\nBersama dengan Lanjak Entimau di Malaysia, taman nasional ini telah diusulkan menjadi Situs Warisan Dunia UNESCO.",
+    "coordinate": {
+      "latitude": 1.2208333333333334,
+      "longitude": 113.35305555555556
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Borneo_Locator_Topography.png",
+    "location": "Kalimantan Barat, Indonesia",
+    "established": "1992"
+  },
+  {
+    "id": "qgdVW",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Manusela",
+    "name": "Taman Nasional Manusela",
+    "year": 1982,
+    "total_area": { "km": 1890, "miles": 729 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Maluku dan Papua",
+    "description": "Taman Nasional Manusela adalah taman nasional yang terletak di Kepulauan Maluku, Indonesia. Gunung Binaya, dengan ketinggian 3.027 meter, merupakan gunung tertinggi di taman ini. Terdapat sekitar 117 spesies burung, 14 di antaranya endemik, seperti Nuri Bayan, Kasturi tengkuk-ungu, Kakatua Maluku, Todiramphus lazuli, Todiramphus sanctus, Philemon subcorniculatus dan Alisterus amboinensis.",
+    "coordinate": {
+      "latitude": -3.0502777777777776,
+      "longitude": 129.4336111111111
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Maluku_Locator_Topography.png",
+    "location": "Maluku, Indonesia",
+    "established": "1997",
+    "management": "Kementrian Kehutanan"
+  },
+  {
+    "id": "XBy5m",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Teluk_Cenderawasih",
+    "name": "Taman Nasional Teluk Cenderawasih",
+    "year": 2002,
+    "total_area": { "km": 14535, "miles": 5611 },
+    "waters_percentages": "90%",
+    "intl_status": "none",
+    "region": "Maluku dan Papua",
+    "description": "Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9%), daratan pulau-pulau (3,8%), terumbu karang (5,5%), dan perairan lautan (89,8%).",
+    "coordinate": {
+      "latitude": -2.500277777777778,
+      "longitude": 134.6336111111111
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Papua_Locator_Topography.png",
+    "location": "Papua Barat, Indonesia",
+    "established": "2002",
+    "management": "Kementrian Kehutanan"
+  },
+  {
+    "id": "IS2OB",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bantimurung-Bulusaraung",
+    "name": "Taman Nasional Bantimurung-Bulusaraung",
+    "year": 2004,
+    "total_area": { "km": 4375, "miles": 169 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sulawesi",
+    "description": "Taman Nasional Bantimurung-Bulusaraung (disingkat TN Babul) adalah sebuah taman nasional yang ditunjuk menjadi kawasan konservasi berdasarkan Surat Keputusan Menteri Kehutanan RI Nomor SK 398/Menhut-II/2004 tanggal 18 Oktober 2004. TN Babul memiliki luas ± 43.750 ha yang secara admnistratif pemerintahan mencakup tiga wilayah kabupaten yang saling berbatasan, yaitu Kabupaten Maros, Kabupaten Pangkep, dan Kabupaten Bone di Sulawesi Selatan[1]. Secara letak astronomis, TN Babul terletak antara 119°34’17”–119°55’13” Bujur Timur dan antara 4°42’49”–5°06’42” Lintang Selatan. TN Babul merupakan hasil merger lima unit kawasan konservasi yang sebelumnya sudah ada pada era 1970-1980, yaitu Taman Wisata Alam Bantimurung, Taman Wisata Alam Gua Pattunuang, Cagar Alam Bantimurung, Cagar Alam Karaenta, dan Cagar Alam Bulusaraung. Selain itu terdapat kawasan hutan seluas 31.843,10 ha dengan rincian Hutan Lindung seluas 21.343,10 ha, Hutan Produksi Terbatas seluas 145 ha, dan Hutan Produksi Tetap seluas 10.355 ha.[2] Taman nasional ini merupakan taman nasional yang kedua setelah Taman Nasional Taka Bonerate yang ada di Sulawesi Selatan hingga saat ini. Taman nasional ini telah menjadi satu-satunya taman nasional berupa kawasan karst di Indonesia.[2]\nSebagai salah satu kawasan konservasi, TN Babul memegang peranan penting dalam mendukung implementasi arah kebijakan dan strategi pembangunan nasional pada Rencana Pembangunan Jangka Menengah Nasional (RPJMN) yang dititikberatkan pada Pembangunan Lingkungan Hidup dan Pengelolaan Bencana. Fokus prioritas pembangunan tersebut diarahkan pada upaya-upaya yang berkaitan dengan konservasi sumber daya hutan dalam mendukung pertumbuhan ekonomi dan kesejahteraan yang berkelanjutan, dan pelaksanaan pembangunan lintas bidang, yaitu terkait mitigasi dan adaptasi perubahan iklim.\n",
+    "coordinate": {
+      "latitude": -4.900277777777778,
+      "longitude": 119.75027777777778
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Kabupaten Maros, Kabupaten Pangkep & Kabupaten Bone, Sulawesi Selatan, Indonesia",
+    "established": "2004",
+    "management": "Balai TN Babul KLHK (pengelola utama)Pemkab Maros (bagian wilayah MarosPemkab Pangkep (bagian wilayah Pangkep)"
+  },
+  {
+    "id": "8_E_i",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Bogani_Nani_Wartabone",
+    "name": "Taman Nasional Bogani Nani Wartabone",
+    "year": 1991,
+    "total_area": { "km": 2871, "miles": 1108 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sulawesi",
+    "description": "Taman Nasional Bogani Nani Wartabone (TNBNW) adalah sebuah kawasan vegetasi hutan tropis yang ditetapkan sebagai taman nasional pada tahun 1991 dan terletak di Semenanjung Utara, Sulawesi, perbatasan antara provinsi Gorontalo dengan Sulawesi Utara.\nBogani Nani Wartabone merupakan taman nasional darat terbesar di Sulawesi, dengan luas 282.008,757 hektare. Namun, ada perubahan fungsi dan peruntukan berdasarkan Surat Keputusan Menteri Kehutanan Nomor 325 tahun 2010.[1]\nPerubahan fungsi tersebut berupa hutan produksi terbatas (HPT) seluas 15.012 hektare, hutan produksi (12 hektare), dan areal penggunaan lain (167 hektare). Perubahan fungsi kawasan hutan lain menjadi kawasan taman nasional yaitu hutan produksi menjadi taman nasional seluas 1.831 hektare, hutan lindung menjadi taman nasional seluas 8.146 hektare, dan hutan produksi terbatas menjadi taman nasional seluas 462 hektare. Hal ini yang membuat luasan TNBNW berubah yang semula 287.115 hektare menjadi 282.008,757 hektare.[1]\nSebelumnya, taman nasional ini bernama Taman Nasional Dumoga Bone. Hutan tersebut merupakan penggabungan dari Suaka Margasatwa Dumoga (93.500 hektar), Cagar Alam Bulawan (75.200 hektar), dan Suaka Margasatwa Bone (110.000 hektar). Kawasan ini ditetapkan sebagai TNBNW pada 18 November 1992, melalui surat keputusan Menteri Kehutanan saat itu.[2] Nama taman nasional ini sendiri diambil dari nama Nani Wartabone, Pahlawan Nasional Indonesia asal Gorontalo.\nSelain memiliki kekayaan flora dan fauna, taman nasional Bogani Nani Wartabone juga memiliki potensi wisata alam seperti air terjun, sumber air panas, goa batu dan stalaktit Hungayono, habitat burung maleo di Hungayono, dan panorama alam (landscape view) di Bukit Peapata. Namun, yang lebih terkenal di kawasan ini adalah tiga spesies kunci, yaitu burung maleo, anoa, dan babi rusa.[1]\n",
+    "coordinate": { "latitude": 0.5605555555555556, "longitude": 123.68 },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Sulawesi, Indonesia",
+    "established": "1991",
+    "management": "Kementerian Lingkungan Hidup dan Kehutanan"
+  },
+  {
+    "id": "QylTZ",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Rawa_Aopa_Watumohai",
+    "name": "Taman Nasional Rawa Aopa Watumohai",
+    "year": 1989,
+    "total_area": { "km": 1052, "miles": 406 },
+    "waters_percentages": "none",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
+    "region": "Sulawesi",
+    "description": "Taman Nasional Rawa Aopa Watumohai adalah taman nasional yang terletak di provinsi Sulawesi Tenggara, Indonesia. Rawa Aopa Watumohai ditetapkan sebagai taman nasional pada tahun 1989, dan memiliki wilayah seluas 1.050 km². Ketinggian taman ini bervariasi dari di atas permukaan laut hingga ketinggian 981 m.\nTaman ini memiliki beragam vegetasi, seperti hutan mangrove. Di taman nasional ini juga terdapat babirusa, anoa dan 155 spesies burung, 37 di antaranya endemik. Selain itu, di Taman Nasional Rawa Aopa Watumohai terdapat 323 spesies tanaman.\n",
+    "coordinate": {
+      "latitude": -4.383611111111112,
+      "longitude": 121.98361111111112
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sulawesi_location_map_plain.svg",
+    "location": "Sulawesi, Indonesia",
+    "established": "1989"
+  },
+  {
+    "id": "BwDYu",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Taka_Bone_Rate",
+    "name": "Taman Nasional Taka Bone Rate",
+    "year": 2001,
+    "total_area": { "km": 5308, "miles": 2049 },
+    "waters_percentages": "Sebagian besar",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      },
+      {
+        "id": 11,
+        "name": "Calon Situs Warisan Dunia",
+        "link": "http://whc.unesco.org/en/tentativelists/2005/"
+      }
+    ],
+    "region": "Sulawesi",
+    "description": "Taman Nasional Taka Bonerate adalah taman laut yang mempunyai kawasan atol terbesar ketiga di dunia[2][3] setelah Kwajifein di Kepulauan Marshall dan Suvadiva di Kepulauan Maladewa. Luas total dari atol ini 220.000 hektare dengan sebaran terumbu karang mencapai 500 km². Kawasan ini terletak di Kecamatan Takabonerate, Kabupaten Kepulauan Selayar, Sulawesi Selatan, Indonesia.\nSejak Tahun 2005 Taman Nasional Taka Bonerate telah di calonkan ke UNESCO untuk menjadi Situs Warisan Dunia. Dalam rangkaian Hari jadi Kepulauan Selayar di lokasi ini setiap tahunnya diadakan festival yang bertajuk Sail Taka Bonerate atau sebelumnya disebut Takabonerate Island Expedition (TIE)[4].\nAda sebanyak lima belas buah pulau di Taman Nasional Taka Bonerate[1] sehingga sangat bagus untuk kegiatan menyelam, snorkeling, dan wisata bahari lainnya. Topografi kawasan sangat unik dan menarik, di mana atol yang terdiri dari gugusan pulau-pulau gosong karang dan rataan terumbu yang luas dan tenggelam, membentuk pulau-pulau dengan jumlah yang cukup banyak. Di antara pulau-pulau gosong karang, terdapat selat-selat sempit yang dalam dan terjal. Sedangkan pada bagian permukaan rataan terumbu, banyak terdapat kolam kecil yang dalam dan dikelilingi oleh terumbu karang. Pada saat air surut terendah, terlihat dengan jelas daratan kering dan diselingi genangan air yang membentuk kolam-kolam kecil.\n",
+    "coordinate": {
+      "latitude": -6.683611111111111,
+      "longitude": 121.15027777777779
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Kepulauan_Selayar.png",
+    "location": "Sulawesi Selatan, Indonesia",
+    "established": "1992[1]"
+  },
+  {
+    "id": "VIJBc",
+    "image": null,
+    "link": null,
+    "name": "Taman Nasionial Gandang Dewata",
+    "year": 2016,
+    "total_area": { "km": 793, "miles": 306 },
+    "waters_percentages": "none",
+    "region": "Sulawesi"
+  },
+  {
+    "id": "tXenh",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Sembilang",
+    "name": "Taman Nasional Sembilang",
+    "year": 2001,
+    "total_area": { "km": 2051, "miles": 792 },
+    "waters_percentages": "none",
+    "intl_status": [
+      {
+        "id": 1,
+        "name": "Situs Ramsar",
+        "link": "https://id.wikipedia.org/wiki/Situs_Ramsar"
+      }
+    ],
+    "region": "Sumatra",
+    "description": "Taman Nasional Sembilang adalah taman nasional yang terletak di Kabupaten Banyuasin, pesisir Provinsi Sumatra Selatan, Indonesia. Taman Nasional ini memiliki luas sebesar 2.051 km². Taman Nasional Sembilang merupakan habitat bagi harimau Sumatra, gajah Asia, tapir Asia, siamang, kucing emas, rusa Sambar, buaya muara, ikan Sembilang, penyu air tawar raksasa, lumba-lumba air tawar dan berbagai spesies burung.[1] Taman Nasional Sembilang terdiri dari hutan rawa gambut, hutan rawa air tawar dan hutan riparian di Provinsi Sumatra Selatan.\n",
+    "coordinate": {
+      "latitude": -2.0169444444444444,
+      "longitude": 104.55027777777778
+    },
+    "map": "https://id.wikipedia.org/wiki/Berkas:Sumatra_Locator_Topography.png",
+    "location": "Sumatra, Indonesia",
+    "established": "2001",
+    "management": "Kementerian Kehutanan"
+  },
+  {
+    "id": "zCyw4",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Siberut",
+    "name": "Taman Nasional Siberut",
+    "year": 1992,
+    "total_area": { "km": 1905, "miles": 735 },
+    "waters_percentages": "none",
+    "intl_status": [
+      {
+        "id": 4,
+        "name": "World Network of Biosphere Reserves",
+        "link": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves"
+      }
+    ],
+    "region": "Sumatra",
+    "description": "Taman Nasional Siberut terletak di Pulau Siberut, Kabupaten Kepulauan Mentawai, Sumatra Barat. Taman Nasional dengan luas 190.500 hektare ini ditetapkan melalui Surat Keputusan Menteri Kehutanan Nomor 407/Kpts-II/1993. Sebelumnya tahun 1981 pulau ini sudah ditetapkan sebagai cagar biosfer melalui projek Man and Biosphere UNESCO.\nDi Pulau Siberut tercatat antara lain 896 spesies tumbuhan berkayu, 31 spesies mamalia, dan 134 spesies burung. Terdapat empat spesies endemik primata yang terancam punah. Keempat spesies endemik tersebut adalah siamang Mentawai (bilou, Hylobates klossii), lutung (joja, Presbytis potenziani), monyet Mentawai (simakobu, Simias concolor), dan beruk (bokoi, Macaca pagensis).\nFLORA TAMAN NASIONAL SIBERUT Diarsipkan 2011-08-19 di Wayback Machine.\nHutan hujan menyelimuti hampir 65 % Pulau Siberut. Hutan ini merupakan istana bagi kehidupan flora dan fauna dengan menyediakan sumber makanan dan tempat tinggal serta hutan ini juga berfungsi sebagai pendukung kehidupan tradisional masyarakat Mentawai terutama sebagai obat-obatan tradisional.\nFAUNA TAMAN NASIONAL SIBERUT Diarsipkan 2011-10-26 di Wayback Machine.\nHylobates klossii (Bilou atau Siamang Kerdil)\nBilou merupakan jenis primata yang paling terkenal di Mentawai. Secara anatomis termasuk jenis ungko tertua yang masih hidup dengan bulu-bulu yang jarang berwarna hitam gelap dan selaput antara jari kedua dan ketiga. Pekik Bilou paling sederhana di antara pekikan ungko, lebih panjang, bervariasi dan dan tidak dilakukan oleh ungko lainnya.\nBilou hidup berkelompok yang terdiri dari induk jantan dan betina dengan anak-anaknya yang belum dewasa. Bilou termasuk hewan monogami dengan satu keluarga rata-rata tiga sampai empat individu, sedangkan jumlah anggota dalam satu kelompok dapat mencapai 11 individu.\nhttp://tamannasionalsiberut.org\n"
+  },
+  {
+    "id": "QlKnH",
+    "image": null,
+    "link": "https://id.wikipedia.org/wiki/Taman_Nasional_Zamrud",
+    "name": "Taman Nasional Zamrud",
+    "year": 2016,
+    "total_area": { "km": 315, "miles": 121 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sumatra",
+    "description": "Taman Nasional Zamrud adalah taman nasional yang terletak di Kabupaten Siak, Riau. Tanggal penetapannya adalah 22 Juli 2016 oleh Wakil Presiden Indonesia, Jusuf Kalla. Taman Nasional Zamrud merupakan lahan gambut dengan luas 31.480 hektare. Bentang alamnya berupa danau dan pulau. Danau yang masuk dalam kawasannya adalah Danau Pulau Besar (2.416 hektare) dan Danau Bawah (360 hektare). Danau Pulau Besar memiliki empat pulau yaitu Pulau Besar, Pulau Tengah, Pulau Bungsu, dan Pulau Beruk. Taman Nasional Zamrud dihuni oleh 38 jenis burung dengan 12 di antaranya jenis yang dilindungi. Di perairannya terdapat jenis ikan seperti arwana dan belida. Sebelum berstatus sebagai taman nasional, kawasannya masih berstatus suaka margasatwa. Usulan perubahan status dari suaka margasatwa menjadi taman nasional berasal dari pemerintah Kabupaten Siak sejak tahun 2001.[1]\n"
+  },
+  {
+    "id": "8EMt5",
+    "image": null,
+    "link": null,
+    "name": "Taman Nasional Gunung Maras",
+    "year": 2016,
+    "total_area": { "km": 168, "miles": 65 },
+    "waters_percentages": "none",
+    "intl_status": "none",
+    "region": "Sumatra"
   }
 ]
