@@ -1,8 +1,3 @@
-import { PathLike } from 'fs'
-import * as fsp from 'fs/promises'
-
-const FILENAME = 'national-parks.json'
-
 type NationalPark = {
   id: number
   image: Image[] | null
@@ -59,32 +54,9 @@ type Regions =
   | 'Sumatra'
   | ''
 
-async function readData(filename: PathLike | fsp.FileHandle) {
-  const buffer = await fsp.readFile(filename, 'utf-8')
-  const data = JSON.parse(buffer.toString())
-  return data
-}
-
 const resolvers = {
   Query: {
-    nationalParks: async (
-      _parents: unknown,
-      _args: unknown,
-      context: {
-        db: {
-          nationalPark: {
-            findMany: (arg0: {
-              include: {
-                image: { include: { license: boolean } }
-                total_area: boolean
-                intl_status: boolean
-                coordinate: boolean
-              }
-            }) => NationalPark[]
-          }
-        }
-      },
-    ): Promise<NationalPark[]> => {
+    nationalParks: async (_parents: unknown, _args: unknown, context: { db }): Promise<NationalPark[]> => {
       const nationalParks: NationalPark[] = context.db.nationalPark.findMany({
         include: {
           image: {
@@ -100,18 +72,24 @@ const resolvers = {
 
       return nationalParks
     },
-    nationalPark: async (_parents: unknown, args: { id: number }): Promise<NationalPark | null> => {
-      const nationalParks: NationalPark[] = await readData(`./src/data/${FILENAME}`)
-      let nationalPark: NationalPark | null = null
-
-      for (let i = 0; i < nationalParks.length; i++) {
-        const park = nationalParks[i]
-
-        if (args.id === park.id) {
-          nationalPark = park
-          break
-        }
-      }
+    nationalPark: async (
+      _parents: unknown,
+      args: { id: string },
+      context: { db },
+    ): Promise<NationalPark | null> => {
+      const nationalPark: NationalPark | null = context.db.nationalPark.findUnique({
+        where: { id: parseInt(args.id) },
+        include: {
+          image: {
+            include: {
+              license: true,
+            },
+          },
+          total_area: true,
+          intl_status: true,
+          coordinate: true,
+        },
+      })
 
       return nationalPark
     },
