@@ -4,41 +4,50 @@ import * as fsp from 'fs/promises'
 const FILENAME = 'national-parks.json'
 
 type NationalPark = {
-  id: string
-  image: Image | null
-  link: string
+  id: number
+  image: Image[] | null
+  link: string | null
   name: string
   year: number
-  total_area: { km: string; miles: string }
+  total_area: { km: number; miles: number }
   waters_percentages: string | null
-  intl_status: string | string[]
+  intl_status: InternationalStatus[] | [] | null
   region: Regions
-  description: string
-  coordinate: { latitude: string; longitude: string }
-  map: string
-  location: string
-  established: number
-  visitors: string
-  management: string
+  description: string | null
+  coordinate: { latitude: number; longitude: number } | null
+  map: string | null
+  location: string | null
+  established: number | null
+  visitors: string | null
+  management: string | null
+}
+
+type InternationalStatus = {
+  id: number
+  name: string
+  link: string
 }
 
 type Image = {
+  id: number
   link: string
   title: string
-  width: string
-  height: string
+  width: number
+  height: number
   size: string
   type: string
   date: Date | null
   original_source: string | null
   author: string | null
   src: string
-  license: License | License[] | null
+  license: License[] | null
 }
 
 type License = {
-  type: string | null
-  link: string | null
+  id: number
+  type: string
+  name: string
+  link: string
 }
 
 type Regions =
@@ -58,11 +67,40 @@ async function readData(filename: PathLike | fsp.FileHandle) {
 
 const resolvers = {
   Query: {
-    nationalParks: async (): Promise<NationalPark[]> => {
-      const nationalParks: NationalPark[] = await readData(`./src/data/${FILENAME}`)
+    nationalParks: async (
+      _parents: unknown,
+      _args: unknown,
+      context: {
+        db: {
+          nationalPark: {
+            findMany: (arg0: {
+              include: {
+                image: { include: { license: boolean } }
+                total_area: boolean
+                intl_status: boolean
+                coordinate: boolean
+              }
+            }) => NationalPark[]
+          }
+        }
+      },
+    ): Promise<NationalPark[]> => {
+      const nationalParks: NationalPark[] = context.db.nationalPark.findMany({
+        include: {
+          image: {
+            include: {
+              license: true,
+            },
+          },
+          total_area: true,
+          intl_status: true,
+          coordinate: true,
+        },
+      })
+
       return nationalParks
     },
-    nationalPark: async (root: unknown, args: { id: string }): Promise<NationalPark | null> => {
+    nationalPark: async (_parents: unknown, args: { id: number }): Promise<NationalPark | null> => {
       const nationalParks: NationalPark[] = await readData(`./src/data/${FILENAME}`)
       let nationalPark: NationalPark | null = null
 
