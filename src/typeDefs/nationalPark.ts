@@ -40,29 +40,6 @@ const nationalPark = `
     km: Int
     miles: Int 
   }
-
-  type Image {
-    id: Int
-    link: String
-    title: String
-    width: Int
-    height: Int
-    size: String
-    type: String
-    date: Date
-    original_source: String
-    author: String
-    src: String
-    license: [License!]
-    nationalPark: [NationalPark]
-  }
-
-  type License {
-    id: Int
-    type: String
-    name: String
-    link: String
-  }
 `
 
 export default nationalPark

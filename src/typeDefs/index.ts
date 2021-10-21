@@ -1,4 +1,5 @@
 import nationalPark from './nationalPark'
+import image from './image'
 
 const schema = `
   type Query {
@@ -9,4 +10,4 @@ const schema = `
   }
 `
 
-export default [schema, nationalPark]
+export default [schema, nationalPark, image]
