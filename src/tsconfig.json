@@ -1,4 +1,5 @@
 {
+  // https://stackoverflow.com/questions/55753163/package-json-is-not-under-rootdir/61467483#61467483
   "compilerOptions": {
     /* Language and Environment */
     "target": "es5" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
@@ -11,11 +12,10 @@
     "module": "commonjs" /* Specify what module code is generated. */,
     "rootDir": "." /* Specify the root folder within your source files. */,
     "resolveJsonModule": true /* Enable importing .json files */,
-    "composite": true, // required on the dependency project for references to work
 
     /* JavaScript Support */
     "allowJs": true /* Allow JavaScript files to be a part of your program. Use the `checkJS` option to get errors from these files. */,
-    "outDir": "." /* Specify an output folder for all emitted files. */,
+    "outDir": "../build/" /* Specify an output folder for all emitted files. */,
     "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables `allowSyntheticDefaultImports` for type compatibility. */,
     // "preserveSymlinks": true,                         /* Disable resolving symlinks to their realpath. This correlates to the same flag in node. */
     "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
@@ -23,6 +23,7 @@
     /* Type Checking */
     "strict": true /* Enable all strict type-checking options. */,
     "noImplicitAny": false /* Enable error reporting for expressions and declarations with an implied `any` type.. */,
-    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+    "baseUrl": "."
   }
 }
