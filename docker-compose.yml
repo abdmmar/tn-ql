@@ -2,17 +2,32 @@ version: '3.7'
 
 services:
   server:
-    container_name: tn-ql
+    container_name: server
     build:
       context: .
       dockerfile: Dockerfile
     restart: unless-stopped
-    env_file: .env
     ports:
       - 4000:4000
     working_dir: /server
     volumes:
       - prisma:/server/src/prisma
 
+  caddy:
+    container_name: caddy
+    image: caddy:2.4.5-alpine
+    restart: unless-stopped
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - $PWD/Caddyfile:/etc/caddy/Caddyfile
+      - $PWD/site:/srv
+      - caddy_data:/data
+      - caddy_config:/config
+
 volumes:
   prisma:
+  caddy_data:
+    external: true
+  caddy_config:
