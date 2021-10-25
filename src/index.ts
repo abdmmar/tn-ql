@@ -1,6 +1,7 @@
 import { ApolloServer } from 'apollo-server'
 import { ApolloServerPluginLandingPageGraphQLPlayground } from 'apollo-server-core'
 import { PrismaClient } from '@prisma/client'
+import depthLimit from 'graphql-depth-limit'
 
 import typeDefs from './typeDefs'
 import resolvers from './resolvers'
@@ -12,6 +13,7 @@ async function startServer() {
   const server = new ApolloServer({
     typeDefs,
     resolvers,
+    validationRules: [depthLimit(5)],
     plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
     context: {
       db,
